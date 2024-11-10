@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35424.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassificationLearningApp", "src\DeweyDecimalClassificationLearningApp\DeweyDecimalClassificationLearningApp.csproj", "{D8398AEB-B059-4345-9A01-1238CEBCB442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassification.EfCore", "src\DeweyDecimalClassification.EfCore\DeweyDecimalClassification.EfCore.csproj", "{D0BBF4DB-F063-46C9-B20D-48A57DAB7473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassification.Business", "src\DeweyDecimalClassification.Business\DeweyDecimalClassification.Business.csproj", "{1AA40E66-B516-4708-A1C8-C96B771532EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{E6C36282-D7D4-40A9-A4EC-3706E0509843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassification.DatabaseLoader", "tools\DeweyDecimalClassification.DatabaseLoader\DeweyDecimalClassification.DatabaseLoader.csproj", "{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassification.Vms", "src\DeweyDecimalClassification.Vms\DeweyDecimalClassification.Vms.csproj", "{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8398AEB-B059-4345-9A01-1238CEBCB442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8398AEB-B059-4345-9A01-1238CEBCB442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8398AEB-B059-4345-9A01-1238CEBCB442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8398AEB-B059-4345-9A01-1238CEBCB442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BBF4DB-F063-46C9-B20D-48A57DAB7473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BBF4DB-F063-46C9-B20D-48A57DAB7473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BBF4DB-F063-46C9-B20D-48A57DAB7473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BBF4DB-F063-46C9-B20D-48A57DAB7473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA40E66-B516-4708-A1C8-C96B771532EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA40E66-B516-4708-A1C8-C96B771532EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA40E66-B516-4708-A1C8-C96B771532EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA40E66-B516-4708-A1C8-C96B771532EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89} = {E6C36282-D7D4-40A9-A4EC-3706E0509843}
+	EndGlobalSection
+EndGlobal

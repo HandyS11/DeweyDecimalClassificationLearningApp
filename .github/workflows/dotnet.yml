@@ -1,0 +1,40 @@
+name: Build .NET MAUI App (CI)
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Setup Keystore file
+      run: |
+        echo "${{ secrets.KEYSTORE_FILE }}" > ddc.keystore.asc
+        gpg -d --passphrase "${{ secrets.KEYSTORE_PASSWORD_GPG }}" --batch ddc.keystore.asc > ddc.keystore
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 9.0.x
+
+    - name: Install .NET MAUI
+      run: dotnet workload install maui
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build android app
+      run: dotnet build src/DeweyDecimalClassificationLearningApp/DeweyDecimalClassificationLearningApp.csproj -c Release -f net9.0-android /p:AndroidSigningKeyStore=ddc.keystore /p:AndroidSigningKeyAlias=ddckey /p:AndroidSigningKeyPass="${{ secrets.KEYSTORE_PASSWORD }}" /p:AndroidSigningStorePass="${{ secrets.KEYSTORE_PASSWORD }}" --no-restore
+    
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v3.1.0
+      with:
+        path: |
+          ./**/*.aab
+          ./**/*.apk

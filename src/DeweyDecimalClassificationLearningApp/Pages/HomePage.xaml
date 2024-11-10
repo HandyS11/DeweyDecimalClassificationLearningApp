@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DeweyDecimalClassificationLearningApp.Pages.HomePage">
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <VerticalStackLayout
+                Padding="10"
+                Spacing="30">
+                <Image
+                    Source="ddc.png"
+                    HeightRequest="200"
+                    Aspect="AspectFit" />
+
+                <Label
+                    Text="Dewey Decimal Classification"
+                    Style="{StaticResource Headline}"/>
+
+                <Label
+                    Text="Learn the Dewey Decimal Classification with this simple game."
+                    Style="{StaticResource SubHeadline}"/>
+                
+            </VerticalStackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+    
+</ContentPage>

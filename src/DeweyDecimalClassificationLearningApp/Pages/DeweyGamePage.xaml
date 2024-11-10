@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:vm="clr-namespace:DeweyDecimalClassification.Vms;assembly=DeweyDecimalClassification.Vms"
+             xmlns:parts="clr-namespace:DeweyDecimalClassificationLearningApp.Parts;assembly=DeweyDecimalClassificationLearningApp"
+             x:Class="DeweyDecimalClassificationLearningApp.Pages.DeweyGamePage"
+             x:DataType="vm:DeweyGameVm"
+             Title="DeweyGame">
+
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"
+                                        Command="{Binding LoadDeweyEntriesCommand}"/>
+    </ContentPage.Behaviors>
+    
+    <ContentPage.Resources>
+        <toolkit:ItemTappedEventArgsConverter x:Key="ItemTappedEventArgsConverter" />
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <Grid Padding="10, 25">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <Label Text="{Binding DeweyId, StringFormat='What does the ID {0} refer to?'}"
+                   FontSize="Large"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start" />
+
+            <ListView Grid.Row="1" 
+                ItemsSource="{Binding DeweyEntries}"
+                SelectionMode="None"
+                RowHeight="85">
+                <ListView.Behaviors>
+                    <toolkit:EventToCommandBehavior EventName="ItemTapped"
+                                                    EventArgsConverter="{StaticResource ItemTappedEventArgsConverter}"
+                                                    Command="{Binding SelectDeweyEntryCommand}"/>
+                </ListView.Behaviors>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <parts:DeweyItemView/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

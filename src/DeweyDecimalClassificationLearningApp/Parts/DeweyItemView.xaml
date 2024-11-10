@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ViewCell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+          xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+          xmlns:models="clr-namespace:DeweyDecimalClassification.Business.Models;assembly=DeweyDecimalClassification.Business"
+          x:Class="DeweyDecimalClassificationLearningApp.Parts.DeweyItemView"
+          x:DataType="models:SimplifiedDewey">
+
+    <Label Text="{Binding Name}"
+           FontSize="Medium"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+</ViewCell>
