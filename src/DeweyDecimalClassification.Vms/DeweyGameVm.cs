@@ -18,6 +18,9 @@ public partial class DeweyGameVm : ObservableObject
 
     [ObservableProperty]
     private float deweyId;
+    
+    [ObservableProperty]
+    private int streak;
 
     public DeweyGameVm(IDeweyService deweyService)
     {
@@ -26,6 +29,12 @@ public partial class DeweyGameVm : ObservableObject
     }
 
     [RelayCommand]
+    public async Task SetupAsync()
+    {
+        Streak = 0;
+        await LoadDeweyEntriesAsync();
+    }
+    
     public async Task LoadDeweyEntriesAsync()
     {
         var entries = await _deweyService.GetSomeAsync(4);
@@ -50,6 +59,9 @@ public partial class DeweyGameVm : ObservableObject
     public async Task SelectDeweyEntryAsync(SimplifiedDewey selectedEntry)
     {
         var isCorrect = selectedEntry.Id == DeweyId;
+        
+        Streak = isCorrect ? Streak + 1 : 0;
+        
         var correctAnswer = _deweyEntries.FirstOrDefault(e => e.Id == DeweyId)?.Name;
         var message = isCorrect ? $"You won!" : $"You lost! The correct answer was {correctAnswer}.";
         

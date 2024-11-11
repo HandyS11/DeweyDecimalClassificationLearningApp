@@ -10,7 +10,7 @@
 
     <ContentPage.Behaviors>
         <toolkit:EventToCommandBehavior EventName="Loaded"
-                                        Command="{Binding LoadDeweyEntriesCommand}"/>
+                                        Command="{Binding SetupCommand}"/>
     </ContentPage.Behaviors>
     
     <ContentPage.Resources>
@@ -22,6 +22,7 @@
             <Grid.RowDefinitions>
                 <RowDefinition Height="75"/>
                 <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
             
             <Label Text="{Binding DeweyId, StringFormat='What does the ID {0} refer to?'}"
@@ -30,6 +31,7 @@
                    VerticalOptions="Start" />
 
             <ListView Grid.Row="1" 
+                Margin="5"
                 ItemsSource="{Binding DeweyEntries}"
                 SelectionMode="None"
                 RowHeight="85">
@@ -44,6 +46,16 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
+            
+            <VerticalStackLayout Grid.Row="2"
+                                 HorizontalOptions="Center"
+                                 VerticalOptions="Center"
+                                 Margin="5,50">
+                <Label Text="{Binding Streak, StringFormat='Streak: {0}'}"
+                       FontSize="Large"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Start"/>
+            </VerticalStackLayout>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
