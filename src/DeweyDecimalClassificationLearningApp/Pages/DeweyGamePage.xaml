@@ -18,11 +18,11 @@
     </ContentPage.Resources>
 
     <ContentPage.Content>
-        <Grid Padding="10, 25">
+        <Grid Padding="10, 20">
             <Grid.RowDefinitions>
                 <RowDefinition Height="75"/>
                 <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
+                <RowDefinition Height="100"/>
             </Grid.RowDefinitions>
             
             <Label Text="{Binding DeweyId, StringFormat='What does the ID {0} refer to?'}"
