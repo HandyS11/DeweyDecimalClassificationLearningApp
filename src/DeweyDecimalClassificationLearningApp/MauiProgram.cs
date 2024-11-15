@@ -1,4 +1,5 @@
-﻿using CommunityToolkit.Maui;
+﻿using System.Globalization;
+using CommunityToolkit.Maui;
 using DeweyDecimalClassification.Business.Interfaces;
 using DeweyDecimalClassification.Business.Services;
 using DeweyDecimalClassification.EfCore.Context;
@@ -21,7 +22,7 @@ public static class MauiProgram
                 fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
             });
-
+        
         var dbPath = Path.Combine(FileSystem.AppDataDirectory, "DeweyDecimalClassification.db");
         if (!File.Exists(dbPath))
         {
@@ -39,7 +40,11 @@ public static class MauiProgram
 #if DEBUG
         builder.Logging.AddDebug();
 #endif
-
+        
+        var culture = new CultureInfo("fr-FR");
+        CultureInfo.DefaultThreadCurrentCulture = culture;
+        CultureInfo.DefaultThreadCurrentUICulture = culture;
+        
         return builder.Build();
     }
 }

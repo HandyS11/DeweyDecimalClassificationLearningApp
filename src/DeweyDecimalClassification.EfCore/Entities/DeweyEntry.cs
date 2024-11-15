@@ -10,9 +10,9 @@ public class DeweyEntry
     [Required(AllowEmptyStrings = false)]
     [MaxLength(128)]
     public string Name { get; set; } = null!;
-    
+
     public float? ParentId { get; set; }
     public DeweyEntry? Parent { get; set; }
-    
-    public ICollection<DeweyEntry> Children { get; set; }
+
+    public ICollection<DeweyEntry>? Children { get; set; }
 }

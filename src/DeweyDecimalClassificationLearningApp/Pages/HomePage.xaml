@@ -2,6 +2,7 @@
 
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:localization="clr-namespace:DeweyDecimalClassificationLearningApp.Resources.Strings"
              x:Class="DeweyDecimalClassificationLearningApp.Pages.HomePage">
     
     <ContentPage.Content>
@@ -15,11 +16,11 @@
                     Aspect="AspectFit" />
 
                 <Label
-                    Text="Dewey Decimal Classification"
+                    Text="{x:Static localization:AppResources.AppName}"
                     Style="{StaticResource Headline}"/>
 
                 <Label
-                    Text="Learn the Dewey Decimal Classification with this simple game."
+                    Text="{x:Static localization:AppResources.AppSubTitle}"
                     Style="{StaticResource SubHeadline}"/>
                 
             </VerticalStackLayout>

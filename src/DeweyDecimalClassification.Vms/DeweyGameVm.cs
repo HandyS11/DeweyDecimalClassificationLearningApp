@@ -18,7 +18,7 @@ public partial class DeweyGameVm : ObservableObject
 
     [ObservableProperty]
     private float deweyId;
-    
+
     [ObservableProperty]
     private int streak;
 
@@ -34,20 +34,20 @@ public partial class DeweyGameVm : ObservableObject
         Streak = 0;
         await LoadDeweyEntriesAsync();
     }
-    
+
     public async Task LoadDeweyEntriesAsync()
     {
         var entries = await _deweyService.GetSomeAsync(4);
         var simplifiedDeweys = entries.ToList();
-        
+
         _deweyEntries.Clear();
-        
+
         foreach (var entry in simplifiedDeweys)
         {
             Debug.WriteLine($"Id: {entry.Id}, Name: {entry.Name}");
             _deweyEntries.Add(entry);
         }
-        
+
         var random = new Random();
         var i = random.Next(0, simplifiedDeweys.Count);
         var id = simplifiedDeweys.ToList()[i].Id;
@@ -58,16 +58,16 @@ public partial class DeweyGameVm : ObservableObject
     [RelayCommand]
     public async Task SelectDeweyEntryAsync(SimplifiedDewey selectedEntry)
     {
-        var isCorrect = selectedEntry.Id == DeweyId;
-        
+        var isCorrect = selectedEntry.Id.Equals(DeweyId);
+
         Streak = isCorrect ? Streak + 1 : 0;
-        
-        var correctAnswer = _deweyEntries.FirstOrDefault(e => e.Id == DeweyId)?.Name;
+
+        var correctAnswer = _deweyEntries.FirstOrDefault(e => e.Id.Equals(DeweyId))?.Name;
         var message = isCorrect ? $"You won!" : $"You lost! The correct answer was {correctAnswer}.";
-        
+
         var toast = Toast.Make(message, ToastDuration.Long);
         await toast.Show();
-        
+
         await LoadDeweyEntriesAsync();
     }
 }
