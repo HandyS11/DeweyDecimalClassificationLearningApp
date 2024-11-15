@@ -4,9 +4,10 @@
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              xmlns:vm="clr-namespace:DeweyDecimalClassification.Vms;assembly=DeweyDecimalClassification.Vms"
              xmlns:parts="clr-namespace:DeweyDecimalClassificationLearningApp.Parts;assembly=DeweyDecimalClassificationLearningApp"
+             xmlns:localization="clr-namespace:DeweyDecimalClassificationLearningApp.Resources.Strings"
              x:Class="DeweyDecimalClassificationLearningApp.Pages.DeweyGamePage"
              x:DataType="vm:DeweyGameVm"
-             Title="DeweyGame">
+             Title="{x:Static localization:AppResources.DeweyGame}">
 
     <ContentPage.Behaviors>
         <toolkit:EventToCommandBehavior EventName="Loaded"
@@ -25,9 +26,10 @@
                 <RowDefinition Height="100"/>
             </Grid.RowDefinitions>
             
-            <Label Text="{Binding DeweyId, StringFormat='What does the ID {0} refer to?'}"
+            <Label Text="{Binding DeweyId, StringFormat={x:Static localization:AppResources.IdGameQuestion}}"
                    FontSize="Large"
                    HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"
                    VerticalOptions="Start" />
 
             <ListView Grid.Row="1" 
@@ -51,7 +53,7 @@
                                  HorizontalOptions="Center"
                                  VerticalOptions="Center"
                                  Margin="5,50">
-                <Label Text="{Binding Streak, StringFormat='Streak: {0}'}"
+                <Label Text="{Binding Streak, StringFormat={x:Static localization:AppResources.Streak}}"
                        FontSize="Large"
                        HorizontalOptions="Center"
                        VerticalOptions="Start"/>

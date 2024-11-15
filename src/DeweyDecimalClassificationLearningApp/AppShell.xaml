@@ -4,17 +4,18 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:pages="clr-namespace:DeweyDecimalClassificationLearningApp.Pages"
+    xmlns:localization="clr-namespace:DeweyDecimalClassificationLearningApp.Resources.Strings"
     FlyoutBehavior="Disabled"
     Title="DeweyDecimalClassificationLearningApp">
 
     <TabBar>
         <ShellContent
-            Title="Home"
+            Title="{x:Static localization:AppResources.Home}"
             ContentTemplate="{DataTemplate pages:HomePage}"
             Route="HomePage" />
         <ShellContent
-            Title="DeweyGame"
+            Title="{x:Static localization:AppResources.Game}"
             ContentTemplate="{DataTemplate pages:DeweyGamePage}"
-            Route="DeweyGame" />
+            Route="GamePage" />
     </TabBar>
 </Shell>

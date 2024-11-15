@@ -8,5 +8,6 @@
     <Label Text="{Binding Name}"
            FontSize="Medium"
            HorizontalOptions="Center"
+           HorizontalTextAlignment="Center"
            VerticalOptions="Center" />
 </ViewCell>

@@ -1,6 +1,6 @@
 # DeweyDecimalClassificationLearningApp
 
-![](https://github.com/HandyS11/DeweyDecimalClassificationLearningApp/actions/workflows/dotnet.yml/badge.svg)
+![CI](https://github.com/HandyS11/DeweyDecimalClassificationLearningApp/actions/workflows/dotnet.yml/badge.svg)
 
 ## 📝 Purpose
 
