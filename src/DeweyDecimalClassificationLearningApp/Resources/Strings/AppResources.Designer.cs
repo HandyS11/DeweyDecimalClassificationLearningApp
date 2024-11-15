@@ -78,6 +78,8133 @@ namespace DeweyDecimalClassificationLearningApp.Resources.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Computer science, information, general works.
+        /// </summary>
+        internal static string Ddc_000 {
+            get {
+                return ResourceManager.GetString("Ddc_000", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Knowledge.
+        /// </summary>
+        internal static string Ddc_001 {
+            get {
+                return ResourceManager.GetString("Ddc_001", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The book.
+        /// </summary>
+        internal static string Ddc_002 {
+            get {
+                return ResourceManager.GetString("Ddc_002", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Systems.
+        /// </summary>
+        internal static string Ddc_003 {
+            get {
+                return ResourceManager.GetString("Ddc_003", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Computer science.
+        /// </summary>
+        internal static string Ddc_004 {
+            get {
+                return ResourceManager.GetString("Ddc_004", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Computer programming, programs, data, security.
+        /// </summary>
+        internal static string Ddc_005 {
+            get {
+                return ResourceManager.GetString("Ddc_005", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Special computer methods.
+        /// </summary>
+        internal static string Ddc_006 {
+            get {
+                return ResourceManager.GetString("Ddc_006", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bibliography.
+        /// </summary>
+        internal static string Ddc_010 {
+            get {
+                return ResourceManager.GetString("Ddc_010", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bibliographies and catalogs.
+        /// </summary>
+        internal static string Ddc_011 {
+            get {
+                return ResourceManager.GetString("Ddc_011", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bibliographies and catalogs of individuals.
+        /// </summary>
+        internal static string Ddc_012 {
+            get {
+                return ResourceManager.GetString("Ddc_012", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Of anonymous &amp; pseudonymous works.
+        /// </summary>
+        internal static string Ddc_014 {
+            get {
+                return ResourceManager.GetString("Ddc_014", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Of works from specific places.
+        /// </summary>
+        internal static string Ddc_015 {
+            get {
+                return ResourceManager.GetString("Ddc_015", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Of works on specific subjects.
+        /// </summary>
+        internal static string Ddc_016 {
+            get {
+                return ResourceManager.GetString("Ddc_016", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Of works held in specific collections or offered for sale.
+        /// </summary>
+        internal static string Ddc_017 {
+            get {
+                return ResourceManager.GetString("Ddc_017", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Library and information sciences.
+        /// </summary>
+        internal static string Ddc_020 {
+            get {
+                return ResourceManager.GetString("Ddc_020", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relationships of libraries and archives.
+        /// </summary>
+        internal static string Ddc_021 {
+            get {
+                return ResourceManager.GetString("Ddc_021", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Administration of physical plant.
+        /// </summary>
+        internal static string Ddc_022 {
+            get {
+                return ResourceManager.GetString("Ddc_022", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personnel management.
+        /// </summary>
+        internal static string Ddc_023 {
+            get {
+                return ResourceManager.GetString("Ddc_023", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Operations of libraries and archives.
+        /// </summary>
+        internal static string Ddc_025 {
+            get {
+                return ResourceManager.GetString("Ddc_025", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Libraries and archives devoted to specific subjects.
+        /// </summary>
+        internal static string Ddc_026 {
+            get {
+                return ResourceManager.GetString("Ddc_026", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General libraries and archives.
+        /// </summary>
+        internal static string Ddc_027 {
+            get {
+                return ResourceManager.GetString("Ddc_027", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reading and use of other information media.
+        /// </summary>
+        internal static string Ddc_028 {
+            get {
+                return ResourceManager.GetString("Ddc_028", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General encyclopedic works.
+        /// </summary>
+        internal static string Ddc_030 {
+            get {
+                return ResourceManager.GetString("Ddc_030", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General encyclopedic works in American English.
+        /// </summary>
+        internal static string Ddc_031 {
+            get {
+                return ResourceManager.GetString("Ddc_031", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General encyclopedic works in English.
+        /// </summary>
+        internal static string Ddc_032 {
+            get {
+                return ResourceManager.GetString("Ddc_032", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Encyclopedias in other Germanic languages.
+        /// </summary>
+        internal static string Ddc_033 {
+            get {
+                return ResourceManager.GetString("Ddc_033", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Encyclopedias in French, Occitan, Catalan.
+        /// </summary>
+        internal static string Ddc_034 {
+            get {
+                return ResourceManager.GetString("Ddc_034", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Encyclopedias in Italian, Romanian &amp; related languages.
+        /// </summary>
+        internal static string Ddc_035 {
+            get {
+                return ResourceManager.GetString("Ddc_035", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Encyclopedias in Spanish, Portuguese, Galician.
+        /// </summary>
+        internal static string Ddc_036 {
+            get {
+                return ResourceManager.GetString("Ddc_036", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General encyclopedic works in Slavic languages.
+        /// </summary>
+        internal static string Ddc_037 {
+            get {
+                return ResourceManager.GetString("Ddc_037", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General encyclopedic works in Scandinavian languages.
+        /// </summary>
+        internal static string Ddc_038 {
+            get {
+                return ResourceManager.GetString("Ddc_038", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General encyclopedic works in other languages.
+        /// </summary>
+        internal static string Ddc_039 {
+            get {
+                return ResourceManager.GetString("Ddc_039", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General serial publications.
+        /// </summary>
+        internal static string Ddc_050 {
+            get {
+                return ResourceManager.GetString("Ddc_050", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General serial publications in American English.
+        /// </summary>
+        internal static string Ddc_051 {
+            get {
+                return ResourceManager.GetString("Ddc_051", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General serial publications in English.
+        /// </summary>
+        internal static string Ddc_052 {
+            get {
+                return ResourceManager.GetString("Ddc_052", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serials in other Germanic languages.
+        /// </summary>
+        internal static string Ddc_053 {
+            get {
+                return ResourceManager.GetString("Ddc_053", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serials in French, Occitan, Catalan.
+        /// </summary>
+        internal static string Ddc_054 {
+            get {
+                return ResourceManager.GetString("Ddc_054", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serials in Italian, Romanian &amp; related languages.
+        /// </summary>
+        internal static string Ddc_055 {
+            get {
+                return ResourceManager.GetString("Ddc_055", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serials in Spanish, Portuguese, Galician.
+        /// </summary>
+        internal static string Ddc_056 {
+            get {
+                return ResourceManager.GetString("Ddc_056", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General serial publications in Slavic languages.
+        /// </summary>
+        internal static string Ddc_057 {
+            get {
+                return ResourceManager.GetString("Ddc_057", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serials in Scandinavian languages.
+        /// </summary>
+        internal static string Ddc_058 {
+            get {
+                return ResourceManager.GetString("Ddc_058", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General serial publications in other languages.
+        /// </summary>
+        internal static string Ddc_059 {
+            get {
+                return ResourceManager.GetString("Ddc_059", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations &amp; museology.
+        /// </summary>
+        internal static string Ddc_060 {
+            get {
+                return ResourceManager.GetString("Ddc_060", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in North America.
+        /// </summary>
+        internal static string Ddc_061 {
+            get {
+                return ResourceManager.GetString("Ddc_061", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in British Isles; in England.
+        /// </summary>
+        internal static string Ddc_062 {
+            get {
+                return ResourceManager.GetString("Ddc_062", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in Germany.
+        /// </summary>
+        internal static string Ddc_063 {
+            get {
+                return ResourceManager.GetString("Ddc_063", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in France and Monaco.
+        /// </summary>
+        internal static string Ddc_064 {
+            get {
+                return ResourceManager.GetString("Ddc_064", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in Italy.
+        /// </summary>
+        internal static string Ddc_065 {
+            get {
+                return ResourceManager.GetString("Ddc_065", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in Spain.
+        /// </summary>
+        internal static string Ddc_066 {
+            get {
+                return ResourceManager.GetString("Ddc_066", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in Russia.
+        /// </summary>
+        internal static string Ddc_067 {
+            get {
+                return ResourceManager.GetString("Ddc_067", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General organizations in other geographic areas.
+        /// </summary>
+        internal static string Ddc_068 {
+            get {
+                return ResourceManager.GetString("Ddc_068", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Museology (museum science).
+        /// </summary>
+        internal static string Ddc_069 {
+            get {
+                return ResourceManager.GetString("Ddc_069", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Documentary, educational, news media; journalism.
+        /// </summary>
+        internal static string Ddc_070 {
+            get {
+                return ResourceManager.GetString("Ddc_070", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in North America.
+        /// </summary>
+        internal static string Ddc_071 {
+            get {
+                return ResourceManager.GetString("Ddc_071", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in British Isles.
+        /// </summary>
+        internal static string Ddc_072 {
+            get {
+                return ResourceManager.GetString("Ddc_072", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in Germany.
+        /// </summary>
+        internal static string Ddc_073 {
+            get {
+                return ResourceManager.GetString("Ddc_073", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in France and Monaco.
+        /// </summary>
+        internal static string Ddc_074 {
+            get {
+                return ResourceManager.GetString("Ddc_074", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in Italy.
+        /// </summary>
+        internal static string Ddc_075 {
+            get {
+                return ResourceManager.GetString("Ddc_075", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in Spain.
+        /// </summary>
+        internal static string Ddc_076 {
+            get {
+                return ResourceManager.GetString("Ddc_076", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in Russia.
+        /// </summary>
+        internal static string Ddc_077 {
+            get {
+                return ResourceManager.GetString("Ddc_077", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Journalism and newspapers in Scandinavia.
+        /// </summary>
+        internal static string Ddc_078 {
+            get {
+                return ResourceManager.GetString("Ddc_078", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Newspapers in other geographic areas.
+        /// </summary>
+        internal static string Ddc_079 {
+            get {
+                return ResourceManager.GetString("Ddc_079", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections.
+        /// </summary>
+        internal static string Ddc_080 {
+            get {
+                return ResourceManager.GetString("Ddc_080", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in American English.
+        /// </summary>
+        internal static string Ddc_081 {
+            get {
+                return ResourceManager.GetString("Ddc_081", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in English.
+        /// </summary>
+        internal static string Ddc_082 {
+            get {
+                return ResourceManager.GetString("Ddc_082", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in other Germanic languages.
+        /// </summary>
+        internal static string Ddc_083 {
+            get {
+                return ResourceManager.GetString("Ddc_083", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in French, Occitan, Catalan.
+        /// </summary>
+        internal static string Ddc_084 {
+            get {
+                return ResourceManager.GetString("Ddc_084", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Collections in Italian, Romanian &amp; related languages.
+        /// </summary>
+        internal static string Ddc_085 {
+            get {
+                return ResourceManager.GetString("Ddc_085", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Collections in Spanish, Portuguese, Galician.
+        /// </summary>
+        internal static string Ddc_086 {
+            get {
+                return ResourceManager.GetString("Ddc_086", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in Slavic languages.
+        /// </summary>
+        internal static string Ddc_087 {
+            get {
+                return ResourceManager.GetString("Ddc_087", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in Scandinavian languages.
+        /// </summary>
+        internal static string Ddc_088 {
+            get {
+                return ResourceManager.GetString("Ddc_088", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General collections in other languages.
+        /// </summary>
+        internal static string Ddc_089 {
+            get {
+                return ResourceManager.GetString("Ddc_089", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manuscripts, rare books.
+        /// </summary>
+        internal static string Ddc_090 {
+            get {
+                return ResourceManager.GetString("Ddc_090", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manuscripts.
+        /// </summary>
+        internal static string Ddc_091 {
+            get {
+                return ResourceManager.GetString("Ddc_091", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Block books.
+        /// </summary>
+        internal static string Ddc_092 {
+            get {
+                return ResourceManager.GetString("Ddc_092", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Incunabula.
+        /// </summary>
+        internal static string Ddc_093 {
+            get {
+                return ResourceManager.GetString("Ddc_093", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Printed books.
+        /// </summary>
+        internal static string Ddc_094 {
+            get {
+                return ResourceManager.GetString("Ddc_094", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Books notable for bindings.
+        /// </summary>
+        internal static string Ddc_095 {
+            get {
+                return ResourceManager.GetString("Ddc_095", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Books notable for illustrations and materials.
+        /// </summary>
+        internal static string Ddc_096 {
+            get {
+                return ResourceManager.GetString("Ddc_096", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Books notable for ownership or origin.
+        /// </summary>
+        internal static string Ddc_097 {
+            get {
+                return ResourceManager.GetString("Ddc_097", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Prohibited works, forgeries, hoaxes.
+        /// </summary>
+        internal static string Ddc_098 {
+            get {
+                return ResourceManager.GetString("Ddc_098", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Books notable for format.
+        /// </summary>
+        internal static string Ddc_099 {
+            get {
+                return ResourceManager.GetString("Ddc_099", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy &amp; psychology.
+        /// </summary>
+        internal static string Ddc_100 {
+            get {
+                return ResourceManager.GetString("Ddc_100", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Theory of philosophy.
+        /// </summary>
+        internal static string Ddc_101 {
+            get {
+                return ResourceManager.GetString("Ddc_101", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Miscellany of philosophy.
+        /// </summary>
+        internal static string Ddc_102 {
+            get {
+                return ResourceManager.GetString("Ddc_102", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries &amp; encyclopedias.
+        /// </summary>
+        internal static string Ddc_103 {
+            get {
+                return ResourceManager.GetString("Ddc_103", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications of philosophy.
+        /// </summary>
+        internal static string Ddc_105 {
+            get {
+                return ResourceManager.GetString("Ddc_105", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations &amp; management.
+        /// </summary>
+        internal static string Ddc_106 {
+            get {
+                return ResourceManager.GetString("Ddc_106", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research &amp; related topics.
+        /// </summary>
+        internal static string Ddc_107 {
+            get {
+                return ResourceManager.GetString("Ddc_107", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Groups of people.
+        /// </summary>
+        internal static string Ddc_108 {
+            get {
+                return ResourceManager.GetString("Ddc_108", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Historical and collected biography.
+        /// </summary>
+        internal static string Ddc_109 {
+            get {
+                return ResourceManager.GetString("Ddc_109", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Metaphysics.
+        /// </summary>
+        internal static string Ddc_110 {
+            get {
+                return ResourceManager.GetString("Ddc_110", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ontology.
+        /// </summary>
+        internal static string Ddc_111 {
+            get {
+                return ResourceManager.GetString("Ddc_111", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cosmology (Philosophy of nature).
+        /// </summary>
+        internal static string Ddc_113 {
+            get {
+                return ResourceManager.GetString("Ddc_113", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Space.
+        /// </summary>
+        internal static string Ddc_114 {
+            get {
+                return ResourceManager.GetString("Ddc_114", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time.
+        /// </summary>
+        internal static string Ddc_115 {
+            get {
+                return ResourceManager.GetString("Ddc_115", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Change.
+        /// </summary>
+        internal static string Ddc_116 {
+            get {
+                return ResourceManager.GetString("Ddc_116", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Structure.
+        /// </summary>
+        internal static string Ddc_117 {
+            get {
+                return ResourceManager.GetString("Ddc_117", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Force and energy.
+        /// </summary>
+        internal static string Ddc_118 {
+            get {
+                return ResourceManager.GetString("Ddc_118", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Number and quantity.
+        /// </summary>
+        internal static string Ddc_119 {
+            get {
+                return ResourceManager.GetString("Ddc_119", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Epistemology, causation, humankind.
+        /// </summary>
+        internal static string Ddc_120 {
+            get {
+                return ResourceManager.GetString("Ddc_120", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Epistemology (Theory of knowledge).
+        /// </summary>
+        internal static string Ddc_121 {
+            get {
+                return ResourceManager.GetString("Ddc_121", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Causation.
+        /// </summary>
+        internal static string Ddc_122 {
+            get {
+                return ResourceManager.GetString("Ddc_122", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Determinism and indeterminism.
+        /// </summary>
+        internal static string Ddc_123 {
+            get {
+                return ResourceManager.GetString("Ddc_123", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Teleology.
+        /// </summary>
+        internal static string Ddc_124 {
+            get {
+                return ResourceManager.GetString("Ddc_124", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The self.
+        /// </summary>
+        internal static string Ddc_126 {
+            get {
+                return ResourceManager.GetString("Ddc_126", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The unconscious and the subconscious.
+        /// </summary>
+        internal static string Ddc_127 {
+            get {
+                return ResourceManager.GetString("Ddc_127", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Humankind.
+        /// </summary>
+        internal static string Ddc_128 {
+            get {
+                return ResourceManager.GetString("Ddc_128", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Origin and destiny of individual souls.
+        /// </summary>
+        internal static string Ddc_129 {
+            get {
+                return ResourceManager.GetString("Ddc_129", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parapsychology and occultism.
+        /// </summary>
+        internal static string Ddc_130 {
+            get {
+                return ResourceManager.GetString("Ddc_130", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parapsychological and occult methods.
+        /// </summary>
+        internal static string Ddc_131 {
+            get {
+                return ResourceManager.GetString("Ddc_131", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific topics in parapsychology &amp; occultism.
+        /// </summary>
+        internal static string Ddc_133 {
+            get {
+                return ResourceManager.GetString("Ddc_133", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dreams and mysteries.
+        /// </summary>
+        internal static string Ddc_135 {
+            get {
+                return ResourceManager.GetString("Ddc_135", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Divinatory graphology.
+        /// </summary>
+        internal static string Ddc_137 {
+            get {
+                return ResourceManager.GetString("Ddc_137", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Physiognomy.
+        /// </summary>
+        internal static string Ddc_138 {
+            get {
+                return ResourceManager.GetString("Ddc_138", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phrenology.
+        /// </summary>
+        internal static string Ddc_139 {
+            get {
+                return ResourceManager.GetString("Ddc_139", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific philosophical schools.
+        /// </summary>
+        internal static string Ddc_140 {
+            get {
+                return ResourceManager.GetString("Ddc_140", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Idealism and related systems.
+        /// </summary>
+        internal static string Ddc_141 {
+            get {
+                return ResourceManager.GetString("Ddc_141", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Critical philosophy.
+        /// </summary>
+        internal static string Ddc_142 {
+            get {
+                return ResourceManager.GetString("Ddc_142", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bergsonism and intuitionism.
+        /// </summary>
+        internal static string Ddc_143 {
+            get {
+                return ResourceManager.GetString("Ddc_143", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Humanism and related systems.
+        /// </summary>
+        internal static string Ddc_144 {
+            get {
+                return ResourceManager.GetString("Ddc_144", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sensationalism.
+        /// </summary>
+        internal static string Ddc_145 {
+            get {
+                return ResourceManager.GetString("Ddc_145", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Naturalism and related systems.
+        /// </summary>
+        internal static string Ddc_146 {
+            get {
+                return ResourceManager.GetString("Ddc_146", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pantheism and related systems.
+        /// </summary>
+        internal static string Ddc_147 {
+            get {
+                return ResourceManager.GetString("Ddc_147", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dogmatism, eclecticism, liberalism, etc..
+        /// </summary>
+        internal static string Ddc_148 {
+            get {
+                return ResourceManager.GetString("Ddc_148", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other philosophical systems and doctrines.
+        /// </summary>
+        internal static string Ddc_149 {
+            get {
+                return ResourceManager.GetString("Ddc_149", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Psychology.
+        /// </summary>
+        internal static string Ddc_150 {
+            get {
+                return ResourceManager.GetString("Ddc_150", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perception, movement, emotions &amp; drives.
+        /// </summary>
+        internal static string Ddc_152 {
+            get {
+                return ResourceManager.GetString("Ddc_152", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Conscious mental processes &amp; intelligence.
+        /// </summary>
+        internal static string Ddc_153 {
+            get {
+                return ResourceManager.GetString("Ddc_153", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Subconscious &amp; altered states.
+        /// </summary>
+        internal static string Ddc_154 {
+            get {
+                return ResourceManager.GetString("Ddc_154", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Differential &amp; developmental psychology.
+        /// </summary>
+        internal static string Ddc_155 {
+            get {
+                return ResourceManager.GetString("Ddc_155", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Comparative psychology.
+        /// </summary>
+        internal static string Ddc_156 {
+            get {
+                return ResourceManager.GetString("Ddc_156", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Applied psychology.
+        /// </summary>
+        internal static string Ddc_158 {
+            get {
+                return ResourceManager.GetString("Ddc_158", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophical logic.
+        /// </summary>
+        internal static string Ddc_160 {
+            get {
+                return ResourceManager.GetString("Ddc_160", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Induction.
+        /// </summary>
+        internal static string Ddc_161 {
+            get {
+                return ResourceManager.GetString("Ddc_161", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deduction.
+        /// </summary>
+        internal static string Ddc_162 {
+            get {
+                return ResourceManager.GetString("Ddc_162", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fallacies and sources of error.
+        /// </summary>
+        internal static string Ddc_165 {
+            get {
+                return ResourceManager.GetString("Ddc_165", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Syllogisms.
+        /// </summary>
+        internal static string Ddc_166 {
+            get {
+                return ResourceManager.GetString("Ddc_166", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hypotheses.
+        /// </summary>
+        internal static string Ddc_167 {
+            get {
+                return ResourceManager.GetString("Ddc_167", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Argument and persuasion.
+        /// </summary>
+        internal static string Ddc_168 {
+            get {
+                return ResourceManager.GetString("Ddc_168", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Analogy.
+        /// </summary>
+        internal static string Ddc_169 {
+            get {
+                return ResourceManager.GetString("Ddc_169", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethics (Moral philosophy).
+        /// </summary>
+        internal static string Ddc_170 {
+            get {
+                return ResourceManager.GetString("Ddc_170", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethical systems.
+        /// </summary>
+        internal static string Ddc_171 {
+            get {
+                return ResourceManager.GetString("Ddc_171", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Political ethics.
+        /// </summary>
+        internal static string Ddc_172 {
+            get {
+                return ResourceManager.GetString("Ddc_172", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethics of family relationships.
+        /// </summary>
+        internal static string Ddc_173 {
+            get {
+                return ResourceManager.GetString("Ddc_173", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Occupational ethics.
+        /// </summary>
+        internal static string Ddc_174 {
+            get {
+                return ResourceManager.GetString("Ddc_174", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethics of recreation &amp; leisure.
+        /// </summary>
+        internal static string Ddc_175 {
+            get {
+                return ResourceManager.GetString("Ddc_175", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethics of sex and reproduction.
+        /// </summary>
+        internal static string Ddc_176 {
+            get {
+                return ResourceManager.GetString("Ddc_176", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethics of social relations.
+        /// </summary>
+        internal static string Ddc_177 {
+            get {
+                return ResourceManager.GetString("Ddc_177", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethics of consumption.
+        /// </summary>
+        internal static string Ddc_178 {
+            get {
+                return ResourceManager.GetString("Ddc_178", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other ethical norms.
+        /// </summary>
+        internal static string Ddc_179 {
+            get {
+                return ResourceManager.GetString("Ddc_179", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ancient, medieval, eastern philosophy.
+        /// </summary>
+        internal static string Ddc_180 {
+            get {
+                return ResourceManager.GetString("Ddc_180", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eastern philosophy.
+        /// </summary>
+        internal static string Ddc_181 {
+            get {
+                return ResourceManager.GetString("Ddc_181", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pre-Socratic Greek philosophies.
+        /// </summary>
+        internal static string Ddc_182 {
+            get {
+                return ResourceManager.GetString("Ddc_182", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sophistic, Socratic, related philosophies.
+        /// </summary>
+        internal static string Ddc_183 {
+            get {
+                return ResourceManager.GetString("Ddc_183", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Platonic philosophy.
+        /// </summary>
+        internal static string Ddc_184 {
+            get {
+                return ResourceManager.GetString("Ddc_184", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aristotelian philosophy.
+        /// </summary>
+        internal static string Ddc_185 {
+            get {
+                return ResourceManager.GetString("Ddc_185", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Skeptic and Neoplatonic philosophies.
+        /// </summary>
+        internal static string Ddc_186 {
+            get {
+                return ResourceManager.GetString("Ddc_186", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Epicurean philosophy.
+        /// </summary>
+        internal static string Ddc_187 {
+            get {
+                return ResourceManager.GetString("Ddc_187", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stoic philosophy.
+        /// </summary>
+        internal static string Ddc_188 {
+            get {
+                return ResourceManager.GetString("Ddc_188", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Medieval western philosophy.
+        /// </summary>
+        internal static string Ddc_189 {
+            get {
+                return ResourceManager.GetString("Ddc_189", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modern western philosophy.
+        /// </summary>
+        internal static string Ddc_190 {
+            get {
+                return ResourceManager.GetString("Ddc_190", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of United States and Canada.
+        /// </summary>
+        internal static string Ddc_191 {
+            get {
+                return ResourceManager.GetString("Ddc_191", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of British Isles.
+        /// </summary>
+        internal static string Ddc_192 {
+            get {
+                return ResourceManager.GetString("Ddc_192", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of Germany and Austria.
+        /// </summary>
+        internal static string Ddc_193 {
+            get {
+                return ResourceManager.GetString("Ddc_193", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of France.
+        /// </summary>
+        internal static string Ddc_194 {
+            get {
+                return ResourceManager.GetString("Ddc_194", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of Italy.
+        /// </summary>
+        internal static string Ddc_195 {
+            get {
+                return ResourceManager.GetString("Ddc_195", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of Spain and Portugal.
+        /// </summary>
+        internal static string Ddc_196 {
+            get {
+                return ResourceManager.GetString("Ddc_196", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of Russia.
+        /// </summary>
+        internal static string Ddc_197 {
+            get {
+                return ResourceManager.GetString("Ddc_197", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of Scandinavia and Finland.
+        /// </summary>
+        internal static string Ddc_198 {
+            get {
+                return ResourceManager.GetString("Ddc_198", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of other geographic areas.
+        /// </summary>
+        internal static string Ddc_199 {
+            get {
+                return ResourceManager.GetString("Ddc_199", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religion.
+        /// </summary>
+        internal static string Ddc_200 {
+            get {
+                return ResourceManager.GetString("Ddc_200", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religious mythology &amp; social theology.
+        /// </summary>
+        internal static string Ddc_201 {
+            get {
+                return ResourceManager.GetString("Ddc_201", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doctrines.
+        /// </summary>
+        internal static string Ddc_202 {
+            get {
+                return ResourceManager.GetString("Ddc_202", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public worship and other practices.
+        /// </summary>
+        internal static string Ddc_203 {
+            get {
+                return ResourceManager.GetString("Ddc_203", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religious experience, life, practice.
+        /// </summary>
+        internal static string Ddc_204 {
+            get {
+                return ResourceManager.GetString("Ddc_204", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religious ethics.
+        /// </summary>
+        internal static string Ddc_205 {
+            get {
+                return ResourceManager.GetString("Ddc_205", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leaders and organization.
+        /// </summary>
+        internal static string Ddc_206 {
+            get {
+                return ResourceManager.GetString("Ddc_206", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missions and religious education.
+        /// </summary>
+        internal static string Ddc_207 {
+            get {
+                return ResourceManager.GetString("Ddc_207", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sources.
+        /// </summary>
+        internal static string Ddc_208 {
+            get {
+                return ResourceManager.GetString("Ddc_208", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sects and reform movements.
+        /// </summary>
+        internal static string Ddc_209 {
+            get {
+                return ResourceManager.GetString("Ddc_209", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy and theory of religion.
+        /// </summary>
+        internal static string Ddc_210 {
+            get {
+                return ResourceManager.GetString("Ddc_210", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Concepts of God.
+        /// </summary>
+        internal static string Ddc_211 {
+            get {
+                return ResourceManager.GetString("Ddc_211", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Existence, knowability &amp; attributes of God.
+        /// </summary>
+        internal static string Ddc_212 {
+            get {
+                return ResourceManager.GetString("Ddc_212", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creation.
+        /// </summary>
+        internal static string Ddc_213 {
+            get {
+                return ResourceManager.GetString("Ddc_213", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Theodicy.
+        /// </summary>
+        internal static string Ddc_214 {
+            get {
+                return ResourceManager.GetString("Ddc_214", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Science and religion.
+        /// </summary>
+        internal static string Ddc_215 {
+            get {
+                return ResourceManager.GetString("Ddc_215", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Humankind.
+        /// </summary>
+        internal static string Ddc_218 {
+            get {
+                return ResourceManager.GetString("Ddc_218", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bible.
+        /// </summary>
+        internal static string Ddc_220 {
+            get {
+                return ResourceManager.GetString("Ddc_220", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Old Testament (Tanakh).
+        /// </summary>
+        internal static string Ddc_221 {
+            get {
+                return ResourceManager.GetString("Ddc_221", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Historical books of Old Testament.
+        /// </summary>
+        internal static string Ddc_222 {
+            get {
+                return ResourceManager.GetString("Ddc_222", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Poetic books of Old Testament.
+        /// </summary>
+        internal static string Ddc_223 {
+            get {
+                return ResourceManager.GetString("Ddc_223", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Prophetic books of Old Testament.
+        /// </summary>
+        internal static string Ddc_224 {
+            get {
+                return ResourceManager.GetString("Ddc_224", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Testament.
+        /// </summary>
+        internal static string Ddc_225 {
+            get {
+                return ResourceManager.GetString("Ddc_225", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gospels and Acts.
+        /// </summary>
+        internal static string Ddc_226 {
+            get {
+                return ResourceManager.GetString("Ddc_226", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Epistles.
+        /// </summary>
+        internal static string Ddc_227 {
+            get {
+                return ResourceManager.GetString("Ddc_227", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Revelation (Apocalypse).
+        /// </summary>
+        internal static string Ddc_228 {
+            get {
+                return ResourceManager.GetString("Ddc_228", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Apocrypha and pseudepigrapha.
+        /// </summary>
+        internal static string Ddc_229 {
+            get {
+                return ResourceManager.GetString("Ddc_229", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christianity.
+        /// </summary>
+        internal static string Ddc_230 {
+            get {
+                return ResourceManager.GetString("Ddc_230", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to God.
+        /// </summary>
+        internal static string Ddc_231 {
+            get {
+                return ResourceManager.GetString("Ddc_231", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jesus Christ and his family.
+        /// </summary>
+        internal static string Ddc_232 {
+            get {
+                return ResourceManager.GetString("Ddc_232", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Humankind.
+        /// </summary>
+        internal static string Ddc_233 {
+            get {
+                return ResourceManager.GetString("Ddc_233", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Salvation and grace.
+        /// </summary>
+        internal static string Ddc_234 {
+            get {
+                return ResourceManager.GetString("Ddc_234", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spiritual beings.
+        /// </summary>
+        internal static string Ddc_235 {
+            get {
+                return ResourceManager.GetString("Ddc_235", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eschatology.
+        /// </summary>
+        internal static string Ddc_236 {
+            get {
+                return ResourceManager.GetString("Ddc_236", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creeds &amp; catechisms.
+        /// </summary>
+        internal static string Ddc_238 {
+            get {
+                return ResourceManager.GetString("Ddc_238", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Apologetics and polemics.
+        /// </summary>
+        internal static string Ddc_239 {
+            get {
+                return ResourceManager.GetString("Ddc_239", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christian moral and devotional theology.
+        /// </summary>
+        internal static string Ddc_240 {
+            get {
+                return ResourceManager.GetString("Ddc_240", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christian ethics.
+        /// </summary>
+        internal static string Ddc_241 {
+            get {
+                return ResourceManager.GetString("Ddc_241", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Devotional literature.
+        /// </summary>
+        internal static string Ddc_242 {
+            get {
+                return ResourceManager.GetString("Ddc_242", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Evangelistic writings for individuals.
+        /// </summary>
+        internal static string Ddc_243 {
+            get {
+                return ResourceManager.GetString("Ddc_243", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Use of art in Christianity.
+        /// </summary>
+        internal static string Ddc_246 {
+            get {
+                return ResourceManager.GetString("Ddc_246", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Church furnishings and related articles.
+        /// </summary>
+        internal static string Ddc_247 {
+            get {
+                return ResourceManager.GetString("Ddc_247", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christian experience, practice, life.
+        /// </summary>
+        internal static string Ddc_248 {
+            get {
+                return ResourceManager.GetString("Ddc_248", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christian observances in family life.
+        /// </summary>
+        internal static string Ddc_249 {
+            get {
+                return ResourceManager.GetString("Ddc_249", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Local Christian church and religious orders.
+        /// </summary>
+        internal static string Ddc_250 {
+            get {
+                return ResourceManager.GetString("Ddc_250", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Preaching (Homiletics).
+        /// </summary>
+        internal static string Ddc_251 {
+            get {
+                return ResourceManager.GetString("Ddc_251", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Texts of sermons.
+        /// </summary>
+        internal static string Ddc_252 {
+            get {
+                return ResourceManager.GetString("Ddc_252", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pastoral work (Pastoral theology).
+        /// </summary>
+        internal static string Ddc_253 {
+            get {
+                return ResourceManager.GetString("Ddc_253", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Local church administration.
+        /// </summary>
+        internal static string Ddc_254 {
+            get {
+                return ResourceManager.GetString("Ddc_254", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religious congregations and orders.
+        /// </summary>
+        internal static string Ddc_255 {
+            get {
+                return ResourceManager.GetString("Ddc_255", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pastoral care of families &amp; kinds of persons.
+        /// </summary>
+        internal static string Ddc_259 {
+            get {
+                return ResourceManager.GetString("Ddc_259", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christian social and ecclesiastical theology.
+        /// </summary>
+        internal static string Ddc_260 {
+            get {
+                return ResourceManager.GetString("Ddc_260", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social theology and interreligious relations.
+        /// </summary>
+        internal static string Ddc_261 {
+            get {
+                return ResourceManager.GetString("Ddc_261", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ecclesiology.
+        /// </summary>
+        internal static string Ddc_262 {
+            get {
+                return ResourceManager.GetString("Ddc_262", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Days, times, places of religious observance.
+        /// </summary>
+        internal static string Ddc_263 {
+            get {
+                return ResourceManager.GetString("Ddc_263", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public worship.
+        /// </summary>
+        internal static string Ddc_264 {
+            get {
+                return ResourceManager.GetString("Ddc_264", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sacraments, other rites and acts.
+        /// </summary>
+        internal static string Ddc_265 {
+            get {
+                return ResourceManager.GetString("Ddc_265", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Missions.
+        /// </summary>
+        internal static string Ddc_266 {
+            get {
+                return ResourceManager.GetString("Ddc_266", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Associations for religious work.
+        /// </summary>
+        internal static string Ddc_267 {
+            get {
+                return ResourceManager.GetString("Ddc_267", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religious education.
+        /// </summary>
+        internal static string Ddc_268 {
+            get {
+                return ResourceManager.GetString("Ddc_268", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spiritual renewal.
+        /// </summary>
+        internal static string Ddc_269 {
+            get {
+                return ResourceManager.GetString("Ddc_269", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History, geographic treatment, biography.
+        /// </summary>
+        internal static string Ddc_270 {
+            get {
+                return ResourceManager.GetString("Ddc_270", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religious orders in church history.
+        /// </summary>
+        internal static string Ddc_271 {
+            get {
+                return ResourceManager.GetString("Ddc_271", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Persecutions in general church history.
+        /// </summary>
+        internal static string Ddc_272 {
+            get {
+                return ResourceManager.GetString("Ddc_272", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doctrinal controversies &amp; heresies.
+        /// </summary>
+        internal static string Ddc_273 {
+            get {
+                return ResourceManager.GetString("Ddc_273", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Christianity in Europe.
+        /// </summary>
+        internal static string Ddc_274 {
+            get {
+                return ResourceManager.GetString("Ddc_274", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Christianity in Asia.
+        /// </summary>
+        internal static string Ddc_275 {
+            get {
+                return ResourceManager.GetString("Ddc_275", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Christianity in Africa.
+        /// </summary>
+        internal static string Ddc_276 {
+            get {
+                return ResourceManager.GetString("Ddc_276", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Christianity in North America.
+        /// </summary>
+        internal static string Ddc_277 {
+            get {
+                return ResourceManager.GetString("Ddc_277", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Christianity in South America.
+        /// </summary>
+        internal static string Ddc_278 {
+            get {
+                return ResourceManager.GetString("Ddc_278", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Christianity in other areas.
+        /// </summary>
+        internal static string Ddc_279 {
+            get {
+                return ResourceManager.GetString("Ddc_279", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Denominations &amp; sects of Christian church.
+        /// </summary>
+        internal static string Ddc_280 {
+            get {
+                return ResourceManager.GetString("Ddc_280", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Early church and Eastern churches.
+        /// </summary>
+        internal static string Ddc_281 {
+            get {
+                return ResourceManager.GetString("Ddc_281", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Roman Catholic Church.
+        /// </summary>
+        internal static string Ddc_282 {
+            get {
+                return ResourceManager.GetString("Ddc_282", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Anglican churches.
+        /// </summary>
+        internal static string Ddc_283 {
+            get {
+                return ResourceManager.GetString("Ddc_283", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Protestants of Continental origin.
+        /// </summary>
+        internal static string Ddc_284 {
+            get {
+                return ResourceManager.GetString("Ddc_284", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Presbyterian, Reformed &amp; Congregational.
+        /// </summary>
+        internal static string Ddc_285 {
+            get {
+                return ResourceManager.GetString("Ddc_285", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Baptist, Restoration &amp; Adventist.
+        /// </summary>
+        internal static string Ddc_286 {
+            get {
+                return ResourceManager.GetString("Ddc_286", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Methodist and related churches.
+        /// </summary>
+        internal static string Ddc_287 {
+            get {
+                return ResourceManager.GetString("Ddc_287", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other denominations and sects.
+        /// </summary>
+        internal static string Ddc_289 {
+            get {
+                return ResourceManager.GetString("Ddc_289", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other religions.
+        /// </summary>
+        internal static string Ddc_290 {
+            get {
+                return ResourceManager.GetString("Ddc_290", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical religion (Greek &amp; Roman religion).
+        /// </summary>
+        internal static string Ddc_292 {
+            get {
+                return ResourceManager.GetString("Ddc_292", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Germanic religion.
+        /// </summary>
+        internal static string Ddc_293 {
+            get {
+                return ResourceManager.GetString("Ddc_293", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religions of Indic origin.
+        /// </summary>
+        internal static string Ddc_294 {
+            get {
+                return ResourceManager.GetString("Ddc_294", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zoroastrianism (Mazdaism, Parseeism).
+        /// </summary>
+        internal static string Ddc_295 {
+            get {
+                return ResourceManager.GetString("Ddc_295", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Judaism.
+        /// </summary>
+        internal static string Ddc_296 {
+            get {
+                return ResourceManager.GetString("Ddc_296", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Islam, Babism &amp; Bahai Faith.
+        /// </summary>
+        internal static string Ddc_297 {
+            get {
+                return ResourceManager.GetString("Ddc_297", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religions not provided for elsewhere.
+        /// </summary>
+        internal static string Ddc_299 {
+            get {
+                return ResourceManager.GetString("Ddc_299", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social sciences.
+        /// </summary>
+        internal static string Ddc_300 {
+            get {
+                return ResourceManager.GetString("Ddc_300", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sociology and anthropology.
+        /// </summary>
+        internal static string Ddc_301 {
+            get {
+                return ResourceManager.GetString("Ddc_301", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social interaction.
+        /// </summary>
+        internal static string Ddc_302 {
+            get {
+                return ResourceManager.GetString("Ddc_302", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social processes.
+        /// </summary>
+        internal static string Ddc_303 {
+            get {
+                return ResourceManager.GetString("Ddc_303", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Factors affecting social behavior.
+        /// </summary>
+        internal static string Ddc_304 {
+            get {
+                return ResourceManager.GetString("Ddc_304", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Groups of people.
+        /// </summary>
+        internal static string Ddc_305 {
+            get {
+                return ResourceManager.GetString("Ddc_305", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Culture and institutions.
+        /// </summary>
+        internal static string Ddc_306 {
+            get {
+                return ResourceManager.GetString("Ddc_306", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Communities.
+        /// </summary>
+        internal static string Ddc_307 {
+            get {
+                return ResourceManager.GetString("Ddc_307", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Collections of general statistics.
+        /// </summary>
+        internal static string Ddc_310 {
+            get {
+                return ResourceManager.GetString("Ddc_310", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General statistics of Europe.
+        /// </summary>
+        internal static string Ddc_314 {
+            get {
+                return ResourceManager.GetString("Ddc_314", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General statistics of Asia.
+        /// </summary>
+        internal static string Ddc_315 {
+            get {
+                return ResourceManager.GetString("Ddc_315", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General statistics of Africa.
+        /// </summary>
+        internal static string Ddc_316 {
+            get {
+                return ResourceManager.GetString("Ddc_316", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General statistics of North America.
+        /// </summary>
+        internal static string Ddc_317 {
+            get {
+                return ResourceManager.GetString("Ddc_317", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General statistics of South America.
+        /// </summary>
+        internal static string Ddc_318 {
+            get {
+                return ResourceManager.GetString("Ddc_318", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General statistics of other areas.
+        /// </summary>
+        internal static string Ddc_319 {
+            get {
+                return ResourceManager.GetString("Ddc_319", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Political science (Politics and government).
+        /// </summary>
+        internal static string Ddc_320 {
+            get {
+                return ResourceManager.GetString("Ddc_320", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Systems of governments and states.
+        /// </summary>
+        internal static string Ddc_321 {
+            get {
+                return ResourceManager.GetString("Ddc_321", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relation of state to organized groups.
+        /// </summary>
+        internal static string Ddc_322 {
+            get {
+                return ResourceManager.GetString("Ddc_322", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Civil and political rights.
+        /// </summary>
+        internal static string Ddc_323 {
+            get {
+                return ResourceManager.GetString("Ddc_323", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The political process.
+        /// </summary>
+        internal static string Ddc_324 {
+            get {
+                return ResourceManager.GetString("Ddc_324", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to International migration and colonization.
+        /// </summary>
+        internal static string Ddc_325 {
+            get {
+                return ResourceManager.GetString("Ddc_325", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Slavery and emancipation.
+        /// </summary>
+        internal static string Ddc_326 {
+            get {
+                return ResourceManager.GetString("Ddc_326", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to International relations.
+        /// </summary>
+        internal static string Ddc_327 {
+            get {
+                return ResourceManager.GetString("Ddc_327", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The legislative process.
+        /// </summary>
+        internal static string Ddc_328 {
+            get {
+                return ResourceManager.GetString("Ddc_328", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Economics.
+        /// </summary>
+        internal static string Ddc_330 {
+            get {
+                return ResourceManager.GetString("Ddc_330", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Labor economics.
+        /// </summary>
+        internal static string Ddc_331 {
+            get {
+                return ResourceManager.GetString("Ddc_331", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Financial economics.
+        /// </summary>
+        internal static string Ddc_332 {
+            get {
+                return ResourceManager.GetString("Ddc_332", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Economics of land and energy.
+        /// </summary>
+        internal static string Ddc_333 {
+            get {
+                return ResourceManager.GetString("Ddc_333", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cooperatives.
+        /// </summary>
+        internal static string Ddc_334 {
+            get {
+                return ResourceManager.GetString("Ddc_334", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Socialism and related systems.
+        /// </summary>
+        internal static string Ddc_335 {
+            get {
+                return ResourceManager.GetString("Ddc_335", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public finance.
+        /// </summary>
+        internal static string Ddc_336 {
+            get {
+                return ResourceManager.GetString("Ddc_336", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to International economics.
+        /// </summary>
+        internal static string Ddc_337 {
+            get {
+                return ResourceManager.GetString("Ddc_337", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Production.
+        /// </summary>
+        internal static string Ddc_338 {
+            get {
+                return ResourceManager.GetString("Ddc_338", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Macroeconomics and related topics.
+        /// </summary>
+        internal static string Ddc_339 {
+            get {
+                return ResourceManager.GetString("Ddc_339", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Law.
+        /// </summary>
+        internal static string Ddc_340 {
+            get {
+                return ResourceManager.GetString("Ddc_340", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Law of nations.
+        /// </summary>
+        internal static string Ddc_341 {
+            get {
+                return ResourceManager.GetString("Ddc_341", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Constitutional and administrative law.
+        /// </summary>
+        internal static string Ddc_342 {
+            get {
+                return ResourceManager.GetString("Ddc_342", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Military, tax, trade and industrial law.
+        /// </summary>
+        internal static string Ddc_343 {
+            get {
+                return ResourceManager.GetString("Ddc_343", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Labor, social, education &amp; cultural law.
+        /// </summary>
+        internal static string Ddc_344 {
+            get {
+                return ResourceManager.GetString("Ddc_344", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Criminal law.
+        /// </summary>
+        internal static string Ddc_345 {
+            get {
+                return ResourceManager.GetString("Ddc_345", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Private law.
+        /// </summary>
+        internal static string Ddc_346 {
+            get {
+                return ResourceManager.GetString("Ddc_346", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Procedure and courts.
+        /// </summary>
+        internal static string Ddc_347 {
+            get {
+                return ResourceManager.GetString("Ddc_347", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Laws, regulations, cases.
+        /// </summary>
+        internal static string Ddc_348 {
+            get {
+                return ResourceManager.GetString("Ddc_348", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Law of specific jurisdictions &amp; areas.
+        /// </summary>
+        internal static string Ddc_349 {
+            get {
+                return ResourceManager.GetString("Ddc_349", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public administration and military science.
+        /// </summary>
+        internal static string Ddc_350 {
+            get {
+                return ResourceManager.GetString("Ddc_350", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public administration.
+        /// </summary>
+        internal static string Ddc_351 {
+            get {
+                return ResourceManager.GetString("Ddc_351", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General considerations of public administration.
+        /// </summary>
+        internal static string Ddc_352 {
+            get {
+                return ResourceManager.GetString("Ddc_352", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific fields of public administration.
+        /// </summary>
+        internal static string Ddc_353 {
+            get {
+                return ResourceManager.GetString("Ddc_353", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Administration of economy &amp; environment.
+        /// </summary>
+        internal static string Ddc_354 {
+            get {
+                return ResourceManager.GetString("Ddc_354", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Military science.
+        /// </summary>
+        internal static string Ddc_355 {
+            get {
+                return ResourceManager.GetString("Ddc_355", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Foot forces &amp; warfare.
+        /// </summary>
+        internal static string Ddc_356 {
+            get {
+                return ResourceManager.GetString("Ddc_356", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mounted forces &amp; warfare.
+        /// </summary>
+        internal static string Ddc_357 {
+            get {
+                return ResourceManager.GetString("Ddc_357", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Air &amp; other specialized forces.
+        /// </summary>
+        internal static string Ddc_358 {
+            get {
+                return ResourceManager.GetString("Ddc_358", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sea forces &amp; warfare.
+        /// </summary>
+        internal static string Ddc_359 {
+            get {
+                return ResourceManager.GetString("Ddc_359", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social problems &amp; services; associations.
+        /// </summary>
+        internal static string Ddc_360 {
+            get {
+                return ResourceManager.GetString("Ddc_360", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social problems &amp; services.
+        /// </summary>
+        internal static string Ddc_361 {
+            get {
+                return ResourceManager.GetString("Ddc_361", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social problems &amp; services to groups.
+        /// </summary>
+        internal static string Ddc_362 {
+            get {
+                return ResourceManager.GetString("Ddc_362", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other social problems and services.
+        /// </summary>
+        internal static string Ddc_363 {
+            get {
+                return ResourceManager.GetString("Ddc_363", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Criminology.
+        /// </summary>
+        internal static string Ddc_364 {
+            get {
+                return ResourceManager.GetString("Ddc_364", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Penal and related institutions.
+        /// </summary>
+        internal static string Ddc_365 {
+            get {
+                return ResourceManager.GetString("Ddc_365", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Secret associations and societies.
+        /// </summary>
+        internal static string Ddc_366 {
+            get {
+                return ResourceManager.GetString("Ddc_366", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General clubs.
+        /// </summary>
+        internal static string Ddc_367 {
+            get {
+                return ResourceManager.GetString("Ddc_367", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insurance.
+        /// </summary>
+        internal static string Ddc_368 {
+            get {
+                return ResourceManager.GetString("Ddc_368", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Associations.
+        /// </summary>
+        internal static string Ddc_369 {
+            get {
+                return ResourceManager.GetString("Ddc_369", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education.
+        /// </summary>
+        internal static string Ddc_370 {
+            get {
+                return ResourceManager.GetString("Ddc_370", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Schools and their activities; special education.
+        /// </summary>
+        internal static string Ddc_371 {
+            get {
+                return ResourceManager.GetString("Ddc_371", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Primary education (Elementary education).
+        /// </summary>
+        internal static string Ddc_372 {
+            get {
+                return ResourceManager.GetString("Ddc_372", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Secondary education.
+        /// </summary>
+        internal static string Ddc_373 {
+            get {
+                return ResourceManager.GetString("Ddc_373", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Adult education.
+        /// </summary>
+        internal static string Ddc_374 {
+            get {
+                return ResourceManager.GetString("Ddc_374", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Curricula.
+        /// </summary>
+        internal static string Ddc_375 {
+            get {
+                return ResourceManager.GetString("Ddc_375", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Higher education (Tertiary education).
+        /// </summary>
+        internal static string Ddc_378 {
+            get {
+                return ResourceManager.GetString("Ddc_378", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public policy issues in education.
+        /// </summary>
+        internal static string Ddc_379 {
+            get {
+                return ResourceManager.GetString("Ddc_379", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Commerce, communications, transportation.
+        /// </summary>
+        internal static string Ddc_380 {
+            get {
+                return ResourceManager.GetString("Ddc_380", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Commerce (Trade).
+        /// </summary>
+        internal static string Ddc_381 {
+            get {
+                return ResourceManager.GetString("Ddc_381", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to International commerce.
+        /// </summary>
+        internal static string Ddc_382 {
+            get {
+                return ResourceManager.GetString("Ddc_382", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Postal communication.
+        /// </summary>
+        internal static string Ddc_383 {
+            get {
+                return ResourceManager.GetString("Ddc_383", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Communications.
+        /// </summary>
+        internal static string Ddc_384 {
+            get {
+                return ResourceManager.GetString("Ddc_384", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Railroad transportation.
+        /// </summary>
+        internal static string Ddc_385 {
+            get {
+                return ResourceManager.GetString("Ddc_385", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inland waterway and ferry transportation.
+        /// </summary>
+        internal static string Ddc_386 {
+            get {
+                return ResourceManager.GetString("Ddc_386", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Water, air, space transportation.
+        /// </summary>
+        internal static string Ddc_387 {
+            get {
+                return ResourceManager.GetString("Ddc_387", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transportation.
+        /// </summary>
+        internal static string Ddc_388 {
+            get {
+                return ResourceManager.GetString("Ddc_388", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Metrology and standardization.
+        /// </summary>
+        internal static string Ddc_389 {
+            get {
+                return ResourceManager.GetString("Ddc_389", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customs, etiquette, folklore.
+        /// </summary>
+        internal static string Ddc_390 {
+            get {
+                return ResourceManager.GetString("Ddc_390", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Costume and personal appearance.
+        /// </summary>
+        internal static string Ddc_391 {
+            get {
+                return ResourceManager.GetString("Ddc_391", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customs of life cycle and domestic life.
+        /// </summary>
+        internal static string Ddc_392 {
+            get {
+                return ResourceManager.GetString("Ddc_392", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Death customs.
+        /// </summary>
+        internal static string Ddc_393 {
+            get {
+                return ResourceManager.GetString("Ddc_393", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General customs.
+        /// </summary>
+        internal static string Ddc_394 {
+            get {
+                return ResourceManager.GetString("Ddc_394", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etiquette (Manners).
+        /// </summary>
+        internal static string Ddc_395 {
+            get {
+                return ResourceManager.GetString("Ddc_395", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Folklore.
+        /// </summary>
+        internal static string Ddc_398 {
+            get {
+                return ResourceManager.GetString("Ddc_398", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customs of war and diplomacy.
+        /// </summary>
+        internal static string Ddc_399 {
+            get {
+                return ResourceManager.GetString("Ddc_399", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language.
+        /// </summary>
+        internal static string Ddc_400 {
+            get {
+                return ResourceManager.GetString("Ddc_400", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy and theory.
+        /// </summary>
+        internal static string Ddc_401 {
+            get {
+                return ResourceManager.GetString("Ddc_401", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy Miscellany.
+        /// </summary>
+        internal static string Ddc_402 {
+            get {
+                return ResourceManager.GetString("Ddc_402", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries &amp; encyclopedias.
+        /// </summary>
+        internal static string Ddc_403 {
+            get {
+                return ResourceManager.GetString("Ddc_403", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Special topics of language.
+        /// </summary>
+        internal static string Ddc_404 {
+            get {
+                return ResourceManager.GetString("Ddc_404", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications.
+        /// </summary>
+        internal static string Ddc_405 {
+            get {
+                return ResourceManager.GetString("Ddc_405", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations and management.
+        /// </summary>
+        internal static string Ddc_406 {
+            get {
+                return ResourceManager.GetString("Ddc_406", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research, related topics.
+        /// </summary>
+        internal static string Ddc_407 {
+            get {
+                return ResourceManager.GetString("Ddc_407", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Groups of people.
+        /// </summary>
+        internal static string Ddc_408 {
+            get {
+                return ResourceManager.GetString("Ddc_408", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geographic treatment and biography.
+        /// </summary>
+        internal static string Ddc_409 {
+            get {
+                return ResourceManager.GetString("Ddc_409", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Linguistics.
+        /// </summary>
+        internal static string Ddc_410 {
+            get {
+                return ResourceManager.GetString("Ddc_410", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing systems.
+        /// </summary>
+        internal static string Ddc_411 {
+            get {
+                return ResourceManager.GetString("Ddc_411", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology.
+        /// </summary>
+        internal static string Ddc_412 {
+            get {
+                return ResourceManager.GetString("Ddc_412", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries.
+        /// </summary>
+        internal static string Ddc_413 {
+            get {
+                return ResourceManager.GetString("Ddc_413", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phonology &amp; phonetics.
+        /// </summary>
+        internal static string Ddc_414 {
+            get {
+                return ResourceManager.GetString("Ddc_414", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar.
+        /// </summary>
+        internal static string Ddc_415 {
+            get {
+                return ResourceManager.GetString("Ddc_415", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dialectology and historical linguistics.
+        /// </summary>
+        internal static string Ddc_417 {
+            get {
+                return ResourceManager.GetString("Ddc_417", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Applied linguistics.
+        /// </summary>
+        internal static string Ddc_418 {
+            get {
+                return ResourceManager.GetString("Ddc_418", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign languages.
+        /// </summary>
+        internal static string Ddc_419 {
+            get {
+                return ResourceManager.GetString("Ddc_419", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English &amp; Old English (Anglo-Saxon).
+        /// </summary>
+        internal static string Ddc_420 {
+            get {
+                return ResourceManager.GetString("Ddc_420", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_421 {
+            get {
+                return ResourceManager.GetString("Ddc_421", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of standard English.
+        /// </summary>
+        internal static string Ddc_422 {
+            get {
+                return ResourceManager.GetString("Ddc_422", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of standard English.
+        /// </summary>
+        internal static string Ddc_423 {
+            get {
+                return ResourceManager.GetString("Ddc_423", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of standard English.
+        /// </summary>
+        internal static string Ddc_425 {
+            get {
+                return ResourceManager.GetString("Ddc_425", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English language variations.
+        /// </summary>
+        internal static string Ddc_427 {
+            get {
+                return ResourceManager.GetString("Ddc_427", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Standard English usage.
+        /// </summary>
+        internal static string Ddc_428 {
+            get {
+                return ResourceManager.GetString("Ddc_428", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Old English (Anglo-Saxon).
+        /// </summary>
+        internal static string Ddc_429 {
+            get {
+                return ResourceManager.GetString("Ddc_429", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German and related languages.
+        /// </summary>
+        internal static string Ddc_430 {
+            get {
+                return ResourceManager.GetString("Ddc_430", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_431 {
+            get {
+                return ResourceManager.GetString("Ddc_431", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of standard German.
+        /// </summary>
+        internal static string Ddc_432 {
+            get {
+                return ResourceManager.GetString("Ddc_432", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of standard German.
+        /// </summary>
+        internal static string Ddc_433 {
+            get {
+                return ResourceManager.GetString("Ddc_433", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of standard German.
+        /// </summary>
+        internal static string Ddc_435 {
+            get {
+                return ResourceManager.GetString("Ddc_435", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German language variations.
+        /// </summary>
+        internal static string Ddc_437 {
+            get {
+                return ResourceManager.GetString("Ddc_437", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Standard German usage.
+        /// </summary>
+        internal static string Ddc_438 {
+            get {
+                return ResourceManager.GetString("Ddc_438", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other Germanic languages.
+        /// </summary>
+        internal static string Ddc_439 {
+            get {
+                return ResourceManager.GetString("Ddc_439", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French &amp; related Romance languages.
+        /// </summary>
+        internal static string Ddc_440 {
+            get {
+                return ResourceManager.GetString("Ddc_440", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_441 {
+            get {
+                return ResourceManager.GetString("Ddc_441", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of standard French.
+        /// </summary>
+        internal static string Ddc_442 {
+            get {
+                return ResourceManager.GetString("Ddc_442", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of standard French.
+        /// </summary>
+        internal static string Ddc_443 {
+            get {
+                return ResourceManager.GetString("Ddc_443", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of standard French.
+        /// </summary>
+        internal static string Ddc_445 {
+            get {
+                return ResourceManager.GetString("Ddc_445", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French language variations.
+        /// </summary>
+        internal static string Ddc_447 {
+            get {
+                return ResourceManager.GetString("Ddc_447", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Standard French usage.
+        /// </summary>
+        internal static string Ddc_448 {
+            get {
+                return ResourceManager.GetString("Ddc_448", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Occitan, Catalan, Franco-Provençal.
+        /// </summary>
+        internal static string Ddc_449 {
+            get {
+                return ResourceManager.GetString("Ddc_449", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian, Romanian &amp; related languages.
+        /// </summary>
+        internal static string Ddc_450 {
+            get {
+                return ResourceManager.GetString("Ddc_450", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_451 {
+            get {
+                return ResourceManager.GetString("Ddc_451", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of standard Italian.
+        /// </summary>
+        internal static string Ddc_452 {
+            get {
+                return ResourceManager.GetString("Ddc_452", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of standard Italian.
+        /// </summary>
+        internal static string Ddc_453 {
+            get {
+                return ResourceManager.GetString("Ddc_453", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of standard Italian.
+        /// </summary>
+        internal static string Ddc_455 {
+            get {
+                return ResourceManager.GetString("Ddc_455", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian language variations.
+        /// </summary>
+        internal static string Ddc_457 {
+            get {
+                return ResourceManager.GetString("Ddc_457", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Standard Italian usage.
+        /// </summary>
+        internal static string Ddc_458 {
+            get {
+                return ResourceManager.GetString("Ddc_458", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Romanian, Rhaetian, Sardinian, Corsican.
+        /// </summary>
+        internal static string Ddc_459 {
+            get {
+                return ResourceManager.GetString("Ddc_459", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish, Portuguese, Galician.
+        /// </summary>
+        internal static string Ddc_460 {
+            get {
+                return ResourceManager.GetString("Ddc_460", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_461 {
+            get {
+                return ResourceManager.GetString("Ddc_461", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of standard Spanish.
+        /// </summary>
+        internal static string Ddc_462 {
+            get {
+                return ResourceManager.GetString("Ddc_462", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of standard Spanish.
+        /// </summary>
+        internal static string Ddc_463 {
+            get {
+                return ResourceManager.GetString("Ddc_463", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of standard Spanish.
+        /// </summary>
+        internal static string Ddc_465 {
+            get {
+                return ResourceManager.GetString("Ddc_465", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish language variations.
+        /// </summary>
+        internal static string Ddc_467 {
+            get {
+                return ResourceManager.GetString("Ddc_467", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Standard Spanish usage.
+        /// </summary>
+        internal static string Ddc_468 {
+            get {
+                return ResourceManager.GetString("Ddc_468", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Portuguese.
+        /// </summary>
+        internal static string Ddc_469 {
+            get {
+                return ResourceManager.GetString("Ddc_469", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin and related Italic languages.
+        /// </summary>
+        internal static string Ddc_470 {
+            get {
+                return ResourceManager.GetString("Ddc_470", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_471 {
+            get {
+                return ResourceManager.GetString("Ddc_471", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of classical Latin.
+        /// </summary>
+        internal static string Ddc_472 {
+            get {
+                return ResourceManager.GetString("Ddc_472", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of classical Latin.
+        /// </summary>
+        internal static string Ddc_473 {
+            get {
+                return ResourceManager.GetString("Ddc_473", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of classical Latin.
+        /// </summary>
+        internal static string Ddc_475 {
+            get {
+                return ResourceManager.GetString("Ddc_475", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Old, postclassical, Vulgar Latin.
+        /// </summary>
+        internal static string Ddc_477 {
+            get {
+                return ResourceManager.GetString("Ddc_477", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Latin usage.
+        /// </summary>
+        internal static string Ddc_478 {
+            get {
+                return ResourceManager.GetString("Ddc_478", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other Italic languages.
+        /// </summary>
+        internal static string Ddc_479 {
+            get {
+                return ResourceManager.GetString("Ddc_479", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek; Hellenic languages.
+        /// </summary>
+        internal static string Ddc_480 {
+            get {
+                return ResourceManager.GetString("Ddc_480", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Writing system, phonology, phonetics.
+        /// </summary>
+        internal static string Ddc_481 {
+            get {
+                return ResourceManager.GetString("Ddc_481", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etymology of classical Greek.
+        /// </summary>
+        internal static string Ddc_482 {
+            get {
+                return ResourceManager.GetString("Ddc_482", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of classical Greek.
+        /// </summary>
+        internal static string Ddc_483 {
+            get {
+                return ResourceManager.GetString("Ddc_483", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grammar of classical Greek.
+        /// </summary>
+        internal static string Ddc_485 {
+            get {
+                return ResourceManager.GetString("Ddc_485", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Preclassical and postclassical Greek.
+        /// </summary>
+        internal static string Ddc_487 {
+            get {
+                return ResourceManager.GetString("Ddc_487", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek usage.
+        /// </summary>
+        internal static string Ddc_488 {
+            get {
+                return ResourceManager.GetString("Ddc_488", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other Hellenic languages.
+        /// </summary>
+        internal static string Ddc_489 {
+            get {
+                return ResourceManager.GetString("Ddc_489", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other languages.
+        /// </summary>
+        internal static string Ddc_490 {
+            get {
+                return ResourceManager.GetString("Ddc_490", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to East Indo-European and Celtic languages.
+        /// </summary>
+        internal static string Ddc_491 {
+            get {
+                return ResourceManager.GetString("Ddc_491", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Afro-Asiatic languages.
+        /// </summary>
+        internal static string Ddc_492 {
+            get {
+                return ResourceManager.GetString("Ddc_492", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Non-Semitic Afro-Asiatic languages.
+        /// </summary>
+        internal static string Ddc_493 {
+            get {
+                return ResourceManager.GetString("Ddc_493", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Altaic, Uralic, Hyperborean &amp; Dravidian.
+        /// </summary>
+        internal static string Ddc_494 {
+            get {
+                return ResourceManager.GetString("Ddc_494", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Languages of East and Southeast Asia.
+        /// </summary>
+        internal static string Ddc_495 {
+            get {
+                return ResourceManager.GetString("Ddc_495", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to African languages.
+        /// </summary>
+        internal static string Ddc_496 {
+            get {
+                return ResourceManager.GetString("Ddc_496", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to North American native languages.
+        /// </summary>
+        internal static string Ddc_497 {
+            get {
+                return ResourceManager.GetString("Ddc_497", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South American native languages.
+        /// </summary>
+        internal static string Ddc_498 {
+            get {
+                return ResourceManager.GetString("Ddc_498", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Austronesian &amp; other languages.
+        /// </summary>
+        internal static string Ddc_499 {
+            get {
+                return ResourceManager.GetString("Ddc_499", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natural Sciences and Mathemetics.
+        /// </summary>
+        internal static string Ddc_500 {
+            get {
+                return ResourceManager.GetString("Ddc_500", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy and theory.
+        /// </summary>
+        internal static string Ddc_501 {
+            get {
+                return ResourceManager.GetString("Ddc_501", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy Miscellany.
+        /// </summary>
+        internal static string Ddc_502 {
+            get {
+                return ResourceManager.GetString("Ddc_502", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries &amp; encyclopedias.
+        /// </summary>
+        internal static string Ddc_503 {
+            get {
+                return ResourceManager.GetString("Ddc_503", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications.
+        /// </summary>
+        internal static string Ddc_505 {
+            get {
+                return ResourceManager.GetString("Ddc_505", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations and management.
+        /// </summary>
+        internal static string Ddc_506 {
+            get {
+                return ResourceManager.GetString("Ddc_506", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research, related topics.
+        /// </summary>
+        internal static string Ddc_507 {
+            get {
+                return ResourceManager.GetString("Ddc_507", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natural history.
+        /// </summary>
+        internal static string Ddc_508 {
+            get {
+                return ResourceManager.GetString("Ddc_508", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History, geographic treatment, biography.
+        /// </summary>
+        internal static string Ddc_509 {
+            get {
+                return ResourceManager.GetString("Ddc_509", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mathematics.
+        /// </summary>
+        internal static string Ddc_510 {
+            get {
+                return ResourceManager.GetString("Ddc_510", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General principles of mathematics.
+        /// </summary>
+        internal static string Ddc_511 {
+            get {
+                return ResourceManager.GetString("Ddc_511", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Algebra.
+        /// </summary>
+        internal static string Ddc_512 {
+            get {
+                return ResourceManager.GetString("Ddc_512", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Arithmetic.
+        /// </summary>
+        internal static string Ddc_513 {
+            get {
+                return ResourceManager.GetString("Ddc_513", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Topology.
+        /// </summary>
+        internal static string Ddc_514 {
+            get {
+                return ResourceManager.GetString("Ddc_514", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Analysis.
+        /// </summary>
+        internal static string Ddc_515 {
+            get {
+                return ResourceManager.GetString("Ddc_515", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geometry.
+        /// </summary>
+        internal static string Ddc_516 {
+            get {
+                return ResourceManager.GetString("Ddc_516", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Numerical analysis.
+        /// </summary>
+        internal static string Ddc_518 {
+            get {
+                return ResourceManager.GetString("Ddc_518", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Probabilities and applied mathematics.
+        /// </summary>
+        internal static string Ddc_519 {
+            get {
+                return ResourceManager.GetString("Ddc_519", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Astronomy and allied sciences.
+        /// </summary>
+        internal static string Ddc_520 {
+            get {
+                return ResourceManager.GetString("Ddc_520", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Celestial mechanics.
+        /// </summary>
+        internal static string Ddc_521 {
+            get {
+                return ResourceManager.GetString("Ddc_521", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Techniques, equipment &amp; materials.
+        /// </summary>
+        internal static string Ddc_522 {
+            get {
+                return ResourceManager.GetString("Ddc_522", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific celestial bodies and phenomena.
+        /// </summary>
+        internal static string Ddc_523 {
+            get {
+                return ResourceManager.GetString("Ddc_523", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth (Astronomical geography).
+        /// </summary>
+        internal static string Ddc_525 {
+            get {
+                return ResourceManager.GetString("Ddc_525", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mathematical geography.
+        /// </summary>
+        internal static string Ddc_526 {
+            get {
+                return ResourceManager.GetString("Ddc_526", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Celestial navigation.
+        /// </summary>
+        internal static string Ddc_527 {
+            get {
+                return ResourceManager.GetString("Ddc_527", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ephemerides.
+        /// </summary>
+        internal static string Ddc_528 {
+            get {
+                return ResourceManager.GetString("Ddc_528", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chronology.
+        /// </summary>
+        internal static string Ddc_529 {
+            get {
+                return ResourceManager.GetString("Ddc_529", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Physics.
+        /// </summary>
+        internal static string Ddc_530 {
+            get {
+                return ResourceManager.GetString("Ddc_530", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical mechanics.
+        /// </summary>
+        internal static string Ddc_531 {
+            get {
+                return ResourceManager.GetString("Ddc_531", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fluid mechanics.
+        /// </summary>
+        internal static string Ddc_532 {
+            get {
+                return ResourceManager.GetString("Ddc_532", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pneumatics (Gas mechanics).
+        /// </summary>
+        internal static string Ddc_533 {
+            get {
+                return ResourceManager.GetString("Ddc_533", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sound and related vibrations.
+        /// </summary>
+        internal static string Ddc_534 {
+            get {
+                return ResourceManager.GetString("Ddc_534", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Light and related radiation.
+        /// </summary>
+        internal static string Ddc_535 {
+            get {
+                return ResourceManager.GetString("Ddc_535", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Heat.
+        /// </summary>
+        internal static string Ddc_536 {
+            get {
+                return ResourceManager.GetString("Ddc_536", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Electricity and electronics.
+        /// </summary>
+        internal static string Ddc_537 {
+            get {
+                return ResourceManager.GetString("Ddc_537", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Magnetism.
+        /// </summary>
+        internal static string Ddc_538 {
+            get {
+                return ResourceManager.GetString("Ddc_538", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modern physics.
+        /// </summary>
+        internal static string Ddc_539 {
+            get {
+                return ResourceManager.GetString("Ddc_539", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chemistry and allied sciences.
+        /// </summary>
+        internal static string Ddc_540 {
+            get {
+                return ResourceManager.GetString("Ddc_540", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Physical chemistry.
+        /// </summary>
+        internal static string Ddc_541 {
+            get {
+                return ResourceManager.GetString("Ddc_541", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Techniques, equipment &amp; materials.
+        /// </summary>
+        internal static string Ddc_542 {
+            get {
+                return ResourceManager.GetString("Ddc_542", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Analytical chemistry.
+        /// </summary>
+        internal static string Ddc_543 {
+            get {
+                return ResourceManager.GetString("Ddc_543", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inorganic chemistry.
+        /// </summary>
+        internal static string Ddc_546 {
+            get {
+                return ResourceManager.GetString("Ddc_546", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organic chemistry.
+        /// </summary>
+        internal static string Ddc_547 {
+            get {
+                return ResourceManager.GetString("Ddc_547", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Crystallography.
+        /// </summary>
+        internal static string Ddc_548 {
+            get {
+                return ResourceManager.GetString("Ddc_548", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mineralogy.
+        /// </summary>
+        internal static string Ddc_549 {
+            get {
+                return ResourceManager.GetString("Ddc_549", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences.
+        /// </summary>
+        internal static string Ddc_550 {
+            get {
+                return ResourceManager.GetString("Ddc_550", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geology, hydrology, meteorology.
+        /// </summary>
+        internal static string Ddc_551 {
+            get {
+                return ResourceManager.GetString("Ddc_551", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Petrology.
+        /// </summary>
+        internal static string Ddc_552 {
+            get {
+                return ResourceManager.GetString("Ddc_552", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Economic geology.
+        /// </summary>
+        internal static string Ddc_553 {
+            get {
+                return ResourceManager.GetString("Ddc_553", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences of Europe.
+        /// </summary>
+        internal static string Ddc_554 {
+            get {
+                return ResourceManager.GetString("Ddc_554", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences of Asia.
+        /// </summary>
+        internal static string Ddc_555 {
+            get {
+                return ResourceManager.GetString("Ddc_555", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences of Africa.
+        /// </summary>
+        internal static string Ddc_556 {
+            get {
+                return ResourceManager.GetString("Ddc_556", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences of North America.
+        /// </summary>
+        internal static string Ddc_557 {
+            get {
+                return ResourceManager.GetString("Ddc_557", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences of South America.
+        /// </summary>
+        internal static string Ddc_558 {
+            get {
+                return ResourceManager.GetString("Ddc_558", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earth sciences of other areas.
+        /// </summary>
+        internal static string Ddc_559 {
+            get {
+                return ResourceManager.GetString("Ddc_559", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paleontology.
+        /// </summary>
+        internal static string Ddc_560 {
+            get {
+                return ResourceManager.GetString("Ddc_560", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paleobotany; fossil microorganisms.
+        /// </summary>
+        internal static string Ddc_561 {
+            get {
+                return ResourceManager.GetString("Ddc_561", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil invertebrates.
+        /// </summary>
+        internal static string Ddc_562 {
+            get {
+                return ResourceManager.GetString("Ddc_562", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil marine &amp; seashore invertebrates.
+        /// </summary>
+        internal static string Ddc_563 {
+            get {
+                return ResourceManager.GetString("Ddc_563", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil Mollucas &amp; Molluscoidea.
+        /// </summary>
+        internal static string Ddc_564 {
+            get {
+                return ResourceManager.GetString("Ddc_564", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil Arthropoda.
+        /// </summary>
+        internal static string Ddc_565 {
+            get {
+                return ResourceManager.GetString("Ddc_565", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil Chordata.
+        /// </summary>
+        internal static string Ddc_566 {
+            get {
+                return ResourceManager.GetString("Ddc_566", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil cold-blooded vertebrates.
+        /// </summary>
+        internal static string Ddc_567 {
+            get {
+                return ResourceManager.GetString("Ddc_567", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil Aves (birds).
+        /// </summary>
+        internal static string Ddc_568 {
+            get {
+                return ResourceManager.GetString("Ddc_568", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fossil Mammalia.
+        /// </summary>
+        internal static string Ddc_569 {
+            get {
+                return ResourceManager.GetString("Ddc_569", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Biology.
+        /// </summary>
+        internal static string Ddc_570 {
+            get {
+                return ResourceManager.GetString("Ddc_570", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Physiology &amp; related subjects.
+        /// </summary>
+        internal static string Ddc_571 {
+            get {
+                return ResourceManager.GetString("Ddc_571", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Biochemistry.
+        /// </summary>
+        internal static string Ddc_572 {
+            get {
+                return ResourceManager.GetString("Ddc_572", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific physiological systems in animals.
+        /// </summary>
+        internal static string Ddc_573 {
+            get {
+                return ResourceManager.GetString("Ddc_573", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific parts of &amp; systems in plants.
+        /// </summary>
+        internal static string Ddc_575 {
+            get {
+                return ResourceManager.GetString("Ddc_575", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Genetics and evolution.
+        /// </summary>
+        internal static string Ddc_576 {
+            get {
+                return ResourceManager.GetString("Ddc_576", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ecology.
+        /// </summary>
+        internal static string Ddc_577 {
+            get {
+                return ResourceManager.GetString("Ddc_577", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natural history of organisms.
+        /// </summary>
+        internal static string Ddc_578 {
+            get {
+                return ResourceManager.GetString("Ddc_578", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Microorganisms, fungi &amp; algae.
+        /// </summary>
+        internal static string Ddc_579 {
+            get {
+                return ResourceManager.GetString("Ddc_579", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Plants.
+        /// </summary>
+        internal static string Ddc_580 {
+            get {
+                return ResourceManager.GetString("Ddc_580", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific topics in natural history of plants.
+        /// </summary>
+        internal static string Ddc_581 {
+            get {
+                return ResourceManager.GetString("Ddc_581", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Plants noted for characteristics &amp; flowers.
+        /// </summary>
+        internal static string Ddc_582 {
+            get {
+                return ResourceManager.GetString("Ddc_582", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eudicots and Ceratophyllales.
+        /// </summary>
+        internal static string Ddc_583 {
+            get {
+                return ResourceManager.GetString("Ddc_583", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monocots, Chloranthales, magnoliids.
+        /// </summary>
+        internal static string Ddc_584 {
+            get {
+                return ResourceManager.GetString("Ddc_584", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pinophyta.
+        /// </summary>
+        internal static string Ddc_585 {
+            get {
+                return ResourceManager.GetString("Ddc_585", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cryptogamia.
+        /// </summary>
+        internal static string Ddc_586 {
+            get {
+                return ResourceManager.GetString("Ddc_586", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pteridophyta.
+        /// </summary>
+        internal static string Ddc_587 {
+            get {
+                return ResourceManager.GetString("Ddc_587", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bryophyta.
+        /// </summary>
+        internal static string Ddc_588 {
+            get {
+                return ResourceManager.GetString("Ddc_588", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Animals.
+        /// </summary>
+        internal static string Ddc_590 {
+            get {
+                return ResourceManager.GetString("Ddc_590", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific topics in natural history of animals.
+        /// </summary>
+        internal static string Ddc_591 {
+            get {
+                return ResourceManager.GetString("Ddc_591", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invertebrates.
+        /// </summary>
+        internal static string Ddc_592 {
+            get {
+                return ResourceManager.GetString("Ddc_592", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Marine &amp; seashore invertebrates.
+        /// </summary>
+        internal static string Ddc_593 {
+            get {
+                return ResourceManager.GetString("Ddc_593", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mollusca and Molluscoidea.
+        /// </summary>
+        internal static string Ddc_594 {
+            get {
+                return ResourceManager.GetString("Ddc_594", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Arthropoda.
+        /// </summary>
+        internal static string Ddc_595 {
+            get {
+                return ResourceManager.GetString("Ddc_595", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chordata.
+        /// </summary>
+        internal static string Ddc_596 {
+            get {
+                return ResourceManager.GetString("Ddc_596", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cold-blooded vertebrates.
+        /// </summary>
+        internal static string Ddc_597 {
+            get {
+                return ResourceManager.GetString("Ddc_597", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aves.
+        /// </summary>
+        internal static string Ddc_598 {
+            get {
+                return ResourceManager.GetString("Ddc_598", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mammalia.
+        /// </summary>
+        internal static string Ddc_599 {
+            get {
+                return ResourceManager.GetString("Ddc_599", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Technology (Applied sciences).
+        /// </summary>
+        internal static string Ddc_600 {
+            get {
+                return ResourceManager.GetString("Ddc_600", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy and theory.
+        /// </summary>
+        internal static string Ddc_601 {
+            get {
+                return ResourceManager.GetString("Ddc_601", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Miscellany.
+        /// </summary>
+        internal static string Ddc_602 {
+            get {
+                return ResourceManager.GetString("Ddc_602", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries, encyclopedias, concordances.
+        /// </summary>
+        internal static string Ddc_603 {
+            get {
+                return ResourceManager.GetString("Ddc_603", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Technical drawing, hazardous materials.
+        /// </summary>
+        internal static string Ddc_604 {
+            get {
+                return ResourceManager.GetString("Ddc_604", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications.
+        /// </summary>
+        internal static string Ddc_605 {
+            get {
+                return ResourceManager.GetString("Ddc_605", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations.
+        /// </summary>
+        internal static string Ddc_606 {
+            get {
+                return ResourceManager.GetString("Ddc_606", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research, related topics.
+        /// </summary>
+        internal static string Ddc_607 {
+            get {
+                return ResourceManager.GetString("Ddc_607", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Patents.
+        /// </summary>
+        internal static string Ddc_608 {
+            get {
+                return ResourceManager.GetString("Ddc_608", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History, geographic treatment, biography.
+        /// </summary>
+        internal static string Ddc_609 {
+            get {
+                return ResourceManager.GetString("Ddc_609", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Medicine and health.
+        /// </summary>
+        internal static string Ddc_610 {
+            get {
+                return ResourceManager.GetString("Ddc_610", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Human anatomy, cytology, histology.
+        /// </summary>
+        internal static string Ddc_611 {
+            get {
+                return ResourceManager.GetString("Ddc_611", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Human physiology.
+        /// </summary>
+        internal static string Ddc_612 {
+            get {
+                return ResourceManager.GetString("Ddc_612", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal health &amp; safety.
+        /// </summary>
+        internal static string Ddc_613 {
+            get {
+                return ResourceManager.GetString("Ddc_613", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Forensic medicine; incidence of disease.
+        /// </summary>
+        internal static string Ddc_614 {
+            get {
+                return ResourceManager.GetString("Ddc_614", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pharmacology and therapeutics.
+        /// </summary>
+        internal static string Ddc_615 {
+            get {
+                return ResourceManager.GetString("Ddc_615", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Diseases.
+        /// </summary>
+        internal static string Ddc_616 {
+            get {
+                return ResourceManager.GetString("Ddc_616", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Surgery &amp; related medical specialties.
+        /// </summary>
+        internal static string Ddc_617 {
+            get {
+                return ResourceManager.GetString("Ddc_617", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gynecology, obstetrics, pediatrics, geriatrics.
+        /// </summary>
+        internal static string Ddc_618 {
+            get {
+                return ResourceManager.GetString("Ddc_618", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Engineering and allied operations.
+        /// </summary>
+        internal static string Ddc_620 {
+            get {
+                return ResourceManager.GetString("Ddc_620", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Applied physics.
+        /// </summary>
+        internal static string Ddc_621 {
+            get {
+                return ResourceManager.GetString("Ddc_621", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mining and related operations.
+        /// </summary>
+        internal static string Ddc_622 {
+            get {
+                return ResourceManager.GetString("Ddc_622", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Military and nautical engineering.
+        /// </summary>
+        internal static string Ddc_623 {
+            get {
+                return ResourceManager.GetString("Ddc_623", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Civil engineering.
+        /// </summary>
+        internal static string Ddc_624 {
+            get {
+                return ResourceManager.GetString("Ddc_624", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Engineering of railroads and roads.
+        /// </summary>
+        internal static string Ddc_625 {
+            get {
+                return ResourceManager.GetString("Ddc_625", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hydraulic engineering.
+        /// </summary>
+        internal static string Ddc_627 {
+            get {
+                return ResourceManager.GetString("Ddc_627", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sanitary engineering.
+        /// </summary>
+        internal static string Ddc_628 {
+            get {
+                return ResourceManager.GetString("Ddc_628", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other branches of engineering.
+        /// </summary>
+        internal static string Ddc_629 {
+            get {
+                return ResourceManager.GetString("Ddc_629", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Agriculture and related technologies.
+        /// </summary>
+        internal static string Ddc_630 {
+            get {
+                return ResourceManager.GetString("Ddc_630", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Techniques, equipment &amp; materials.
+        /// </summary>
+        internal static string Ddc_631 {
+            get {
+                return ResourceManager.GetString("Ddc_631", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Plant injuries, diseases, pests.
+        /// </summary>
+        internal static string Ddc_632 {
+            get {
+                return ResourceManager.GetString("Ddc_632", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Field and plantation crops.
+        /// </summary>
+        internal static string Ddc_633 {
+            get {
+                return ResourceManager.GetString("Ddc_633", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Orchards, fruits, forestry.
+        /// </summary>
+        internal static string Ddc_634 {
+            get {
+                return ResourceManager.GetString("Ddc_634", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Garden crops (Horticulture).
+        /// </summary>
+        internal static string Ddc_635 {
+            get {
+                return ResourceManager.GetString("Ddc_635", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Animal husbandry.
+        /// </summary>
+        internal static string Ddc_636 {
+            get {
+                return ResourceManager.GetString("Ddc_636", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing dairy and related products.
+        /// </summary>
+        internal static string Ddc_637 {
+            get {
+                return ResourceManager.GetString("Ddc_637", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insect culture.
+        /// </summary>
+        internal static string Ddc_638 {
+            get {
+                return ResourceManager.GetString("Ddc_638", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hunting, fishing &amp; conservation.
+        /// </summary>
+        internal static string Ddc_639 {
+            get {
+                return ResourceManager.GetString("Ddc_639", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Home and family management.
+        /// </summary>
+        internal static string Ddc_640 {
+            get {
+                return ResourceManager.GetString("Ddc_640", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Food and drink.
+        /// </summary>
+        internal static string Ddc_641 {
+            get {
+                return ResourceManager.GetString("Ddc_641", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Meals and table service.
+        /// </summary>
+        internal static string Ddc_642 {
+            get {
+                return ResourceManager.GetString("Ddc_642", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Housing and household equipment.
+        /// </summary>
+        internal static string Ddc_643 {
+            get {
+                return ResourceManager.GetString("Ddc_643", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Household utilities.
+        /// </summary>
+        internal static string Ddc_644 {
+            get {
+                return ResourceManager.GetString("Ddc_644", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Household furnishings.
+        /// </summary>
+        internal static string Ddc_645 {
+            get {
+                return ResourceManager.GetString("Ddc_645", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sewing, clothing &amp; personal living.
+        /// </summary>
+        internal static string Ddc_646 {
+            get {
+                return ResourceManager.GetString("Ddc_646", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Management of public households.
+        /// </summary>
+        internal static string Ddc_647 {
+            get {
+                return ResourceManager.GetString("Ddc_647", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Housekeeping.
+        /// </summary>
+        internal static string Ddc_648 {
+            get {
+                return ResourceManager.GetString("Ddc_648", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Child rearing &amp; home care of people.
+        /// </summary>
+        internal static string Ddc_649 {
+            get {
+                return ResourceManager.GetString("Ddc_649", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Management and auxiliary services.
+        /// </summary>
+        internal static string Ddc_650 {
+            get {
+                return ResourceManager.GetString("Ddc_650", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Office services.
+        /// </summary>
+        internal static string Ddc_651 {
+            get {
+                return ResourceManager.GetString("Ddc_651", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processes of written communication.
+        /// </summary>
+        internal static string Ddc_652 {
+            get {
+                return ResourceManager.GetString("Ddc_652", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Shorthand.
+        /// </summary>
+        internal static string Ddc_653 {
+            get {
+                return ResourceManager.GetString("Ddc_653", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Accounting.
+        /// </summary>
+        internal static string Ddc_657 {
+            get {
+                return ResourceManager.GetString("Ddc_657", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General management.
+        /// </summary>
+        internal static string Ddc_658 {
+            get {
+                return ResourceManager.GetString("Ddc_658", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Advertising and public relations.
+        /// </summary>
+        internal static string Ddc_659 {
+            get {
+                return ResourceManager.GetString("Ddc_659", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chemical engineering.
+        /// </summary>
+        internal static string Ddc_660 {
+            get {
+                return ResourceManager.GetString("Ddc_660", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Technology of industrial chemicals.
+        /// </summary>
+        internal static string Ddc_661 {
+            get {
+                return ResourceManager.GetString("Ddc_661", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Explosives, fuels &amp; related products.
+        /// </summary>
+        internal static string Ddc_662 {
+            get {
+                return ResourceManager.GetString("Ddc_662", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Beverage technology.
+        /// </summary>
+        internal static string Ddc_663 {
+            get {
+                return ResourceManager.GetString("Ddc_663", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Food technology.
+        /// </summary>
+        internal static string Ddc_664 {
+            get {
+                return ResourceManager.GetString("Ddc_664", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Industrial oils, fats, waxes &amp; gases.
+        /// </summary>
+        internal static string Ddc_665 {
+            get {
+                return ResourceManager.GetString("Ddc_665", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ceramic &amp; allied technologies.
+        /// </summary>
+        internal static string Ddc_666 {
+            get {
+                return ResourceManager.GetString("Ddc_666", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cleaning, color &amp; coating technologies.
+        /// </summary>
+        internal static string Ddc_667 {
+            get {
+                return ResourceManager.GetString("Ddc_667", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Technology of other organic products.
+        /// </summary>
+        internal static string Ddc_668 {
+            get {
+                return ResourceManager.GetString("Ddc_668", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Metallurgy.
+        /// </summary>
+        internal static string Ddc_669 {
+            get {
+                return ResourceManager.GetString("Ddc_669", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manufacturing.
+        /// </summary>
+        internal static string Ddc_670 {
+            get {
+                return ResourceManager.GetString("Ddc_670", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Metalworking &amp; primary metal products.
+        /// </summary>
+        internal static string Ddc_671 {
+            get {
+                return ResourceManager.GetString("Ddc_671", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Iron, steel, other iron alloys.
+        /// </summary>
+        internal static string Ddc_672 {
+            get {
+                return ResourceManager.GetString("Ddc_672", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nonferrous metals.
+        /// </summary>
+        internal static string Ddc_673 {
+            get {
+                return ResourceManager.GetString("Ddc_673", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lumber processing, wood products, cork.
+        /// </summary>
+        internal static string Ddc_674 {
+            get {
+                return ResourceManager.GetString("Ddc_674", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leather and fur processing.
+        /// </summary>
+        internal static string Ddc_675 {
+            get {
+                return ResourceManager.GetString("Ddc_675", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pulp and paper technology.
+        /// </summary>
+        internal static string Ddc_676 {
+            get {
+                return ResourceManager.GetString("Ddc_676", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Textiles.
+        /// </summary>
+        internal static string Ddc_677 {
+            get {
+                return ResourceManager.GetString("Ddc_677", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Elastomers and elastomer products.
+        /// </summary>
+        internal static string Ddc_678 {
+            get {
+                return ResourceManager.GetString("Ddc_678", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other products of specific materials.
+        /// </summary>
+        internal static string Ddc_679 {
+            get {
+                return ResourceManager.GetString("Ddc_679", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manufacture of products for specific uses.
+        /// </summary>
+        internal static string Ddc_680 {
+            get {
+                return ResourceManager.GetString("Ddc_680", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Precision instruments and other devices.
+        /// </summary>
+        internal static string Ddc_681 {
+            get {
+                return ResourceManager.GetString("Ddc_681", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Small forge work (Blacksmithing).
+        /// </summary>
+        internal static string Ddc_682 {
+            get {
+                return ResourceManager.GetString("Ddc_682", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hardware &amp; household appliances.
+        /// </summary>
+        internal static string Ddc_683 {
+            get {
+                return ResourceManager.GetString("Ddc_683", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Furnishings and home workshops.
+        /// </summary>
+        internal static string Ddc_684 {
+            get {
+                return ResourceManager.GetString("Ddc_684", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leather, fur goods &amp; related products.
+        /// </summary>
+        internal static string Ddc_685 {
+            get {
+                return ResourceManager.GetString("Ddc_685", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Printing and related activities.
+        /// </summary>
+        internal static string Ddc_686 {
+            get {
+                return ResourceManager.GetString("Ddc_686", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clothing and accessories.
+        /// </summary>
+        internal static string Ddc_687 {
+            get {
+                return ResourceManager.GetString("Ddc_687", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other final products &amp; packaging.
+        /// </summary>
+        internal static string Ddc_688 {
+            get {
+                return ResourceManager.GetString("Ddc_688", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Construction of buildings.
+        /// </summary>
+        internal static string Ddc_690 {
+            get {
+                return ResourceManager.GetString("Ddc_690", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Building materials.
+        /// </summary>
+        internal static string Ddc_691 {
+            get {
+                return ResourceManager.GetString("Ddc_691", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Auxiliary construction practices.
+        /// </summary>
+        internal static string Ddc_692 {
+            get {
+                return ResourceManager.GetString("Ddc_692", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific materials &amp; purposes.
+        /// </summary>
+        internal static string Ddc_693 {
+            get {
+                return ResourceManager.GetString("Ddc_693", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wood construction.
+        /// </summary>
+        internal static string Ddc_694 {
+            get {
+                return ResourceManager.GetString("Ddc_694", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Roof covering.
+        /// </summary>
+        internal static string Ddc_695 {
+            get {
+                return ResourceManager.GetString("Ddc_695", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Utilities.
+        /// </summary>
+        internal static string Ddc_696 {
+            get {
+                return ResourceManager.GetString("Ddc_696", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Heating, ventilating &amp; air-conditioning.
+        /// </summary>
+        internal static string Ddc_697 {
+            get {
+                return ResourceManager.GetString("Ddc_697", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Detail finishing.
+        /// </summary>
+        internal static string Ddc_698 {
+            get {
+                return ResourceManager.GetString("Ddc_698", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The arts.
+        /// </summary>
+        internal static string Ddc_700 {
+            get {
+                return ResourceManager.GetString("Ddc_700", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy of fine &amp; decorative arts.
+        /// </summary>
+        internal static string Ddc_701 {
+            get {
+                return ResourceManager.GetString("Ddc_701", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Miscellany of fine and decorative arts.
+        /// </summary>
+        internal static string Ddc_702 {
+            get {
+                return ResourceManager.GetString("Ddc_702", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries of fine &amp; decorative arts.
+        /// </summary>
+        internal static string Ddc_703 {
+            get {
+                return ResourceManager.GetString("Ddc_703", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Special topics in fine and decorative arts.
+        /// </summary>
+        internal static string Ddc_704 {
+            get {
+                return ResourceManager.GetString("Ddc_704", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications of fine &amp; decorative arts.
+        /// </summary>
+        internal static string Ddc_705 {
+            get {
+                return ResourceManager.GetString("Ddc_705", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations &amp; management.
+        /// </summary>
+        internal static string Ddc_706 {
+            get {
+                return ResourceManager.GetString("Ddc_706", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research &amp; related topics.
+        /// </summary>
+        internal static string Ddc_707 {
+            get {
+                return ResourceManager.GetString("Ddc_707", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Galleries, museums &amp; private collections.
+        /// </summary>
+        internal static string Ddc_708 {
+            get {
+                return ResourceManager.GetString("Ddc_708", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History, geographic treatment, biography.
+        /// </summary>
+        internal static string Ddc_709 {
+            get {
+                return ResourceManager.GetString("Ddc_709", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Area planning and landscape architecture.
+        /// </summary>
+        internal static string Ddc_710 {
+            get {
+                return ResourceManager.GetString("Ddc_710", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Area planning (Civic art).
+        /// </summary>
+        internal static string Ddc_711 {
+            get {
+                return ResourceManager.GetString("Ddc_711", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Landscape architecture (Landscape design).
+        /// </summary>
+        internal static string Ddc_712 {
+            get {
+                return ResourceManager.GetString("Ddc_712", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Landscape architecture of trafficways.
+        /// </summary>
+        internal static string Ddc_713 {
+            get {
+                return ResourceManager.GetString("Ddc_713", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Water features in landscape architecture.
+        /// </summary>
+        internal static string Ddc_714 {
+            get {
+                return ResourceManager.GetString("Ddc_714", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Woody plants in landscape architecture.
+        /// </summary>
+        internal static string Ddc_715 {
+            get {
+                return ResourceManager.GetString("Ddc_715", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Herbaceous plants.
+        /// </summary>
+        internal static string Ddc_716 {
+            get {
+                return ResourceManager.GetString("Ddc_716", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Structures in landscape architecture.
+        /// </summary>
+        internal static string Ddc_717 {
+            get {
+                return ResourceManager.GetString("Ddc_717", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Landscape design of cemeteries.
+        /// </summary>
+        internal static string Ddc_718 {
+            get {
+                return ResourceManager.GetString("Ddc_718", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Natural landscapes.
+        /// </summary>
+        internal static string Ddc_719 {
+            get {
+                return ResourceManager.GetString("Ddc_719", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Architecture.
+        /// </summary>
+        internal static string Ddc_720 {
+            get {
+                return ResourceManager.GetString("Ddc_720", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Architectural materials and structure.
+        /// </summary>
+        internal static string Ddc_721 {
+            get {
+                return ResourceManager.GetString("Ddc_721", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Architecture from earliest times to ca. 300.
+        /// </summary>
+        internal static string Ddc_722 {
+            get {
+                return ResourceManager.GetString("Ddc_722", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Architecture from ca. 300 to 1399.
+        /// </summary>
+        internal static string Ddc_723 {
+            get {
+                return ResourceManager.GetString("Ddc_723", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Architecture from 1400.
+        /// </summary>
+        internal static string Ddc_724 {
+            get {
+                return ResourceManager.GetString("Ddc_724", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public structures.
+        /// </summary>
+        internal static string Ddc_725 {
+            get {
+                return ResourceManager.GetString("Ddc_725", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Buildings for religious and related purposes.
+        /// </summary>
+        internal static string Ddc_726 {
+            get {
+                return ResourceManager.GetString("Ddc_726", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Buildings for education &amp; research.
+        /// </summary>
+        internal static string Ddc_727 {
+            get {
+                return ResourceManager.GetString("Ddc_727", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Residential and related buildings.
+        /// </summary>
+        internal static string Ddc_728 {
+            get {
+                return ResourceManager.GetString("Ddc_728", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Design &amp; decoration.
+        /// </summary>
+        internal static string Ddc_729 {
+            get {
+                return ResourceManager.GetString("Ddc_729", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sculpture and related arts.
+        /// </summary>
+        internal static string Ddc_730 {
+            get {
+                return ResourceManager.GetString("Ddc_730", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processes, forms, subjects of sculpture.
+        /// </summary>
+        internal static string Ddc_731 {
+            get {
+                return ResourceManager.GetString("Ddc_731", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sculpture to ca. 500.
+        /// </summary>
+        internal static string Ddc_732 {
+            get {
+                return ResourceManager.GetString("Ddc_732", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Greek, Etruscan, Roman sculpture.
+        /// </summary>
+        internal static string Ddc_733 {
+            get {
+                return ResourceManager.GetString("Ddc_733", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sculpture from ca. 500 to 1399.
+        /// </summary>
+        internal static string Ddc_734 {
+            get {
+                return ResourceManager.GetString("Ddc_734", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sculpture from 1400.
+        /// </summary>
+        internal static string Ddc_735 {
+            get {
+                return ResourceManager.GetString("Ddc_735", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Carving and carvings.
+        /// </summary>
+        internal static string Ddc_736 {
+            get {
+                return ResourceManager.GetString("Ddc_736", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Numismatics and sigillography.
+        /// </summary>
+        internal static string Ddc_737 {
+            get {
+                return ResourceManager.GetString("Ddc_737", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ceramic arts.
+        /// </summary>
+        internal static string Ddc_738 {
+            get {
+                return ResourceManager.GetString("Ddc_738", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Art metalwork.
+        /// </summary>
+        internal static string Ddc_739 {
+            get {
+                return ResourceManager.GetString("Ddc_739", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Graphic arts and decorative arts.
+        /// </summary>
+        internal static string Ddc_740 {
+            get {
+                return ResourceManager.GetString("Ddc_740", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Drawing and drawings.
+        /// </summary>
+        internal static string Ddc_741 {
+            get {
+                return ResourceManager.GetString("Ddc_741", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perspective in drawing.
+        /// </summary>
+        internal static string Ddc_742 {
+            get {
+                return ResourceManager.GetString("Ddc_742", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Drawing and drawings by subject.
+        /// </summary>
+        internal static string Ddc_743 {
+            get {
+                return ResourceManager.GetString("Ddc_743", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Decorative arts.
+        /// </summary>
+        internal static string Ddc_745 {
+            get {
+                return ResourceManager.GetString("Ddc_745", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Textile arts.
+        /// </summary>
+        internal static string Ddc_746 {
+            get {
+                return ResourceManager.GetString("Ddc_746", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Interior decoration.
+        /// </summary>
+        internal static string Ddc_747 {
+            get {
+                return ResourceManager.GetString("Ddc_747", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Glass.
+        /// </summary>
+        internal static string Ddc_748 {
+            get {
+                return ResourceManager.GetString("Ddc_748", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Furniture and accessories.
+        /// </summary>
+        internal static string Ddc_749 {
+            get {
+                return ResourceManager.GetString("Ddc_749", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Painting and paintings.
+        /// </summary>
+        internal static string Ddc_750 {
+            get {
+                return ResourceManager.GetString("Ddc_750", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Techniques, equipment, materials &amp; forms.
+        /// </summary>
+        internal static string Ddc_751 {
+            get {
+                return ResourceManager.GetString("Ddc_751", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Color.
+        /// </summary>
+        internal static string Ddc_752 {
+            get {
+                return ResourceManager.GetString("Ddc_752", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Symbolism, allegory, mythology, legend.
+        /// </summary>
+        internal static string Ddc_753 {
+            get {
+                return ResourceManager.GetString("Ddc_753", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Genre paintings.
+        /// </summary>
+        internal static string Ddc_754 {
+            get {
+                return ResourceManager.GetString("Ddc_754", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religion.
+        /// </summary>
+        internal static string Ddc_755 {
+            get {
+                return ResourceManager.GetString("Ddc_755", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Human figures.
+        /// </summary>
+        internal static string Ddc_757 {
+            get {
+                return ResourceManager.GetString("Ddc_757", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nature, cityscapes &amp; other subjects.
+        /// </summary>
+        internal static string Ddc_758 {
+            get {
+                return ResourceManager.GetString("Ddc_758", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History, geographic treatment, biography.
+        /// </summary>
+        internal static string Ddc_759 {
+            get {
+                return ResourceManager.GetString("Ddc_759", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Printmaking &amp; prints.
+        /// </summary>
+        internal static string Ddc_760 {
+            get {
+                return ResourceManager.GetString("Ddc_760", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relief processes (Block printing).
+        /// </summary>
+        internal static string Ddc_761 {
+            get {
+                return ResourceManager.GetString("Ddc_761", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lithographic processes.
+        /// </summary>
+        internal static string Ddc_763 {
+            get {
+                return ResourceManager.GetString("Ddc_763", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chromolithography and serigraphy.
+        /// </summary>
+        internal static string Ddc_764 {
+            get {
+                return ResourceManager.GetString("Ddc_764", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Metal engraving.
+        /// </summary>
+        internal static string Ddc_765 {
+            get {
+                return ResourceManager.GetString("Ddc_765", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mezzotinting, aquatinting, related processes.
+        /// </summary>
+        internal static string Ddc_766 {
+            get {
+                return ResourceManager.GetString("Ddc_766", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Etching and drypoint.
+        /// </summary>
+        internal static string Ddc_767 {
+            get {
+                return ResourceManager.GetString("Ddc_767", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Prints.
+        /// </summary>
+        internal static string Ddc_769 {
+            get {
+                return ResourceManager.GetString("Ddc_769", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Photography, computer art, cinematography.
+        /// </summary>
+        internal static string Ddc_770 {
+            get {
+                return ResourceManager.GetString("Ddc_770", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Techniques, equipment &amp; materials.
+        /// </summary>
+        internal static string Ddc_771 {
+            get {
+                return ResourceManager.GetString("Ddc_771", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Metallic salt processes.
+        /// </summary>
+        internal static string Ddc_772 {
+            get {
+                return ResourceManager.GetString("Ddc_772", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pigment processes of printing.
+        /// </summary>
+        internal static string Ddc_773 {
+            get {
+                return ResourceManager.GetString("Ddc_773", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Holography.
+        /// </summary>
+        internal static string Ddc_774 {
+            get {
+                return ResourceManager.GetString("Ddc_774", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Computer art (Digital art).
+        /// </summary>
+        internal static string Ddc_776 {
+            get {
+                return ResourceManager.GetString("Ddc_776", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cinematography and videography.
+        /// </summary>
+        internal static string Ddc_777 {
+            get {
+                return ResourceManager.GetString("Ddc_777", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specific fields &amp; kinds of photography.
+        /// </summary>
+        internal static string Ddc_778 {
+            get {
+                return ResourceManager.GetString("Ddc_778", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Photographic images.
+        /// </summary>
+        internal static string Ddc_779 {
+            get {
+                return ResourceManager.GetString("Ddc_779", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Music.
+        /// </summary>
+        internal static string Ddc_780 {
+            get {
+                return ResourceManager.GetString("Ddc_780", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to General principles and musical forms.
+        /// </summary>
+        internal static string Ddc_781 {
+            get {
+                return ResourceManager.GetString("Ddc_781", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vocal music.
+        /// </summary>
+        internal static string Ddc_782 {
+            get {
+                return ResourceManager.GetString("Ddc_782", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Music for single voices.
+        /// </summary>
+        internal static string Ddc_783 {
+            get {
+                return ResourceManager.GetString("Ddc_783", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Instruments &amp; instrumental ensembles.
+        /// </summary>
+        internal static string Ddc_784 {
+            get {
+                return ResourceManager.GetString("Ddc_784", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ensembles with one instrument per part.
+        /// </summary>
+        internal static string Ddc_785 {
+            get {
+                return ResourceManager.GetString("Ddc_785", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Keyboard &amp; other instruments.
+        /// </summary>
+        internal static string Ddc_786 {
+            get {
+                return ResourceManager.GetString("Ddc_786", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stringed instruments (Chordophones).
+        /// </summary>
+        internal static string Ddc_787 {
+            get {
+                return ResourceManager.GetString("Ddc_787", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wind instruments (Aerophones).
+        /// </summary>
+        internal static string Ddc_788 {
+            get {
+                return ResourceManager.GetString("Ddc_788", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Recreational and performing arts.
+        /// </summary>
+        internal static string Ddc_790 {
+            get {
+                return ResourceManager.GetString("Ddc_790", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Public performances.
+        /// </summary>
+        internal static string Ddc_791 {
+            get {
+                return ResourceManager.GetString("Ddc_791", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stage presentations.
+        /// </summary>
+        internal static string Ddc_792 {
+            get {
+                return ResourceManager.GetString("Ddc_792", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Indoor games and amusements.
+        /// </summary>
+        internal static string Ddc_793 {
+            get {
+                return ResourceManager.GetString("Ddc_793", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Indoor games of skill.
+        /// </summary>
+        internal static string Ddc_794 {
+            get {
+                return ResourceManager.GetString("Ddc_794", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Games of chance.
+        /// </summary>
+        internal static string Ddc_795 {
+            get {
+                return ResourceManager.GetString("Ddc_795", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Athletic and outdoor sports and games.
+        /// </summary>
+        internal static string Ddc_796 {
+            get {
+                return ResourceManager.GetString("Ddc_796", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aquatic and air sports.
+        /// </summary>
+        internal static string Ddc_797 {
+            get {
+                return ResourceManager.GetString("Ddc_797", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Equestrian sports and animal racing.
+        /// </summary>
+        internal static string Ddc_798 {
+            get {
+                return ResourceManager.GetString("Ddc_798", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fishing, hunting, shooting.
+        /// </summary>
+        internal static string Ddc_799 {
+            get {
+                return ResourceManager.GetString("Ddc_799", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literature (Belles-lettres) and rhetoric.
+        /// </summary>
+        internal static string Ddc_800 {
+            get {
+                return ResourceManager.GetString("Ddc_800", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy and theory.
+        /// </summary>
+        internal static string Ddc_801 {
+            get {
+                return ResourceManager.GetString("Ddc_801", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literature Miscellany.
+        /// </summary>
+        internal static string Ddc_802 {
+            get {
+                return ResourceManager.GetString("Ddc_802", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries &amp; encyclopedias.
+        /// </summary>
+        internal static string Ddc_803 {
+            get {
+                return ResourceManager.GetString("Ddc_803", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications.
+        /// </summary>
+        internal static string Ddc_805 {
+            get {
+                return ResourceManager.GetString("Ddc_805", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations and management.
+        /// </summary>
+        internal static string Ddc_806 {
+            get {
+                return ResourceManager.GetString("Ddc_806", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research, related topics.
+        /// </summary>
+        internal static string Ddc_807 {
+            get {
+                return ResourceManager.GetString("Ddc_807", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rhetoric &amp; collections of literature.
+        /// </summary>
+        internal static string Ddc_808 {
+            get {
+                return ResourceManager.GetString("Ddc_808", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History, description &amp; criticism.
+        /// </summary>
+        internal static string Ddc_809 {
+            get {
+                return ResourceManager.GetString("Ddc_809", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American literature in English.
+        /// </summary>
+        internal static string Ddc_810 {
+            get {
+                return ResourceManager.GetString("Ddc_810", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American poetry in English.
+        /// </summary>
+        internal static string Ddc_811 {
+            get {
+                return ResourceManager.GetString("Ddc_811", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American drama in English.
+        /// </summary>
+        internal static string Ddc_812 {
+            get {
+                return ResourceManager.GetString("Ddc_812", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American fiction in English.
+        /// </summary>
+        internal static string Ddc_813 {
+            get {
+                return ResourceManager.GetString("Ddc_813", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American essays in English.
+        /// </summary>
+        internal static string Ddc_814 {
+            get {
+                return ResourceManager.GetString("Ddc_814", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American speeches in English.
+        /// </summary>
+        internal static string Ddc_815 {
+            get {
+                return ResourceManager.GetString("Ddc_815", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American letters in English.
+        /// </summary>
+        internal static string Ddc_816 {
+            get {
+                return ResourceManager.GetString("Ddc_816", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American humor and satire in English.
+        /// </summary>
+        internal static string Ddc_817 {
+            get {
+                return ResourceManager.GetString("Ddc_817", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to American miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_818 {
+            get {
+                return ResourceManager.GetString("Ddc_818", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English &amp; Old English literatures.
+        /// </summary>
+        internal static string Ddc_820 {
+            get {
+                return ResourceManager.GetString("Ddc_820", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English poetry.
+        /// </summary>
+        internal static string Ddc_821 {
+            get {
+                return ResourceManager.GetString("Ddc_821", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English drama.
+        /// </summary>
+        internal static string Ddc_822 {
+            get {
+                return ResourceManager.GetString("Ddc_822", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English fiction.
+        /// </summary>
+        internal static string Ddc_823 {
+            get {
+                return ResourceManager.GetString("Ddc_823", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English essays.
+        /// </summary>
+        internal static string Ddc_824 {
+            get {
+                return ResourceManager.GetString("Ddc_824", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English speeches.
+        /// </summary>
+        internal static string Ddc_825 {
+            get {
+                return ResourceManager.GetString("Ddc_825", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English letters.
+        /// </summary>
+        internal static string Ddc_826 {
+            get {
+                return ResourceManager.GetString("Ddc_826", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English humor and satire.
+        /// </summary>
+        internal static string Ddc_827 {
+            get {
+                return ResourceManager.GetString("Ddc_827", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_828 {
+            get {
+                return ResourceManager.GetString("Ddc_828", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Old English (Anglo-Saxon) literature.
+        /// </summary>
+        internal static string Ddc_829 {
+            get {
+                return ResourceManager.GetString("Ddc_829", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literatures of Germanic languages.
+        /// </summary>
+        internal static string Ddc_830 {
+            get {
+                return ResourceManager.GetString("Ddc_830", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German poetry.
+        /// </summary>
+        internal static string Ddc_831 {
+            get {
+                return ResourceManager.GetString("Ddc_831", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German drama.
+        /// </summary>
+        internal static string Ddc_832 {
+            get {
+                return ResourceManager.GetString("Ddc_832", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German fiction.
+        /// </summary>
+        internal static string Ddc_833 {
+            get {
+                return ResourceManager.GetString("Ddc_833", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German essays.
+        /// </summary>
+        internal static string Ddc_834 {
+            get {
+                return ResourceManager.GetString("Ddc_834", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German speeches.
+        /// </summary>
+        internal static string Ddc_835 {
+            get {
+                return ResourceManager.GetString("Ddc_835", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German letters.
+        /// </summary>
+        internal static string Ddc_836 {
+            get {
+                return ResourceManager.GetString("Ddc_836", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German humor and satire.
+        /// </summary>
+        internal static string Ddc_837 {
+            get {
+                return ResourceManager.GetString("Ddc_837", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to German miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_838 {
+            get {
+                return ResourceManager.GetString("Ddc_838", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other Germanic literatures.
+        /// </summary>
+        internal static string Ddc_839 {
+            get {
+                return ResourceManager.GetString("Ddc_839", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literatures of Romance languages.
+        /// </summary>
+        internal static string Ddc_840 {
+            get {
+                return ResourceManager.GetString("Ddc_840", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French poetry.
+        /// </summary>
+        internal static string Ddc_841 {
+            get {
+                return ResourceManager.GetString("Ddc_841", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French drama.
+        /// </summary>
+        internal static string Ddc_842 {
+            get {
+                return ResourceManager.GetString("Ddc_842", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French fiction.
+        /// </summary>
+        internal static string Ddc_843 {
+            get {
+                return ResourceManager.GetString("Ddc_843", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French essays.
+        /// </summary>
+        internal static string Ddc_844 {
+            get {
+                return ResourceManager.GetString("Ddc_844", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French speeches.
+        /// </summary>
+        internal static string Ddc_845 {
+            get {
+                return ResourceManager.GetString("Ddc_845", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French letters.
+        /// </summary>
+        internal static string Ddc_846 {
+            get {
+                return ResourceManager.GetString("Ddc_846", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French humor and satire.
+        /// </summary>
+        internal static string Ddc_847 {
+            get {
+                return ResourceManager.GetString("Ddc_847", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_848 {
+            get {
+                return ResourceManager.GetString("Ddc_848", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Occitan, Catalan, Franco-Provençal.
+        /// </summary>
+        internal static string Ddc_849 {
+            get {
+                return ResourceManager.GetString("Ddc_849", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian, Romanian &amp; related literatures.
+        /// </summary>
+        internal static string Ddc_850 {
+            get {
+                return ResourceManager.GetString("Ddc_850", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian poetry.
+        /// </summary>
+        internal static string Ddc_851 {
+            get {
+                return ResourceManager.GetString("Ddc_851", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian drama.
+        /// </summary>
+        internal static string Ddc_852 {
+            get {
+                return ResourceManager.GetString("Ddc_852", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian fiction.
+        /// </summary>
+        internal static string Ddc_853 {
+            get {
+                return ResourceManager.GetString("Ddc_853", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian essays.
+        /// </summary>
+        internal static string Ddc_854 {
+            get {
+                return ResourceManager.GetString("Ddc_854", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian speeches.
+        /// </summary>
+        internal static string Ddc_855 {
+            get {
+                return ResourceManager.GetString("Ddc_855", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian letters.
+        /// </summary>
+        internal static string Ddc_856 {
+            get {
+                return ResourceManager.GetString("Ddc_856", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian humor and satire.
+        /// </summary>
+        internal static string Ddc_857 {
+            get {
+                return ResourceManager.GetString("Ddc_857", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italian miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_858 {
+            get {
+                return ResourceManager.GetString("Ddc_858", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Romanian &amp; related literatures.
+        /// </summary>
+        internal static string Ddc_859 {
+            get {
+                return ResourceManager.GetString("Ddc_859", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish &amp; Portuguese literatures.
+        /// </summary>
+        internal static string Ddc_860 {
+            get {
+                return ResourceManager.GetString("Ddc_860", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish poetry.
+        /// </summary>
+        internal static string Ddc_861 {
+            get {
+                return ResourceManager.GetString("Ddc_861", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish drama.
+        /// </summary>
+        internal static string Ddc_862 {
+            get {
+                return ResourceManager.GetString("Ddc_862", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish fiction.
+        /// </summary>
+        internal static string Ddc_863 {
+            get {
+                return ResourceManager.GetString("Ddc_863", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish essays.
+        /// </summary>
+        internal static string Ddc_864 {
+            get {
+                return ResourceManager.GetString("Ddc_864", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish speeches.
+        /// </summary>
+        internal static string Ddc_865 {
+            get {
+                return ResourceManager.GetString("Ddc_865", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish letters.
+        /// </summary>
+        internal static string Ddc_866 {
+            get {
+                return ResourceManager.GetString("Ddc_866", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish humor and satire.
+        /// </summary>
+        internal static string Ddc_867 {
+            get {
+                return ResourceManager.GetString("Ddc_867", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_868 {
+            get {
+                return ResourceManager.GetString("Ddc_868", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Portuguese and Galician literatures.
+        /// </summary>
+        internal static string Ddc_869 {
+            get {
+                return ResourceManager.GetString("Ddc_869", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin &amp; related Italic literatures.
+        /// </summary>
+        internal static string Ddc_870 {
+            get {
+                return ResourceManager.GetString("Ddc_870", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin poetry.
+        /// </summary>
+        internal static string Ddc_871 {
+            get {
+                return ResourceManager.GetString("Ddc_871", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin dramatic poetry and drama.
+        /// </summary>
+        internal static string Ddc_872 {
+            get {
+                return ResourceManager.GetString("Ddc_872", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin epic poetry and fiction.
+        /// </summary>
+        internal static string Ddc_873 {
+            get {
+                return ResourceManager.GetString("Ddc_873", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin lyric poetry.
+        /// </summary>
+        internal static string Ddc_874 {
+            get {
+                return ResourceManager.GetString("Ddc_874", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin speeches.
+        /// </summary>
+        internal static string Ddc_875 {
+            get {
+                return ResourceManager.GetString("Ddc_875", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin letters.
+        /// </summary>
+        internal static string Ddc_876 {
+            get {
+                return ResourceManager.GetString("Ddc_876", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin humor and satire.
+        /// </summary>
+        internal static string Ddc_877 {
+            get {
+                return ResourceManager.GetString("Ddc_877", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Latin miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_878 {
+            get {
+                return ResourceManager.GetString("Ddc_878", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literatures of other Italic languages.
+        /// </summary>
+        internal static string Ddc_879 {
+            get {
+                return ResourceManager.GetString("Ddc_879", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek &amp; Hellenic literatures.
+        /// </summary>
+        internal static string Ddc_880 {
+            get {
+                return ResourceManager.GetString("Ddc_880", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek poetry.
+        /// </summary>
+        internal static string Ddc_881 {
+            get {
+                return ResourceManager.GetString("Ddc_881", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek dramatic poetry &amp; drama.
+        /// </summary>
+        internal static string Ddc_882 {
+            get {
+                return ResourceManager.GetString("Ddc_882", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek epic poetry and fiction.
+        /// </summary>
+        internal static string Ddc_883 {
+            get {
+                return ResourceManager.GetString("Ddc_883", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek lyric poetry.
+        /// </summary>
+        internal static string Ddc_884 {
+            get {
+                return ResourceManager.GetString("Ddc_884", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek speeches.
+        /// </summary>
+        internal static string Ddc_885 {
+            get {
+                return ResourceManager.GetString("Ddc_885", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek letters.
+        /// </summary>
+        internal static string Ddc_886 {
+            get {
+                return ResourceManager.GetString("Ddc_886", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek humor and satire.
+        /// </summary>
+        internal static string Ddc_887 {
+            get {
+                return ResourceManager.GetString("Ddc_887", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Classical Greek miscellaneous writings.
+        /// </summary>
+        internal static string Ddc_888 {
+            get {
+                return ResourceManager.GetString("Ddc_888", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modern Greek literature.
+        /// </summary>
+        internal static string Ddc_889 {
+            get {
+                return ResourceManager.GetString("Ddc_889", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literatures of other languages.
+        /// </summary>
+        internal static string Ddc_890 {
+            get {
+                return ResourceManager.GetString("Ddc_890", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to East Indo-European and Celtic literatures.
+        /// </summary>
+        internal static string Ddc_891 {
+            get {
+                return ResourceManager.GetString("Ddc_891", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Afro-Asiatic literatures.
+        /// </summary>
+        internal static string Ddc_892 {
+            get {
+                return ResourceManager.GetString("Ddc_892", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Non-Semitic Afro-Asiatic literatures.
+        /// </summary>
+        internal static string Ddc_893 {
+            get {
+                return ResourceManager.GetString("Ddc_893", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Altaic, Uralic, Hyperborean &amp; Dravidian.
+        /// </summary>
+        internal static string Ddc_894 {
+            get {
+                return ResourceManager.GetString("Ddc_894", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Literatures of East and Southeast Asia.
+        /// </summary>
+        internal static string Ddc_895 {
+            get {
+                return ResourceManager.GetString("Ddc_895", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to African literatures.
+        /// </summary>
+        internal static string Ddc_896 {
+            get {
+                return ResourceManager.GetString("Ddc_896", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to North American native literatures.
+        /// </summary>
+        internal static string Ddc_897 {
+            get {
+                return ResourceManager.GetString("Ddc_897", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South American native literatures.
+        /// </summary>
+        internal static string Ddc_898 {
+            get {
+                return ResourceManager.GetString("Ddc_898", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Austronesian &amp; other literatures.
+        /// </summary>
+        internal static string Ddc_899 {
+            get {
+                return ResourceManager.GetString("Ddc_899", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History &amp; geography.
+        /// </summary>
+        internal static string Ddc_900 {
+            get {
+                return ResourceManager.GetString("Ddc_900", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philosophy and theory of history.
+        /// </summary>
+        internal static string Ddc_901 {
+            get {
+                return ResourceManager.GetString("Ddc_901", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Miscellany of history.
+        /// </summary>
+        internal static string Ddc_902 {
+            get {
+                return ResourceManager.GetString("Ddc_902", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dictionaries &amp; encyclopedias.
+        /// </summary>
+        internal static string Ddc_903 {
+            get {
+                return ResourceManager.GetString("Ddc_903", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Collected accounts of events.
+        /// </summary>
+        internal static string Ddc_904 {
+            get {
+                return ResourceManager.GetString("Ddc_904", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Serial publications of history.
+        /// </summary>
+        internal static string Ddc_905 {
+            get {
+                return ResourceManager.GetString("Ddc_905", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Organizations &amp; management.
+        /// </summary>
+        internal static string Ddc_906 {
+            get {
+                return ResourceManager.GetString("Ddc_906", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education, research &amp; related topics.
+        /// </summary>
+        internal static string Ddc_907 {
+            get {
+                return ResourceManager.GetString("Ddc_907", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Groups of people.
+        /// </summary>
+        internal static string Ddc_908 {
+            get {
+                return ResourceManager.GetString("Ddc_908", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to World history.
+        /// </summary>
+        internal static string Ddc_909 {
+            get {
+                return ResourceManager.GetString("Ddc_909", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography and travel.
+        /// </summary>
+        internal static string Ddc_910 {
+            get {
+                return ResourceManager.GetString("Ddc_910", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Historical geography.
+        /// </summary>
+        internal static string Ddc_911 {
+            get {
+                return ResourceManager.GetString("Ddc_911", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maps and plans of surface of earth.
+        /// </summary>
+        internal static string Ddc_912 {
+            get {
+                return ResourceManager.GetString("Ddc_912", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of &amp; travel in ancient world.
+        /// </summary>
+        internal static string Ddc_913 {
+            get {
+                return ResourceManager.GetString("Ddc_913", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of and travel in Europe.
+        /// </summary>
+        internal static string Ddc_914 {
+            get {
+                return ResourceManager.GetString("Ddc_914", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of and travel in Asia.
+        /// </summary>
+        internal static string Ddc_915 {
+            get {
+                return ResourceManager.GetString("Ddc_915", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of and travel in Africa.
+        /// </summary>
+        internal static string Ddc_916 {
+            get {
+                return ResourceManager.GetString("Ddc_916", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of &amp; travel in North America.
+        /// </summary>
+        internal static string Ddc_917 {
+            get {
+                return ResourceManager.GetString("Ddc_917", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of &amp; travel in South America.
+        /// </summary>
+        internal static string Ddc_918 {
+            get {
+                return ResourceManager.GetString("Ddc_918", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Geography of and travel in other areas.
+        /// </summary>
+        internal static string Ddc_919 {
+            get {
+                return ResourceManager.GetString("Ddc_919", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Biography, genealogy, insignia.
+        /// </summary>
+        internal static string Ddc_920 {
+            get {
+                return ResourceManager.GetString("Ddc_920", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Genealogy, names &amp; insignia.
+        /// </summary>
+        internal static string Ddc_929 {
+            get {
+                return ResourceManager.GetString("Ddc_929", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of ancient world to ca. 499.
+        /// </summary>
+        internal static string Ddc_930 {
+            get {
+                return ResourceManager.GetString("Ddc_930", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to China to 420.
+        /// </summary>
+        internal static string Ddc_931 {
+            get {
+                return ResourceManager.GetString("Ddc_931", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Egypt to 640.
+        /// </summary>
+        internal static string Ddc_932 {
+            get {
+                return ResourceManager.GetString("Ddc_932", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Palestine to 70.
+        /// </summary>
+        internal static string Ddc_933 {
+            get {
+                return ResourceManager.GetString("Ddc_933", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to India to 647.
+        /// </summary>
+        internal static string Ddc_934 {
+            get {
+                return ResourceManager.GetString("Ddc_934", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mesopotamia &amp; Iranian Plateau to 637.
+        /// </summary>
+        internal static string Ddc_935 {
+            get {
+                return ResourceManager.GetString("Ddc_935", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Europe north &amp; west of Italy to ca. 499.
+        /// </summary>
+        internal static string Ddc_936 {
+            get {
+                return ResourceManager.GetString("Ddc_936", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italy &amp; adjacent territories to 476.
+        /// </summary>
+        internal static string Ddc_937 {
+            get {
+                return ResourceManager.GetString("Ddc_937", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Greece to 323.
+        /// </summary>
+        internal static string Ddc_938 {
+            get {
+                return ResourceManager.GetString("Ddc_938", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other parts of ancient world.
+        /// </summary>
+        internal static string Ddc_939 {
+            get {
+                return ResourceManager.GetString("Ddc_939", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Europe.
+        /// </summary>
+        internal static string Ddc_940 {
+            get {
+                return ResourceManager.GetString("Ddc_940", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to British Isles.
+        /// </summary>
+        internal static string Ddc_941 {
+            get {
+                return ResourceManager.GetString("Ddc_941", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to England and Wales.
+        /// </summary>
+        internal static string Ddc_942 {
+            get {
+                return ResourceManager.GetString("Ddc_942", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Germany &amp; central Europe.
+        /// </summary>
+        internal static string Ddc_943 {
+            get {
+                return ResourceManager.GetString("Ddc_943", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to France and Monaco.
+        /// </summary>
+        internal static string Ddc_944 {
+            get {
+                return ResourceManager.GetString("Ddc_944", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italy, San Marino, Vatican City, Malta.
+        /// </summary>
+        internal static string Ddc_945 {
+            get {
+                return ResourceManager.GetString("Ddc_945", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spain, Andorra, Gibraltar, Portugal.
+        /// </summary>
+        internal static string Ddc_946 {
+            get {
+                return ResourceManager.GetString("Ddc_946", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Russia &amp; east Europe.
+        /// </summary>
+        internal static string Ddc_947 {
+            get {
+                return ResourceManager.GetString("Ddc_947", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scandinavia and Finland.
+        /// </summary>
+        internal static string Ddc_948 {
+            get {
+                return ResourceManager.GetString("Ddc_948", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other parts of Europe.
+        /// </summary>
+        internal static string Ddc_949 {
+            get {
+                return ResourceManager.GetString("Ddc_949", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Asia.
+        /// </summary>
+        internal static string Ddc_950 {
+            get {
+                return ResourceManager.GetString("Ddc_950", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to China and adjacent areas.
+        /// </summary>
+        internal static string Ddc_951 {
+            get {
+                return ResourceManager.GetString("Ddc_951", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Japan.
+        /// </summary>
+        internal static string Ddc_952 {
+            get {
+                return ResourceManager.GetString("Ddc_952", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Arabian Peninsula and adjacent areas.
+        /// </summary>
+        internal static string Ddc_953 {
+            get {
+                return ResourceManager.GetString("Ddc_953", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to India &amp; south Asia.
+        /// </summary>
+        internal static string Ddc_954 {
+            get {
+                return ResourceManager.GetString("Ddc_954", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Iran.
+        /// </summary>
+        internal static string Ddc_955 {
+            get {
+                return ResourceManager.GetString("Ddc_955", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Middle East (Near East).
+        /// </summary>
+        internal static string Ddc_956 {
+            get {
+                return ResourceManager.GetString("Ddc_956", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Siberia (Asiatic Russia).
+        /// </summary>
+        internal static string Ddc_957 {
+            get {
+                return ResourceManager.GetString("Ddc_957", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Central Asia.
+        /// </summary>
+        internal static string Ddc_958 {
+            get {
+                return ResourceManager.GetString("Ddc_958", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Southeast Asia.
+        /// </summary>
+        internal static string Ddc_959 {
+            get {
+                return ResourceManager.GetString("Ddc_959", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of Africa.
+        /// </summary>
+        internal static string Ddc_960 {
+            get {
+                return ResourceManager.GetString("Ddc_960", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tunisia and Libya.
+        /// </summary>
+        internal static string Ddc_961 {
+            get {
+                return ResourceManager.GetString("Ddc_961", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Egypt, Sudan, South Sudan.
+        /// </summary>
+        internal static string Ddc_962 {
+            get {
+                return ResourceManager.GetString("Ddc_962", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ethiopia and Eritrea.
+        /// </summary>
+        internal static string Ddc_963 {
+            get {
+                return ResourceManager.GetString("Ddc_963", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Morocco, Ceuta, Melilla, Western Sahara.
+        /// </summary>
+        internal static string Ddc_964 {
+            get {
+                return ResourceManager.GetString("Ddc_964", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Algeria.
+        /// </summary>
+        internal static string Ddc_965 {
+            get {
+                return ResourceManager.GetString("Ddc_965", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to West Africa and offshore islands.
+        /// </summary>
+        internal static string Ddc_966 {
+            get {
+                return ResourceManager.GetString("Ddc_966", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Central Africa and offshore islands.
+        /// </summary>
+        internal static string Ddc_967 {
+            get {
+                return ResourceManager.GetString("Ddc_967", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South Africa &amp; southern Africa.
+        /// </summary>
+        internal static string Ddc_968 {
+            get {
+                return ResourceManager.GetString("Ddc_968", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South Indian Ocean islands.
+        /// </summary>
+        internal static string Ddc_969 {
+            get {
+                return ResourceManager.GetString("Ddc_969", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of North America.
+        /// </summary>
+        internal static string Ddc_970 {
+            get {
+                return ResourceManager.GetString("Ddc_970", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Canada.
+        /// </summary>
+        internal static string Ddc_971 {
+            get {
+                return ResourceManager.GetString("Ddc_971", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mexico, Central America, West Indies.
+        /// </summary>
+        internal static string Ddc_972 {
+            get {
+                return ResourceManager.GetString("Ddc_972", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to United States.
+        /// </summary>
+        internal static string Ddc_973 {
+            get {
+                return ResourceManager.GetString("Ddc_973", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Northeastern United States.
+        /// </summary>
+        internal static string Ddc_974 {
+            get {
+                return ResourceManager.GetString("Ddc_974", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Southeastern United States.
+        /// </summary>
+        internal static string Ddc_975 {
+            get {
+                return ResourceManager.GetString("Ddc_975", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South central United States.
+        /// </summary>
+        internal static string Ddc_976 {
+            get {
+                return ResourceManager.GetString("Ddc_976", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to North central United States.
+        /// </summary>
+        internal static string Ddc_977 {
+            get {
+                return ResourceManager.GetString("Ddc_977", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Western United States.
+        /// </summary>
+        internal static string Ddc_978 {
+            get {
+                return ResourceManager.GetString("Ddc_978", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Great Basin &amp; Pacific Slope region.
+        /// </summary>
+        internal static string Ddc_979 {
+            get {
+                return ResourceManager.GetString("Ddc_979", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of South America.
+        /// </summary>
+        internal static string Ddc_980 {
+            get {
+                return ResourceManager.GetString("Ddc_980", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brazil.
+        /// </summary>
+        internal static string Ddc_981 {
+            get {
+                return ResourceManager.GetString("Ddc_981", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Argentina.
+        /// </summary>
+        internal static string Ddc_982 {
+            get {
+                return ResourceManager.GetString("Ddc_982", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chile.
+        /// </summary>
+        internal static string Ddc_983 {
+            get {
+                return ResourceManager.GetString("Ddc_983", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bolivia.
+        /// </summary>
+        internal static string Ddc_984 {
+            get {
+                return ResourceManager.GetString("Ddc_984", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Peru.
+        /// </summary>
+        internal static string Ddc_985 {
+            get {
+                return ResourceManager.GetString("Ddc_985", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombia and Ecuador.
+        /// </summary>
+        internal static string Ddc_986 {
+            get {
+                return ResourceManager.GetString("Ddc_986", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Venezuela.
+        /// </summary>
+        internal static string Ddc_987 {
+            get {
+                return ResourceManager.GetString("Ddc_987", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Guiana.
+        /// </summary>
+        internal static string Ddc_988 {
+            get {
+                return ResourceManager.GetString("Ddc_988", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paraguay and Uruguay.
+        /// </summary>
+        internal static string Ddc_989 {
+            get {
+                return ResourceManager.GetString("Ddc_989", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to History of other areas.
+        /// </summary>
+        internal static string Ddc_990 {
+            get {
+                return ResourceManager.GetString("Ddc_990", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Zealand.
+        /// </summary>
+        internal static string Ddc_993 {
+            get {
+                return ResourceManager.GetString("Ddc_993", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Australia.
+        /// </summary>
+        internal static string Ddc_994 {
+            get {
+                return ResourceManager.GetString("Ddc_994", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Guinea &amp; Melanesia.
+        /// </summary>
+        internal static string Ddc_995 {
+            get {
+                return ResourceManager.GetString("Ddc_995", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Polynesia &amp; Pacific Ocean islands.
+        /// </summary>
+        internal static string Ddc_996 {
+            get {
+                return ResourceManager.GetString("Ddc_996", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Atlantic Ocean islands.
+        /// </summary>
+        internal static string Ddc_997 {
+            get {
+                return ResourceManager.GetString("Ddc_997", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Arctic islands and Antarctica.
+        /// </summary>
+        internal static string Ddc_998 {
+            get {
+                return ResourceManager.GetString("Ddc_998", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Extraterrestrial worlds.
+        /// </summary>
+        internal static string Ddc_999 {
+            get {
+                return ResourceManager.GetString("Ddc_999", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You Lost! The correct answer was {0}..
+        /// </summary>
+        internal static string DefeatMessage {
+            get {
+                return ResourceManager.GetString("DefeatMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DewayGame.
         /// </summary>
         internal static string DeweyGame {
@@ -119,6 +8246,15 @@ namespace DeweyDecimalClassificationLearningApp.Resources.Strings {
         internal static string Streak {
             get {
                 return ResourceManager.GetString("Streak", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You won!.
+        /// </summary>
+        internal static string VictoryMessage {
+            get {
+                return ResourceManager.GetString("VictoryMessage", resourceCulture);
             }
         }
     }

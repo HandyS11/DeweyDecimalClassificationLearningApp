@@ -138,4 +138,2716 @@
   <data name="IdGameQuestion" xml:space="preserve">
       <value>What does the ID {0} refer to?</value>
   </data>
+  <data name="Ddc_000" xml:space="preserve">
+    <value>Computer science, information, general works</value>
+  </data>
+  <data name="Ddc_001" xml:space="preserve">
+    <value>Knowledge</value>
+  </data>
+  <data name="Ddc_002" xml:space="preserve">
+    <value>The book</value>
+  </data>
+  <data name="Ddc_003" xml:space="preserve">
+    <value>Systems</value>
+  </data>
+  <data name="Ddc_004" xml:space="preserve">
+    <value>Computer science</value>
+  </data>
+  <data name="Ddc_005" xml:space="preserve">
+    <value>Computer programming, programs, data, security</value>
+  </data>
+  <data name="Ddc_006" xml:space="preserve">
+    <value>Special computer methods</value>
+  </data>
+  <data name="Ddc_010" xml:space="preserve">
+    <value>Bibliography</value>
+  </data>
+  <data name="Ddc_011" xml:space="preserve">
+    <value>Bibliographies and catalogs</value>
+  </data>
+  <data name="Ddc_012" xml:space="preserve">
+    <value>Bibliographies and catalogs of individuals</value>
+  </data>
+  <data name="Ddc_014" xml:space="preserve">
+    <value>Of anonymous &amp; pseudonymous works</value>
+  </data>
+  <data name="Ddc_015" xml:space="preserve">
+    <value>Of works from specific places</value>
+  </data>
+  <data name="Ddc_016" xml:space="preserve">
+    <value>Of works on specific subjects</value>
+  </data>
+  <data name="Ddc_017" xml:space="preserve">
+    <value>Of works held in specific collections or offered for sale</value>
+  </data>
+  <data name="Ddc_020" xml:space="preserve">
+    <value>Library and information sciences</value>
+  </data>
+  <data name="Ddc_021" xml:space="preserve">
+    <value>Relationships of libraries and archives</value>
+  </data>
+  <data name="Ddc_022" xml:space="preserve">
+    <value>Administration of physical plant</value>
+  </data>
+  <data name="Ddc_023" xml:space="preserve">
+    <value>Personnel management</value>
+  </data>
+  <data name="Ddc_025" xml:space="preserve">
+    <value>Operations of libraries and archives</value>
+  </data>
+  <data name="Ddc_026" xml:space="preserve">
+    <value>Libraries and archives devoted to specific subjects</value>
+  </data>
+  <data name="Ddc_027" xml:space="preserve">
+    <value>General libraries and archives</value>
+  </data>
+  <data name="Ddc_028" xml:space="preserve">
+    <value>Reading and use of other information media</value>
+  </data>
+  <data name="Ddc_030" xml:space="preserve">
+    <value>General encyclopedic works</value>
+  </data>
+  <data name="Ddc_031" xml:space="preserve">
+    <value>General encyclopedic works in American English</value>
+  </data>
+  <data name="Ddc_032" xml:space="preserve">
+    <value>General encyclopedic works in English</value>
+  </data>
+  <data name="Ddc_033" xml:space="preserve">
+    <value>Encyclopedias in other Germanic languages</value>
+  </data>
+  <data name="Ddc_034" xml:space="preserve">
+    <value>Encyclopedias in French, Occitan, Catalan</value>
+  </data>
+  <data name="Ddc_035" xml:space="preserve">
+    <value>Encyclopedias in Italian, Romanian &amp; related languages</value>
+  </data>
+  <data name="Ddc_036" xml:space="preserve">
+    <value>Encyclopedias in Spanish, Portuguese, Galician</value>
+  </data>
+  <data name="Ddc_037" xml:space="preserve">
+    <value>General encyclopedic works in Slavic languages</value>
+  </data>
+  <data name="Ddc_038" xml:space="preserve">
+    <value>General encyclopedic works in Scandinavian languages</value>
+  </data>
+  <data name="Ddc_039" xml:space="preserve">
+    <value>General encyclopedic works in other languages</value>
+  </data>
+  <data name="Ddc_050" xml:space="preserve">
+    <value>General serial publications</value>
+  </data>
+  <data name="Ddc_051" xml:space="preserve">
+    <value>General serial publications in American English</value>
+  </data>
+  <data name="Ddc_052" xml:space="preserve">
+    <value>General serial publications in English</value>
+  </data>
+  <data name="Ddc_053" xml:space="preserve">
+    <value>Serials in other Germanic languages</value>
+  </data>
+  <data name="Ddc_054" xml:space="preserve">
+    <value>Serials in French, Occitan, Catalan</value>
+  </data>
+  <data name="Ddc_055" xml:space="preserve">
+    <value>Serials in Italian, Romanian &amp; related languages</value>
+  </data>
+  <data name="Ddc_056" xml:space="preserve">
+    <value>Serials in Spanish, Portuguese, Galician</value>
+  </data>
+  <data name="Ddc_057" xml:space="preserve">
+    <value>General serial publications in Slavic languages</value>
+  </data>
+  <data name="Ddc_058" xml:space="preserve">
+    <value>Serials in Scandinavian languages</value>
+  </data>
+  <data name="Ddc_059" xml:space="preserve">
+    <value>General serial publications in other languages</value>
+  </data>
+  <data name="Ddc_060" xml:space="preserve">
+    <value>General organizations &amp; museology</value>
+  </data>
+  <data name="Ddc_061" xml:space="preserve">
+    <value>General organizations in North America</value>
+  </data>
+  <data name="Ddc_062" xml:space="preserve">
+    <value>General organizations in British Isles; in England</value>
+  </data>
+  <data name="Ddc_063" xml:space="preserve">
+    <value>General organizations in Germany</value>
+  </data>
+  <data name="Ddc_064" xml:space="preserve">
+    <value>General organizations in France and Monaco</value>
+  </data>
+  <data name="Ddc_065" xml:space="preserve">
+    <value>General organizations in Italy</value>
+  </data>
+  <data name="Ddc_066" xml:space="preserve">
+    <value>General organizations in Spain</value>
+  </data>
+  <data name="Ddc_067" xml:space="preserve">
+    <value>General organizations in Russia</value>
+  </data>
+  <data name="Ddc_068" xml:space="preserve">
+    <value>General organizations in other geographic areas</value>
+  </data>
+  <data name="Ddc_069" xml:space="preserve">
+    <value>Museology (museum science)</value>
+  </data>
+  <data name="Ddc_070" xml:space="preserve">
+    <value>Documentary, educational, news media; journalism</value>
+  </data>
+  <data name="Ddc_071" xml:space="preserve">
+    <value>Journalism and newspapers in North America</value>
+  </data>
+  <data name="Ddc_072" xml:space="preserve">
+    <value>Journalism and newspapers in British Isles</value>
+  </data>
+  <data name="Ddc_073" xml:space="preserve">
+    <value>Journalism and newspapers in Germany</value>
+  </data>
+  <data name="Ddc_074" xml:space="preserve">
+    <value>Journalism and newspapers in France and Monaco</value>
+  </data>
+  <data name="Ddc_075" xml:space="preserve">
+    <value>Journalism and newspapers in Italy</value>
+  </data>
+  <data name="Ddc_076" xml:space="preserve">
+    <value>Journalism and newspapers in Spain</value>
+  </data>
+  <data name="Ddc_077" xml:space="preserve">
+    <value>Journalism and newspapers in Russia</value>
+  </data>
+  <data name="Ddc_078" xml:space="preserve">
+    <value>Journalism and newspapers in Scandinavia</value>
+  </data>
+  <data name="Ddc_079" xml:space="preserve">
+    <value>Newspapers in other geographic areas</value>
+  </data>
+  <data name="Ddc_080" xml:space="preserve">
+    <value>General collections</value>
+  </data>
+  <data name="Ddc_081" xml:space="preserve">
+    <value>General collections in American English</value>
+  </data>
+  <data name="Ddc_082" xml:space="preserve">
+    <value>General collections in English</value>
+  </data>
+  <data name="Ddc_083" xml:space="preserve">
+    <value>General collections in other Germanic languages</value>
+  </data>
+  <data name="Ddc_084" xml:space="preserve">
+    <value>General collections in French, Occitan, Catalan</value>
+  </data>
+  <data name="Ddc_085" xml:space="preserve">
+    <value>Collections in Italian, Romanian &amp; related languages</value>
+  </data>
+  <data name="Ddc_086" xml:space="preserve">
+    <value>Collections in Spanish, Portuguese, Galician</value>
+  </data>
+  <data name="Ddc_087" xml:space="preserve">
+    <value>General collections in Slavic languages</value>
+  </data>
+  <data name="Ddc_088" xml:space="preserve">
+    <value>General collections in Scandinavian languages</value>
+  </data>
+  <data name="Ddc_089" xml:space="preserve">
+    <value>General collections in other languages</value>
+  </data>
+  <data name="Ddc_090" xml:space="preserve">
+    <value>Manuscripts, rare books</value>
+  </data>
+  <data name="Ddc_091" xml:space="preserve">
+    <value>Manuscripts</value>
+  </data>
+  <data name="Ddc_092" xml:space="preserve">
+    <value>Block books</value>
+  </data>
+  <data name="Ddc_093" xml:space="preserve">
+    <value>Incunabula</value>
+  </data>
+  <data name="Ddc_094" xml:space="preserve">
+    <value>Printed books</value>
+  </data>
+  <data name="Ddc_095" xml:space="preserve">
+    <value>Books notable for bindings</value>
+  </data>
+  <data name="Ddc_096" xml:space="preserve">
+    <value>Books notable for illustrations and materials</value>
+  </data>
+  <data name="Ddc_097" xml:space="preserve">
+    <value>Books notable for ownership or origin</value>
+  </data>
+  <data name="Ddc_098" xml:space="preserve">
+    <value>Prohibited works, forgeries, hoaxes</value>
+  </data>
+  <data name="Ddc_099" xml:space="preserve">
+    <value>Books notable for format</value>
+  </data>
+  <data name="Ddc_100" xml:space="preserve">
+    <value>Philosophy &amp; psychology</value>
+  </data>
+  <data name="Ddc_101" xml:space="preserve">
+    <value>Theory of philosophy</value>
+  </data>
+  <data name="Ddc_102" xml:space="preserve">
+    <value>Miscellany of philosophy</value>
+  </data>
+  <data name="Ddc_103" xml:space="preserve">
+    <value>Dictionaries &amp; encyclopedias</value>
+  </data>
+  <data name="Ddc_105" xml:space="preserve">
+    <value>Serial publications of philosophy</value>
+  </data>
+  <data name="Ddc_106" xml:space="preserve">
+    <value>Organizations &amp; management</value>
+  </data>
+  <data name="Ddc_107" xml:space="preserve">
+    <value>Education, research &amp; related topics</value>
+  </data>
+  <data name="Ddc_108" xml:space="preserve">
+    <value>Groups of people</value>
+  </data>
+  <data name="Ddc_109" xml:space="preserve">
+    <value>Historical and collected biography</value>
+  </data>
+  <data name="Ddc_110" xml:space="preserve">
+    <value>Metaphysics</value>
+  </data>
+  <data name="Ddc_111" xml:space="preserve">
+    <value>Ontology</value>
+  </data>
+  <data name="Ddc_113" xml:space="preserve">
+    <value>Cosmology (Philosophy of nature)</value>
+  </data>
+  <data name="Ddc_114" xml:space="preserve">
+    <value>Space</value>
+  </data>
+  <data name="Ddc_115" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="Ddc_116" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="Ddc_117" xml:space="preserve">
+    <value>Structure</value>
+  </data>
+  <data name="Ddc_118" xml:space="preserve">
+    <value>Force and energy</value>
+  </data>
+  <data name="Ddc_119" xml:space="preserve">
+    <value>Number and quantity</value>
+  </data>
+  <data name="Ddc_120" xml:space="preserve">
+    <value>Epistemology, causation, humankind</value>
+  </data>
+  <data name="Ddc_121" xml:space="preserve">
+    <value>Epistemology (Theory of knowledge)</value>
+  </data>
+  <data name="Ddc_122" xml:space="preserve">
+    <value>Causation</value>
+  </data>
+  <data name="Ddc_123" xml:space="preserve">
+    <value>Determinism and indeterminism</value>
+  </data>
+  <data name="Ddc_124" xml:space="preserve">
+    <value>Teleology</value>
+  </data>
+  <data name="Ddc_126" xml:space="preserve">
+    <value>The self</value>
+  </data>
+  <data name="Ddc_127" xml:space="preserve">
+    <value>The unconscious and the subconscious</value>
+  </data>
+  <data name="Ddc_128" xml:space="preserve">
+    <value>Humankind</value>
+  </data>
+  <data name="Ddc_129" xml:space="preserve">
+    <value>Origin and destiny of individual souls</value>
+  </data>
+  <data name="Ddc_130" xml:space="preserve">
+    <value>Parapsychology and occultism</value>
+  </data>
+  <data name="Ddc_131" xml:space="preserve">
+    <value>Parapsychological and occult methods</value>
+  </data>
+  <data name="Ddc_133" xml:space="preserve">
+    <value>Specific topics in parapsychology &amp; occultism</value>
+  </data>
+  <data name="Ddc_135" xml:space="preserve">
+    <value>Dreams and mysteries</value>
+  </data>
+  <data name="Ddc_137" xml:space="preserve">
+    <value>Divinatory graphology</value>
+  </data>
+  <data name="Ddc_138" xml:space="preserve">
+    <value>Physiognomy</value>
+  </data>
+  <data name="Ddc_139" xml:space="preserve">
+    <value>Phrenology</value>
+  </data>
+  <data name="Ddc_140" xml:space="preserve">
+    <value>Specific philosophical schools</value>
+  </data>
+  <data name="Ddc_141" xml:space="preserve">
+    <value>Idealism and related systems</value>
+  </data>
+  <data name="Ddc_142" xml:space="preserve">
+    <value>Critical philosophy</value>
+  </data>
+  <data name="Ddc_143" xml:space="preserve">
+    <value>Bergsonism and intuitionism</value>
+  </data>
+  <data name="Ddc_144" xml:space="preserve">
+    <value>Humanism and related systems</value>
+  </data>
+  <data name="Ddc_145" xml:space="preserve">
+    <value>Sensationalism</value>
+  </data>
+  <data name="Ddc_146" xml:space="preserve">
+    <value>Naturalism and related systems</value>
+  </data>
+  <data name="Ddc_147" xml:space="preserve">
+    <value>Pantheism and related systems</value>
+  </data>
+  <data name="Ddc_148" xml:space="preserve">
+    <value>Dogmatism, eclecticism, liberalism, etc.</value>
+  </data>
+  <data name="Ddc_149" xml:space="preserve">
+    <value>Other philosophical systems and doctrines</value>
+  </data>
+  <data name="Ddc_150" xml:space="preserve">
+    <value>Psychology</value>
+  </data>
+  <data name="Ddc_152" xml:space="preserve">
+    <value>Perception, movement, emotions &amp; drives</value>
+  </data>
+  <data name="Ddc_153" xml:space="preserve">
+    <value>Conscious mental processes &amp; intelligence</value>
+  </data>
+  <data name="Ddc_154" xml:space="preserve">
+    <value>Subconscious &amp; altered states</value>
+  </data>
+  <data name="Ddc_155" xml:space="preserve">
+    <value>Differential &amp; developmental psychology</value>
+  </data>
+  <data name="Ddc_156" xml:space="preserve">
+    <value>Comparative psychology</value>
+  </data>
+  <data name="Ddc_158" xml:space="preserve">
+    <value>Applied psychology</value>
+  </data>
+  <data name="Ddc_160" xml:space="preserve">
+    <value>Philosophical logic</value>
+  </data>
+  <data name="Ddc_161" xml:space="preserve">
+    <value>Induction</value>
+  </data>
+  <data name="Ddc_162" xml:space="preserve">
+    <value>Deduction</value>
+  </data>
+  <data name="Ddc_165" xml:space="preserve">
+    <value>Fallacies and sources of error</value>
+  </data>
+  <data name="Ddc_166" xml:space="preserve">
+    <value>Syllogisms</value>
+  </data>
+  <data name="Ddc_167" xml:space="preserve">
+    <value>Hypotheses</value>
+  </data>
+  <data name="Ddc_168" xml:space="preserve">
+    <value>Argument and persuasion</value>
+  </data>
+  <data name="Ddc_169" xml:space="preserve">
+    <value>Analogy</value>
+  </data>
+  <data name="Ddc_170" xml:space="preserve">
+    <value>Ethics (Moral philosophy)</value>
+  </data>
+  <data name="Ddc_171" xml:space="preserve">
+    <value>Ethical systems</value>
+  </data>
+  <data name="Ddc_172" xml:space="preserve">
+    <value>Political ethics</value>
+  </data>
+  <data name="Ddc_173" xml:space="preserve">
+    <value>Ethics of family relationships</value>
+  </data>
+  <data name="Ddc_174" xml:space="preserve">
+    <value>Occupational ethics</value>
+  </data>
+  <data name="Ddc_175" xml:space="preserve">
+    <value>Ethics of recreation &amp; leisure</value>
+  </data>
+  <data name="Ddc_176" xml:space="preserve">
+    <value>Ethics of sex and reproduction</value>
+  </data>
+  <data name="Ddc_177" xml:space="preserve">
+    <value>Ethics of social relations</value>
+  </data>
+  <data name="Ddc_178" xml:space="preserve">
+    <value>Ethics of consumption</value>
+  </data>
+  <data name="Ddc_179" xml:space="preserve">
+    <value>Other ethical norms</value>
+  </data>
+  <data name="Ddc_180" xml:space="preserve">
+    <value>Ancient, medieval, eastern philosophy</value>
+  </data>
+  <data name="Ddc_181" xml:space="preserve">
+    <value>Eastern philosophy</value>
+  </data>
+  <data name="Ddc_182" xml:space="preserve">
+    <value>Pre-Socratic Greek philosophies</value>
+  </data>
+  <data name="Ddc_183" xml:space="preserve">
+    <value>Sophistic, Socratic, related philosophies</value>
+  </data>
+  <data name="Ddc_184" xml:space="preserve">
+    <value>Platonic philosophy</value>
+  </data>
+  <data name="Ddc_185" xml:space="preserve">
+    <value>Aristotelian philosophy</value>
+  </data>
+  <data name="Ddc_186" xml:space="preserve">
+    <value>Skeptic and Neoplatonic philosophies</value>
+  </data>
+  <data name="Ddc_187" xml:space="preserve">
+    <value>Epicurean philosophy</value>
+  </data>
+  <data name="Ddc_188" xml:space="preserve">
+    <value>Stoic philosophy</value>
+  </data>
+  <data name="Ddc_189" xml:space="preserve">
+    <value>Medieval western philosophy</value>
+  </data>
+  <data name="Ddc_190" xml:space="preserve">
+    <value>Modern western philosophy</value>
+  </data>
+  <data name="Ddc_191" xml:space="preserve">
+    <value>Philosophy of United States and Canada</value>
+  </data>
+  <data name="Ddc_192" xml:space="preserve">
+    <value>Philosophy of British Isles</value>
+  </data>
+  <data name="Ddc_193" xml:space="preserve">
+    <value>Philosophy of Germany and Austria</value>
+  </data>
+  <data name="Ddc_194" xml:space="preserve">
+    <value>Philosophy of France</value>
+  </data>
+  <data name="Ddc_195" xml:space="preserve">
+    <value>Philosophy of Italy</value>
+  </data>
+  <data name="Ddc_196" xml:space="preserve">
+    <value>Philosophy of Spain and Portugal</value>
+  </data>
+  <data name="Ddc_197" xml:space="preserve">
+    <value>Philosophy of Russia</value>
+  </data>
+  <data name="Ddc_198" xml:space="preserve">
+    <value>Philosophy of Scandinavia and Finland</value>
+  </data>
+  <data name="Ddc_199" xml:space="preserve">
+    <value>Philosophy of other geographic areas</value>
+  </data>
+  <data name="Ddc_200" xml:space="preserve">
+    <value>Religion</value>
+  </data>
+  <data name="Ddc_201" xml:space="preserve">
+    <value>Religious mythology &amp; social theology</value>
+  </data>
+  <data name="Ddc_202" xml:space="preserve">
+    <value>Doctrines</value>
+  </data>
+  <data name="Ddc_203" xml:space="preserve">
+    <value>Public worship and other practices</value>
+  </data>
+  <data name="Ddc_204" xml:space="preserve">
+    <value>Religious experience, life, practice</value>
+  </data>
+  <data name="Ddc_205" xml:space="preserve">
+    <value>Religious ethics</value>
+  </data>
+  <data name="Ddc_206" xml:space="preserve">
+    <value>Leaders and organization</value>
+  </data>
+  <data name="Ddc_207" xml:space="preserve">
+    <value>Missions and religious education</value>
+  </data>
+  <data name="Ddc_208" xml:space="preserve">
+    <value>Sources</value>
+  </data>
+  <data name="Ddc_209" xml:space="preserve">
+    <value>Sects and reform movements</value>
+  </data>
+  <data name="Ddc_210" xml:space="preserve">
+    <value>Philosophy and theory of religion</value>
+  </data>
+  <data name="Ddc_211" xml:space="preserve">
+    <value>Concepts of God</value>
+  </data>
+  <data name="Ddc_212" xml:space="preserve">
+    <value>Existence, knowability &amp; attributes of God</value>
+  </data>
+  <data name="Ddc_213" xml:space="preserve">
+    <value>Creation</value>
+  </data>
+  <data name="Ddc_214" xml:space="preserve">
+    <value>Theodicy</value>
+  </data>
+  <data name="Ddc_215" xml:space="preserve">
+    <value>Science and religion</value>
+  </data>
+  <data name="Ddc_218" xml:space="preserve">
+    <value>Humankind</value>
+  </data>
+  <data name="Ddc_220" xml:space="preserve">
+    <value>Bible</value>
+  </data>
+  <data name="Ddc_221" xml:space="preserve">
+    <value>Old Testament (Tanakh)</value>
+  </data>
+  <data name="Ddc_222" xml:space="preserve">
+    <value>Historical books of Old Testament</value>
+  </data>
+  <data name="Ddc_223" xml:space="preserve">
+    <value>Poetic books of Old Testament</value>
+  </data>
+  <data name="Ddc_224" xml:space="preserve">
+    <value>Prophetic books of Old Testament</value>
+  </data>
+  <data name="Ddc_225" xml:space="preserve">
+    <value>New Testament</value>
+  </data>
+  <data name="Ddc_226" xml:space="preserve">
+    <value>Gospels and Acts</value>
+  </data>
+  <data name="Ddc_227" xml:space="preserve">
+    <value>Epistles</value>
+  </data>
+  <data name="Ddc_228" xml:space="preserve">
+    <value>Revelation (Apocalypse)</value>
+  </data>
+  <data name="Ddc_229" xml:space="preserve">
+    <value>Apocrypha and pseudepigrapha</value>
+  </data>
+  <data name="Ddc_230" xml:space="preserve">
+    <value>Christianity</value>
+  </data>
+  <data name="Ddc_231" xml:space="preserve">
+    <value>God</value>
+  </data>
+  <data name="Ddc_232" xml:space="preserve">
+    <value>Jesus Christ and his family</value>
+  </data>
+  <data name="Ddc_233" xml:space="preserve">
+    <value>Humankind</value>
+  </data>
+  <data name="Ddc_234" xml:space="preserve">
+    <value>Salvation and grace</value>
+  </data>
+  <data name="Ddc_235" xml:space="preserve">
+    <value>Spiritual beings</value>
+  </data>
+  <data name="Ddc_236" xml:space="preserve">
+    <value>Eschatology</value>
+  </data>
+  <data name="Ddc_238" xml:space="preserve">
+    <value>Creeds &amp; catechisms</value>
+  </data>
+  <data name="Ddc_239" xml:space="preserve">
+    <value>Apologetics and polemics</value>
+  </data>
+  <data name="Ddc_240" xml:space="preserve">
+    <value>Christian moral and devotional theology</value>
+  </data>
+  <data name="Ddc_241" xml:space="preserve">
+    <value>Christian ethics</value>
+  </data>
+  <data name="Ddc_242" xml:space="preserve">
+    <value>Devotional literature</value>
+  </data>
+  <data name="Ddc_243" xml:space="preserve">
+    <value>Evangelistic writings for individuals</value>
+  </data>
+  <data name="Ddc_246" xml:space="preserve">
+    <value>Use of art in Christianity</value>
+  </data>
+  <data name="Ddc_247" xml:space="preserve">
+    <value>Church furnishings and related articles</value>
+  </data>
+  <data name="Ddc_248" xml:space="preserve">
+    <value>Christian experience, practice, life</value>
+  </data>
+  <data name="Ddc_249" xml:space="preserve">
+    <value>Christian observances in family life</value>
+  </data>
+  <data name="Ddc_250" xml:space="preserve">
+    <value>Local Christian church and religious orders</value>
+  </data>
+  <data name="Ddc_251" xml:space="preserve">
+    <value>Preaching (Homiletics)</value>
+  </data>
+  <data name="Ddc_252" xml:space="preserve">
+    <value>Texts of sermons</value>
+  </data>
+  <data name="Ddc_253" xml:space="preserve">
+    <value>Pastoral work (Pastoral theology)</value>
+  </data>
+  <data name="Ddc_254" xml:space="preserve">
+    <value>Local church administration</value>
+  </data>
+  <data name="Ddc_255" xml:space="preserve">
+    <value>Religious congregations and orders</value>
+  </data>
+  <data name="Ddc_259" xml:space="preserve">
+    <value>Pastoral care of families &amp; kinds of persons</value>
+  </data>
+  <data name="Ddc_260" xml:space="preserve">
+    <value>Christian social and ecclesiastical theology</value>
+  </data>
+  <data name="Ddc_261" xml:space="preserve">
+    <value>Social theology and interreligious relations</value>
+  </data>
+  <data name="Ddc_262" xml:space="preserve">
+    <value>Ecclesiology</value>
+  </data>
+  <data name="Ddc_263" xml:space="preserve">
+    <value>Days, times, places of religious observance</value>
+  </data>
+  <data name="Ddc_264" xml:space="preserve">
+    <value>Public worship</value>
+  </data>
+  <data name="Ddc_265" xml:space="preserve">
+    <value>Sacraments, other rites and acts</value>
+  </data>
+  <data name="Ddc_266" xml:space="preserve">
+    <value>Missions</value>
+  </data>
+  <data name="Ddc_267" xml:space="preserve">
+    <value>Associations for religious work</value>
+  </data>
+  <data name="Ddc_268" xml:space="preserve">
+    <value>Religious education</value>
+  </data>
+  <data name="Ddc_269" xml:space="preserve">
+    <value>Spiritual renewal</value>
+  </data>
+  <data name="Ddc_270" xml:space="preserve">
+    <value>History, geographic treatment, biography</value>
+  </data>
+  <data name="Ddc_271" xml:space="preserve">
+    <value>Religious orders in church history</value>
+  </data>
+  <data name="Ddc_272" xml:space="preserve">
+    <value>Persecutions in general church history</value>
+  </data>
+  <data name="Ddc_273" xml:space="preserve">
+    <value>Doctrinal controversies &amp; heresies</value>
+  </data>
+  <data name="Ddc_274" xml:space="preserve">
+    <value>History of Christianity in Europe</value>
+  </data>
+  <data name="Ddc_275" xml:space="preserve">
+    <value>History of Christianity in Asia</value>
+  </data>
+  <data name="Ddc_276" xml:space="preserve">
+    <value>History of Christianity in Africa</value>
+  </data>
+  <data name="Ddc_277" xml:space="preserve">
+    <value>History of Christianity in North America</value>
+  </data>
+  <data name="Ddc_278" xml:space="preserve">
+    <value>History of Christianity in South America</value>
+  </data>
+  <data name="Ddc_279" xml:space="preserve">
+    <value>History of Christianity in other areas</value>
+  </data>
+  <data name="Ddc_280" xml:space="preserve">
+    <value>Denominations &amp; sects of Christian church</value>
+  </data>
+  <data name="Ddc_281" xml:space="preserve">
+    <value>Early church and Eastern churches</value>
+  </data>
+  <data name="Ddc_282" xml:space="preserve">
+    <value>Roman Catholic Church</value>
+  </data>
+  <data name="Ddc_283" xml:space="preserve">
+    <value>Anglican churches</value>
+  </data>
+  <data name="Ddc_284" xml:space="preserve">
+    <value>Protestants of Continental origin</value>
+  </data>
+  <data name="Ddc_285" xml:space="preserve">
+    <value>Presbyterian, Reformed &amp; Congregational</value>
+  </data>
+  <data name="Ddc_286" xml:space="preserve">
+    <value>Baptist, Restoration &amp; Adventist</value>
+  </data>
+  <data name="Ddc_287" xml:space="preserve">
+    <value>Methodist and related churches</value>
+  </data>
+  <data name="Ddc_289" xml:space="preserve">
+    <value>Other denominations and sects</value>
+  </data>
+  <data name="Ddc_290" xml:space="preserve">
+    <value>Other religions</value>
+  </data>
+  <data name="Ddc_292" xml:space="preserve">
+    <value>Classical religion (Greek &amp; Roman religion)</value>
+  </data>
+  <data name="Ddc_293" xml:space="preserve">
+    <value>Germanic religion</value>
+  </data>
+  <data name="Ddc_294" xml:space="preserve">
+    <value>Religions of Indic origin</value>
+  </data>
+  <data name="Ddc_295" xml:space="preserve">
+    <value>Zoroastrianism (Mazdaism, Parseeism)</value>
+  </data>
+  <data name="Ddc_296" xml:space="preserve">
+    <value>Judaism</value>
+  </data>
+  <data name="Ddc_297" xml:space="preserve">
+    <value>Islam, Babism &amp; Bahai Faith</value>
+  </data>
+  <data name="Ddc_299" xml:space="preserve">
+    <value>Religions not provided for elsewhere</value>
+  </data>
+  <data name="Ddc_300" xml:space="preserve">
+    <value>Social sciences</value>
+  </data>
+  <data name="Ddc_301" xml:space="preserve">
+    <value>Sociology and anthropology</value>
+  </data>
+  <data name="Ddc_302" xml:space="preserve">
+    <value>Social interaction</value>
+  </data>
+  <data name="Ddc_303" xml:space="preserve">
+    <value>Social processes</value>
+  </data>
+  <data name="Ddc_304" xml:space="preserve">
+    <value>Factors affecting social behavior</value>
+  </data>
+  <data name="Ddc_305" xml:space="preserve">
+    <value>Groups of people</value>
+  </data>
+  <data name="Ddc_306" xml:space="preserve">
+    <value>Culture and institutions</value>
+  </data>
+  <data name="Ddc_307" xml:space="preserve">
+    <value>Communities</value>
+  </data>
+  <data name="Ddc_310" xml:space="preserve">
+    <value>Collections of general statistics</value>
+  </data>
+  <data name="Ddc_314" xml:space="preserve">
+    <value>General statistics of Europe</value>
+  </data>
+  <data name="Ddc_315" xml:space="preserve">
+    <value>General statistics of Asia</value>
+  </data>
+  <data name="Ddc_316" xml:space="preserve">
+    <value>General statistics of Africa</value>
+  </data>
+  <data name="Ddc_317" xml:space="preserve">
+    <value>General statistics of North America</value>
+  </data>
+  <data name="Ddc_318" xml:space="preserve">
+    <value>General statistics of South America</value>
+  </data>
+  <data name="Ddc_319" xml:space="preserve">
+    <value>General statistics of other areas</value>
+  </data>
+  <data name="Ddc_320" xml:space="preserve">
+    <value>Political science (Politics and government)</value>
+  </data>
+  <data name="Ddc_321" xml:space="preserve">
+    <value>Systems of governments and states</value>
+  </data>
+  <data name="Ddc_322" xml:space="preserve">
+    <value>Relation of state to organized groups</value>
+  </data>
+  <data name="Ddc_323" xml:space="preserve">
+    <value>Civil and political rights</value>
+  </data>
+  <data name="Ddc_324" xml:space="preserve">
+    <value>The political process</value>
+  </data>
+  <data name="Ddc_325" xml:space="preserve">
+    <value>International migration and colonization</value>
+  </data>
+  <data name="Ddc_326" xml:space="preserve">
+    <value>Slavery and emancipation</value>
+  </data>
+  <data name="Ddc_327" xml:space="preserve">
+    <value>International relations</value>
+  </data>
+  <data name="Ddc_328" xml:space="preserve">
+    <value>The legislative process</value>
+  </data>
+  <data name="Ddc_330" xml:space="preserve">
+    <value>Economics</value>
+  </data>
+  <data name="Ddc_331" xml:space="preserve">
+    <value>Labor economics</value>
+  </data>
+  <data name="Ddc_332" xml:space="preserve">
+    <value>Financial economics</value>
+  </data>
+  <data name="Ddc_333" xml:space="preserve">
+    <value>Economics of land and energy</value>
+  </data>
+  <data name="Ddc_334" xml:space="preserve">
+    <value>Cooperatives</value>
+  </data>
+  <data name="Ddc_335" xml:space="preserve">
+    <value>Socialism and related systems</value>
+  </data>
+  <data name="Ddc_336" xml:space="preserve">
+    <value>Public finance</value>
+  </data>
+  <data name="Ddc_337" xml:space="preserve">
+    <value>International economics</value>
+  </data>
+  <data name="Ddc_338" xml:space="preserve">
+    <value>Production</value>
+  </data>
+  <data name="Ddc_339" xml:space="preserve">
+    <value>Macroeconomics and related topics</value>
+  </data>
+  <data name="Ddc_340" xml:space="preserve">
+    <value>Law</value>
+  </data>
+  <data name="Ddc_341" xml:space="preserve">
+    <value>Law of nations</value>
+  </data>
+  <data name="Ddc_342" xml:space="preserve">
+    <value>Constitutional and administrative law</value>
+  </data>
+  <data name="Ddc_343" xml:space="preserve">
+    <value>Military, tax, trade and industrial law</value>
+  </data>
+  <data name="Ddc_344" xml:space="preserve">
+    <value>Labor, social, education &amp; cultural law</value>
+  </data>
+  <data name="Ddc_345" xml:space="preserve">
+    <value>Criminal law</value>
+  </data>
+  <data name="Ddc_346" xml:space="preserve">
+    <value>Private law</value>
+  </data>
+  <data name="Ddc_347" xml:space="preserve">
+    <value>Procedure and courts</value>
+  </data>
+  <data name="Ddc_348" xml:space="preserve">
+    <value>Laws, regulations, cases</value>
+  </data>
+  <data name="Ddc_349" xml:space="preserve">
+    <value>Law of specific jurisdictions &amp; areas</value>
+  </data>
+  <data name="Ddc_350" xml:space="preserve">
+    <value>Public administration and military science</value>
+  </data>
+  <data name="Ddc_351" xml:space="preserve">
+    <value>Public administration</value>
+  </data>
+  <data name="Ddc_352" xml:space="preserve">
+    <value>General considerations of public administration</value>
+  </data>
+  <data name="Ddc_353" xml:space="preserve">
+    <value>Specific fields of public administration</value>
+  </data>
+  <data name="Ddc_354" xml:space="preserve">
+    <value>Administration of economy &amp; environment</value>
+  </data>
+  <data name="Ddc_355" xml:space="preserve">
+    <value>Military science</value>
+  </data>
+  <data name="Ddc_356" xml:space="preserve">
+    <value>Foot forces &amp; warfare</value>
+  </data>
+  <data name="Ddc_357" xml:space="preserve">
+    <value>Mounted forces &amp; warfare</value>
+  </data>
+  <data name="Ddc_358" xml:space="preserve">
+    <value>Air &amp; other specialized forces</value>
+  </data>
+  <data name="Ddc_359" xml:space="preserve">
+    <value>Sea forces &amp; warfare</value>
+  </data>
+  <data name="Ddc_360" xml:space="preserve">
+    <value>Social problems &amp; services; associations</value>
+  </data>
+  <data name="Ddc_361" xml:space="preserve">
+    <value>Social problems &amp; services</value>
+  </data>
+  <data name="Ddc_362" xml:space="preserve">
+    <value>Social problems &amp; services to groups</value>
+  </data>
+  <data name="Ddc_363" xml:space="preserve">
+    <value>Other social problems and services</value>
+  </data>
+  <data name="Ddc_364" xml:space="preserve">
+    <value>Criminology</value>
+  </data>
+  <data name="Ddc_365" xml:space="preserve">
+    <value>Penal and related institutions</value>
+  </data>
+  <data name="Ddc_366" xml:space="preserve">
+    <value>Secret associations and societies</value>
+  </data>
+  <data name="Ddc_367" xml:space="preserve">
+    <value>General clubs</value>
+  </data>
+  <data name="Ddc_368" xml:space="preserve">
+    <value>Insurance</value>
+  </data>
+  <data name="Ddc_369" xml:space="preserve">
+    <value>Associations</value>
+  </data>
+  <data name="Ddc_370" xml:space="preserve">
+    <value>Education</value>
+  </data>
+  <data name="Ddc_371" xml:space="preserve">
+    <value>Schools and their activities; special education</value>
+  </data>
+  <data name="Ddc_372" xml:space="preserve">
+    <value>Primary education (Elementary education)</value>
+  </data>
+  <data name="Ddc_373" xml:space="preserve">
+    <value>Secondary education</value>
+  </data>
+  <data name="Ddc_374" xml:space="preserve">
+    <value>Adult education</value>
+  </data>
+  <data name="Ddc_375" xml:space="preserve">
+    <value>Curricula</value>
+  </data>
+  <data name="Ddc_378" xml:space="preserve">
+    <value>Higher education (Tertiary education)</value>
+  </data>
+  <data name="Ddc_379" xml:space="preserve">
+    <value>Public policy issues in education</value>
+  </data>
+  <data name="Ddc_380" xml:space="preserve">
+    <value>Commerce, communications, transportation</value>
+  </data>
+  <data name="Ddc_381" xml:space="preserve">
+    <value>Commerce (Trade)</value>
+  </data>
+  <data name="Ddc_382" xml:space="preserve">
+    <value>International commerce</value>
+  </data>
+  <data name="Ddc_383" xml:space="preserve">
+    <value>Postal communication</value>
+  </data>
+  <data name="Ddc_384" xml:space="preserve">
+    <value>Communications</value>
+  </data>
+  <data name="Ddc_385" xml:space="preserve">
+    <value>Railroad transportation</value>
+  </data>
+  <data name="Ddc_386" xml:space="preserve">
+    <value>Inland waterway and ferry transportation</value>
+  </data>
+  <data name="Ddc_387" xml:space="preserve">
+    <value>Water, air, space transportation</value>
+  </data>
+  <data name="Ddc_388" xml:space="preserve">
+    <value>Transportation</value>
+  </data>
+  <data name="Ddc_389" xml:space="preserve">
+    <value>Metrology and standardization</value>
+  </data>
+  <data name="Ddc_390" xml:space="preserve">
+    <value>Customs, etiquette, folklore</value>
+  </data>
+  <data name="Ddc_391" xml:space="preserve">
+    <value>Costume and personal appearance</value>
+  </data>
+  <data name="Ddc_392" xml:space="preserve">
+    <value>Customs of life cycle and domestic life</value>
+  </data>
+  <data name="Ddc_393" xml:space="preserve">
+    <value>Death customs</value>
+  </data>
+  <data name="Ddc_394" xml:space="preserve">
+    <value>General customs</value>
+  </data>
+  <data name="Ddc_395" xml:space="preserve">
+    <value>Etiquette (Manners)</value>
+  </data>
+  <data name="Ddc_398" xml:space="preserve">
+    <value>Folklore</value>
+  </data>
+  <data name="Ddc_399" xml:space="preserve">
+    <value>Customs of war and diplomacy</value>
+  </data>
+  <data name="Ddc_400" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Ddc_401" xml:space="preserve">
+    <value>Philosophy and theory</value>
+  </data>
+  <data name="Ddc_402" xml:space="preserve">
+      <value>Philosophy Miscellany</value>
+  </data>
+  <data name="Ddc_403" xml:space="preserve">
+    <value>Dictionaries &amp; encyclopedias</value>
+  </data>
+  <data name="Ddc_404" xml:space="preserve">
+    <value>Special topics of language</value>
+  </data>
+  <data name="Ddc_405" xml:space="preserve">
+    <value>Serial publications</value>
+  </data>
+  <data name="Ddc_406" xml:space="preserve">
+    <value>Organizations and management</value>
+  </data>
+  <data name="Ddc_407" xml:space="preserve">
+    <value>Education, research, related topics</value>
+  </data>
+  <data name="Ddc_408" xml:space="preserve">
+    <value>Groups of people</value>
+  </data>
+  <data name="Ddc_409" xml:space="preserve">
+    <value>Geographic treatment and biography</value>
+  </data>
+  <data name="Ddc_410" xml:space="preserve">
+    <value>Linguistics</value>
+  </data>
+  <data name="Ddc_411" xml:space="preserve">
+    <value>Writing systems</value>
+  </data>
+  <data name="Ddc_412" xml:space="preserve">
+    <value>Etymology</value>
+  </data>
+  <data name="Ddc_413" xml:space="preserve">
+    <value>Dictionaries</value>
+  </data>
+  <data name="Ddc_414" xml:space="preserve">
+    <value>Phonology &amp; phonetics</value>
+  </data>
+  <data name="Ddc_415" xml:space="preserve">
+    <value>Grammar</value>
+  </data>
+  <data name="Ddc_417" xml:space="preserve">
+    <value>Dialectology and historical linguistics</value>
+  </data>
+  <data name="Ddc_418" xml:space="preserve">
+    <value>Applied linguistics</value>
+  </data>
+  <data name="Ddc_419" xml:space="preserve">
+    <value>Sign languages</value>
+  </data>
+  <data name="Ddc_420" xml:space="preserve">
+    <value>English &amp; Old English (Anglo-Saxon)</value>
+  </data>
+  <data name="Ddc_421" xml:space="preserve">
+    <value>English writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_422" xml:space="preserve">
+    <value>Etymology of standard English</value>
+  </data>
+  <data name="Ddc_423" xml:space="preserve">
+    <value>Dictionaries of standard English</value>
+  </data>
+  <data name="Ddc_425" xml:space="preserve">
+    <value>Grammar of standard English</value>
+  </data>
+  <data name="Ddc_427" xml:space="preserve">
+    <value>English language variations</value>
+  </data>
+  <data name="Ddc_428" xml:space="preserve">
+    <value>Standard English usage</value>
+  </data>
+  <data name="Ddc_429" xml:space="preserve">
+    <value>Old English (Anglo-Saxon)</value>
+  </data>
+  <data name="Ddc_430" xml:space="preserve">
+    <value>German and related languages</value>
+  </data>
+  <data name="Ddc_431" xml:space="preserve">
+    <value>Writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_432" xml:space="preserve">
+    <value>Etymology of standard German</value>
+  </data>
+  <data name="Ddc_433" xml:space="preserve">
+    <value>Dictionaries of standard German</value>
+  </data>
+  <data name="Ddc_435" xml:space="preserve">
+    <value>Grammar of standard German</value>
+  </data>
+  <data name="Ddc_437" xml:space="preserve">
+    <value>German language variations</value>
+  </data>
+  <data name="Ddc_438" xml:space="preserve">
+    <value>Standard German usage</value>
+  </data>
+  <data name="Ddc_439" xml:space="preserve">
+    <value>Other Germanic languages</value>
+  </data>
+  <data name="Ddc_440" xml:space="preserve">
+    <value>French &amp; related Romance languages</value>
+  </data>
+  <data name="Ddc_441" xml:space="preserve">
+    <value>Writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_442" xml:space="preserve">
+    <value>Etymology of standard French</value>
+  </data>
+  <data name="Ddc_443" xml:space="preserve">
+    <value>Dictionaries of standard French</value>
+  </data>
+  <data name="Ddc_445" xml:space="preserve">
+    <value>Grammar of standard French</value>
+  </data>
+  <data name="Ddc_447" xml:space="preserve">
+    <value>French language variations</value>
+  </data>
+  <data name="Ddc_448" xml:space="preserve">
+    <value>Standard French usage</value>
+  </data>
+  <data name="Ddc_449" xml:space="preserve">
+    <value>Occitan, Catalan, Franco-Provençal</value>
+  </data>
+  <data name="Ddc_450" xml:space="preserve">
+    <value>Italian, Romanian &amp; related languages</value>
+  </data>
+  <data name="Ddc_451" xml:space="preserve">
+    <value>Writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_452" xml:space="preserve">
+    <value>Etymology of standard Italian</value>
+  </data>
+  <data name="Ddc_453" xml:space="preserve">
+    <value>Dictionaries of standard Italian</value>
+  </data>
+  <data name="Ddc_455" xml:space="preserve">
+    <value>Grammar of standard Italian</value>
+  </data>
+  <data name="Ddc_457" xml:space="preserve">
+    <value>Italian language variations</value>
+  </data>
+  <data name="Ddc_458" xml:space="preserve">
+    <value>Standard Italian usage</value>
+  </data>
+  <data name="Ddc_459" xml:space="preserve">
+    <value>Romanian, Rhaetian, Sardinian, Corsican</value>
+  </data>
+  <data name="Ddc_460" xml:space="preserve">
+    <value>Spanish, Portuguese, Galician</value>
+  </data>
+  <data name="Ddc_461" xml:space="preserve">
+    <value>Writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_462" xml:space="preserve">
+    <value>Etymology of standard Spanish</value>
+  </data>
+  <data name="Ddc_463" xml:space="preserve">
+    <value>Dictionaries of standard Spanish</value>
+  </data>
+  <data name="Ddc_465" xml:space="preserve">
+    <value>Grammar of standard Spanish</value>
+  </data>
+  <data name="Ddc_467" xml:space="preserve">
+    <value>Spanish language variations</value>
+  </data>
+  <data name="Ddc_468" xml:space="preserve">
+    <value>Standard Spanish usage</value>
+  </data>
+  <data name="Ddc_469" xml:space="preserve">
+    <value>Portuguese</value>
+  </data>
+  <data name="Ddc_470" xml:space="preserve">
+    <value>Latin and related Italic languages</value>
+  </data>
+  <data name="Ddc_471" xml:space="preserve">
+    <value>Writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_472" xml:space="preserve">
+    <value>Etymology of classical Latin</value>
+  </data>
+  <data name="Ddc_473" xml:space="preserve">
+    <value>Dictionaries of classical Latin</value>
+  </data>
+  <data name="Ddc_475" xml:space="preserve">
+    <value>Grammar of classical Latin</value>
+  </data>
+  <data name="Ddc_477" xml:space="preserve">
+    <value>Old, postclassical, Vulgar Latin</value>
+  </data>
+  <data name="Ddc_478" xml:space="preserve">
+    <value>Classical Latin usage</value>
+  </data>
+  <data name="Ddc_479" xml:space="preserve">
+    <value>Other Italic languages</value>
+  </data>
+  <data name="Ddc_480" xml:space="preserve">
+    <value>Classical Greek; Hellenic languages</value>
+  </data>
+  <data name="Ddc_481" xml:space="preserve">
+    <value>Writing system, phonology, phonetics</value>
+  </data>
+  <data name="Ddc_482" xml:space="preserve">
+    <value>Etymology of classical Greek</value>
+  </data>
+  <data name="Ddc_483" xml:space="preserve">
+    <value>Dictionaries of classical Greek</value>
+  </data>
+  <data name="Ddc_485" xml:space="preserve">
+    <value>Grammar of classical Greek</value>
+  </data>
+  <data name="Ddc_487" xml:space="preserve">
+    <value>Preclassical and postclassical Greek</value>
+  </data>
+  <data name="Ddc_488" xml:space="preserve">
+    <value>Classical Greek usage</value>
+  </data>
+  <data name="Ddc_489" xml:space="preserve">
+    <value>Other Hellenic languages</value>
+  </data>
+  <data name="Ddc_490" xml:space="preserve">
+    <value>Other languages</value>
+  </data>
+  <data name="Ddc_491" xml:space="preserve">
+    <value>East Indo-European and Celtic languages</value>
+  </data>
+  <data name="Ddc_492" xml:space="preserve">
+    <value>Afro-Asiatic languages</value>
+  </data>
+  <data name="Ddc_493" xml:space="preserve">
+    <value>Non-Semitic Afro-Asiatic languages</value>
+  </data>
+  <data name="Ddc_494" xml:space="preserve">
+    <value>Altaic, Uralic, Hyperborean &amp; Dravidian</value>
+  </data>
+  <data name="Ddc_495" xml:space="preserve">
+    <value>Languages of East and Southeast Asia</value>
+  </data>
+  <data name="Ddc_496" xml:space="preserve">
+    <value>African languages</value>
+  </data>
+  <data name="Ddc_497" xml:space="preserve">
+    <value>North American native languages</value>
+  </data>
+  <data name="Ddc_498" xml:space="preserve">
+    <value>South American native languages</value>
+  </data>
+  <data name="Ddc_499" xml:space="preserve">
+    <value>Austronesian &amp; other languages</value>
+  </data>
+  <data name="Ddc_500" xml:space="preserve">
+    <value>Natural Sciences and Mathemetics</value>
+  </data>
+  <data name="Ddc_501" xml:space="preserve">
+    <value>Philosophy and theory</value>
+  </data>
+  <data name="Ddc_502" xml:space="preserve">
+      <value>Philosophy Miscellany</value>
+  </data>
+  <data name="Ddc_503" xml:space="preserve">
+    <value>Dictionaries &amp; encyclopedias</value>
+  </data>
+  <data name="Ddc_505" xml:space="preserve">
+    <value>Serial publications</value>
+  </data>
+  <data name="Ddc_506" xml:space="preserve">
+    <value>Organizations and management</value>
+  </data>
+  <data name="Ddc_507" xml:space="preserve">
+    <value>Education, research, related topics</value>
+  </data>
+  <data name="Ddc_508" xml:space="preserve">
+    <value>Natural history</value>
+  </data>
+  <data name="Ddc_509" xml:space="preserve">
+    <value>History, geographic treatment, biography</value>
+  </data>
+  <data name="Ddc_510" xml:space="preserve">
+    <value>Mathematics</value>
+  </data>
+  <data name="Ddc_511" xml:space="preserve">
+    <value>General principles of mathematics</value>
+  </data>
+  <data name="Ddc_512" xml:space="preserve">
+    <value>Algebra</value>
+  </data>
+  <data name="Ddc_513" xml:space="preserve">
+    <value>Arithmetic</value>
+  </data>
+  <data name="Ddc_514" xml:space="preserve">
+    <value>Topology</value>
+  </data>
+  <data name="Ddc_515" xml:space="preserve">
+    <value>Analysis</value>
+  </data>
+  <data name="Ddc_516" xml:space="preserve">
+    <value>Geometry</value>
+  </data>
+  <data name="Ddc_518" xml:space="preserve">
+    <value>Numerical analysis</value>
+  </data>
+  <data name="Ddc_519" xml:space="preserve">
+    <value>Probabilities and applied mathematics</value>
+  </data>
+  <data name="Ddc_520" xml:space="preserve">
+    <value>Astronomy and allied sciences</value>
+  </data>
+  <data name="Ddc_521" xml:space="preserve">
+    <value>Celestial mechanics</value>
+  </data>
+  <data name="Ddc_522" xml:space="preserve">
+    <value>Techniques, equipment &amp; materials</value>
+  </data>
+  <data name="Ddc_523" xml:space="preserve">
+    <value>Specific celestial bodies and phenomena</value>
+  </data>
+  <data name="Ddc_525" xml:space="preserve">
+    <value>Earth (Astronomical geography)</value>
+  </data>
+  <data name="Ddc_526" xml:space="preserve">
+    <value>Mathematical geography</value>
+  </data>
+  <data name="Ddc_527" xml:space="preserve">
+    <value>Celestial navigation</value>
+  </data>
+  <data name="Ddc_528" xml:space="preserve">
+    <value>Ephemerides</value>
+  </data>
+  <data name="Ddc_529" xml:space="preserve">
+    <value>Chronology</value>
+  </data>
+  <data name="Ddc_530" xml:space="preserve">
+    <value>Physics</value>
+  </data>
+  <data name="Ddc_531" xml:space="preserve">
+    <value>Classical mechanics</value>
+  </data>
+  <data name="Ddc_532" xml:space="preserve">
+    <value>Fluid mechanics</value>
+  </data>
+  <data name="Ddc_533" xml:space="preserve">
+    <value>Pneumatics (Gas mechanics)</value>
+  </data>
+  <data name="Ddc_534" xml:space="preserve">
+    <value>Sound and related vibrations</value>
+  </data>
+  <data name="Ddc_535" xml:space="preserve">
+    <value>Light and related radiation</value>
+  </data>
+  <data name="Ddc_536" xml:space="preserve">
+    <value>Heat</value>
+  </data>
+  <data name="Ddc_537" xml:space="preserve">
+    <value>Electricity and electronics</value>
+  </data>
+  <data name="Ddc_538" xml:space="preserve">
+    <value>Magnetism</value>
+  </data>
+  <data name="Ddc_539" xml:space="preserve">
+    <value>Modern physics</value>
+  </data>
+  <data name="Ddc_540" xml:space="preserve">
+    <value>Chemistry and allied sciences</value>
+  </data>
+  <data name="Ddc_541" xml:space="preserve">
+    <value>Physical chemistry</value>
+  </data>
+  <data name="Ddc_542" xml:space="preserve">
+    <value>Techniques, equipment &amp; materials</value>
+  </data>
+  <data name="Ddc_543" xml:space="preserve">
+    <value>Analytical chemistry</value>
+  </data>
+  <data name="Ddc_546" xml:space="preserve">
+    <value>Inorganic chemistry</value>
+  </data>
+  <data name="Ddc_547" xml:space="preserve">
+    <value>Organic chemistry</value>
+  </data>
+  <data name="Ddc_548" xml:space="preserve">
+    <value>Crystallography</value>
+  </data>
+  <data name="Ddc_549" xml:space="preserve">
+    <value>Mineralogy</value>
+  </data>
+  <data name="Ddc_550" xml:space="preserve">
+    <value>Earth sciences</value>
+  </data>
+  <data name="Ddc_551" xml:space="preserve">
+    <value>Geology, hydrology, meteorology</value>
+  </data>
+  <data name="Ddc_552" xml:space="preserve">
+    <value>Petrology</value>
+  </data>
+  <data name="Ddc_553" xml:space="preserve">
+    <value>Economic geology</value>
+  </data>
+  <data name="Ddc_554" xml:space="preserve">
+    <value>Earth sciences of Europe</value>
+  </data>
+  <data name="Ddc_555" xml:space="preserve">
+    <value>Earth sciences of Asia</value>
+  </data>
+  <data name="Ddc_556" xml:space="preserve">
+    <value>Earth sciences of Africa</value>
+  </data>
+  <data name="Ddc_557" xml:space="preserve">
+    <value>Earth sciences of North America</value>
+  </data>
+  <data name="Ddc_558" xml:space="preserve">
+    <value>Earth sciences of South America</value>
+  </data>
+  <data name="Ddc_559" xml:space="preserve">
+    <value>Earth sciences of other areas</value>
+  </data>
+  <data name="Ddc_560" xml:space="preserve">
+    <value>Paleontology</value>
+  </data>
+  <data name="Ddc_561" xml:space="preserve">
+    <value>Paleobotany; fossil microorganisms</value>
+  </data>
+  <data name="Ddc_562" xml:space="preserve">
+    <value>Fossil invertebrates</value>
+  </data>
+  <data name="Ddc_563" xml:space="preserve">
+    <value>Fossil marine &amp; seashore invertebrates</value>
+  </data>
+  <data name="Ddc_564" xml:space="preserve">
+    <value>Fossil Mollucas &amp; Molluscoidea</value>
+  </data>
+  <data name="Ddc_565" xml:space="preserve">
+    <value>Fossil Arthropoda</value>
+  </data>
+  <data name="Ddc_566" xml:space="preserve">
+    <value>Fossil Chordata</value>
+  </data>
+  <data name="Ddc_567" xml:space="preserve">
+    <value>Fossil cold-blooded vertebrates</value>
+  </data>
+  <data name="Ddc_568" xml:space="preserve">
+    <value>Fossil Aves (birds)</value>
+  </data>
+  <data name="Ddc_569" xml:space="preserve">
+    <value>Fossil Mammalia</value>
+  </data>
+  <data name="Ddc_570" xml:space="preserve">
+    <value>Biology</value>
+  </data>
+  <data name="Ddc_571" xml:space="preserve">
+    <value>Physiology &amp; related subjects</value>
+  </data>
+  <data name="Ddc_572" xml:space="preserve">
+    <value>Biochemistry</value>
+  </data>
+  <data name="Ddc_573" xml:space="preserve">
+    <value>Specific physiological systems in animals</value>
+  </data>
+  <data name="Ddc_575" xml:space="preserve">
+    <value>Specific parts of &amp; systems in plants</value>
+  </data>
+  <data name="Ddc_576" xml:space="preserve">
+    <value>Genetics and evolution</value>
+  </data>
+  <data name="Ddc_577" xml:space="preserve">
+    <value>Ecology</value>
+  </data>
+  <data name="Ddc_578" xml:space="preserve">
+    <value>Natural history of organisms</value>
+  </data>
+  <data name="Ddc_579" xml:space="preserve">
+    <value>Microorganisms, fungi &amp; algae</value>
+  </data>
+  <data name="Ddc_580" xml:space="preserve">
+    <value>Plants</value>
+  </data>
+  <data name="Ddc_581" xml:space="preserve">
+    <value>Specific topics in natural history of plants</value>
+  </data>
+  <data name="Ddc_582" xml:space="preserve">
+    <value>Plants noted for characteristics &amp; flowers</value>
+  </data>
+  <data name="Ddc_583" xml:space="preserve">
+    <value>Eudicots and Ceratophyllales</value>
+  </data>
+  <data name="Ddc_584" xml:space="preserve">
+    <value>Monocots, Chloranthales, magnoliids</value>
+  </data>
+  <data name="Ddc_585" xml:space="preserve">
+    <value>Pinophyta</value>
+  </data>
+  <data name="Ddc_586" xml:space="preserve">
+    <value>Cryptogamia</value>
+  </data>
+  <data name="Ddc_587" xml:space="preserve">
+    <value>Pteridophyta</value>
+  </data>
+  <data name="Ddc_588" xml:space="preserve">
+    <value>Bryophyta</value>
+  </data>
+  <data name="Ddc_590" xml:space="preserve">
+    <value>Animals</value>
+  </data>
+  <data name="Ddc_591" xml:space="preserve">
+    <value>Specific topics in natural history of animals</value>
+  </data>
+  <data name="Ddc_592" xml:space="preserve">
+    <value>Invertebrates</value>
+  </data>
+  <data name="Ddc_593" xml:space="preserve">
+    <value>Marine &amp; seashore invertebrates</value>
+  </data>
+  <data name="Ddc_594" xml:space="preserve">
+    <value>Mollusca and Molluscoidea</value>
+  </data>
+  <data name="Ddc_595" xml:space="preserve">
+    <value>Arthropoda</value>
+  </data>
+  <data name="Ddc_596" xml:space="preserve">
+    <value>Chordata</value>
+  </data>
+  <data name="Ddc_597" xml:space="preserve">
+    <value>Cold-blooded vertebrates</value>
+  </data>
+  <data name="Ddc_598" xml:space="preserve">
+    <value>Aves</value>
+  </data>
+  <data name="Ddc_599" xml:space="preserve">
+    <value>Mammalia</value>
+  </data>
+  <data name="Ddc_600" xml:space="preserve">
+    <value>Technology (Applied sciences)</value>
+  </data>
+  <data name="Ddc_601" xml:space="preserve">
+    <value>Philosophy and theory</value>
+  </data>
+  <data name="Ddc_602" xml:space="preserve">
+    <value>Miscellany</value>
+  </data>
+  <data name="Ddc_603" xml:space="preserve">
+    <value>Dictionaries, encyclopedias, concordances</value>
+  </data>
+  <data name="Ddc_604" xml:space="preserve">
+    <value>Technical drawing, hazardous materials</value>
+  </data>
+  <data name="Ddc_605" xml:space="preserve">
+    <value>Serial publications</value>
+  </data>
+  <data name="Ddc_606" xml:space="preserve">
+    <value>Organizations</value>
+  </data>
+  <data name="Ddc_607" xml:space="preserve">
+    <value>Education, research, related topics</value>
+  </data>
+  <data name="Ddc_608" xml:space="preserve">
+    <value>Patents</value>
+  </data>
+  <data name="Ddc_609" xml:space="preserve">
+    <value>History, geographic treatment, biography</value>
+  </data>
+  <data name="Ddc_610" xml:space="preserve">
+    <value>Medicine and health</value>
+  </data>
+  <data name="Ddc_611" xml:space="preserve">
+    <value>Human anatomy, cytology, histology</value>
+  </data>
+  <data name="Ddc_612" xml:space="preserve">
+    <value>Human physiology</value>
+  </data>
+  <data name="Ddc_613" xml:space="preserve">
+    <value>Personal health &amp; safety</value>
+  </data>
+  <data name="Ddc_614" xml:space="preserve">
+    <value>Forensic medicine; incidence of disease</value>
+  </data>
+  <data name="Ddc_615" xml:space="preserve">
+    <value>Pharmacology and therapeutics</value>
+  </data>
+  <data name="Ddc_616" xml:space="preserve">
+    <value>Diseases</value>
+  </data>
+  <data name="Ddc_617" xml:space="preserve">
+    <value>Surgery &amp; related medical specialties</value>
+  </data>
+  <data name="Ddc_618" xml:space="preserve">
+    <value>Gynecology, obstetrics, pediatrics, geriatrics</value>
+  </data>
+  <data name="Ddc_620" xml:space="preserve">
+    <value>Engineering and allied operations</value>
+  </data>
+  <data name="Ddc_621" xml:space="preserve">
+    <value>Applied physics</value>
+  </data>
+  <data name="Ddc_622" xml:space="preserve">
+    <value>Mining and related operations</value>
+  </data>
+  <data name="Ddc_623" xml:space="preserve">
+    <value>Military and nautical engineering</value>
+  </data>
+  <data name="Ddc_624" xml:space="preserve">
+    <value>Civil engineering</value>
+  </data>
+  <data name="Ddc_625" xml:space="preserve">
+    <value>Engineering of railroads and roads</value>
+  </data>
+  <data name="Ddc_627" xml:space="preserve">
+    <value>Hydraulic engineering</value>
+  </data>
+  <data name="Ddc_628" xml:space="preserve">
+    <value>Sanitary engineering</value>
+  </data>
+  <data name="Ddc_629" xml:space="preserve">
+    <value>Other branches of engineering</value>
+  </data>
+  <data name="Ddc_630" xml:space="preserve">
+    <value>Agriculture and related technologies</value>
+  </data>
+  <data name="Ddc_631" xml:space="preserve">
+    <value>Techniques, equipment &amp; materials</value>
+  </data>
+  <data name="Ddc_632" xml:space="preserve">
+    <value>Plant injuries, diseases, pests</value>
+  </data>
+  <data name="Ddc_633" xml:space="preserve">
+    <value>Field and plantation crops</value>
+  </data>
+  <data name="Ddc_634" xml:space="preserve">
+    <value>Orchards, fruits, forestry</value>
+  </data>
+  <data name="Ddc_635" xml:space="preserve">
+    <value>Garden crops (Horticulture)</value>
+  </data>
+  <data name="Ddc_636" xml:space="preserve">
+    <value>Animal husbandry</value>
+  </data>
+  <data name="Ddc_637" xml:space="preserve">
+    <value>Processing dairy and related products</value>
+  </data>
+  <data name="Ddc_638" xml:space="preserve">
+    <value>Insect culture</value>
+  </data>
+  <data name="Ddc_639" xml:space="preserve">
+    <value>Hunting, fishing &amp; conservation</value>
+  </data>
+  <data name="Ddc_640" xml:space="preserve">
+    <value>Home and family management</value>
+  </data>
+  <data name="Ddc_641" xml:space="preserve">
+    <value>Food and drink</value>
+  </data>
+  <data name="Ddc_642" xml:space="preserve">
+    <value>Meals and table service</value>
+  </data>
+  <data name="Ddc_643" xml:space="preserve">
+    <value>Housing and household equipment</value>
+  </data>
+  <data name="Ddc_644" xml:space="preserve">
+    <value>Household utilities</value>
+  </data>
+  <data name="Ddc_645" xml:space="preserve">
+    <value>Household furnishings</value>
+  </data>
+  <data name="Ddc_646" xml:space="preserve">
+    <value>Sewing, clothing &amp; personal living</value>
+  </data>
+  <data name="Ddc_647" xml:space="preserve">
+    <value>Management of public households</value>
+  </data>
+  <data name="Ddc_648" xml:space="preserve">
+    <value>Housekeeping</value>
+  </data>
+  <data name="Ddc_649" xml:space="preserve">
+    <value>Child rearing &amp; home care of people</value>
+  </data>
+  <data name="Ddc_650" xml:space="preserve">
+    <value>Management and auxiliary services</value>
+  </data>
+  <data name="Ddc_651" xml:space="preserve">
+    <value>Office services</value>
+  </data>
+  <data name="Ddc_652" xml:space="preserve">
+    <value>Processes of written communication</value>
+  </data>
+  <data name="Ddc_653" xml:space="preserve">
+    <value>Shorthand</value>
+  </data>
+  <data name="Ddc_657" xml:space="preserve">
+    <value>Accounting</value>
+  </data>
+  <data name="Ddc_658" xml:space="preserve">
+    <value>General management</value>
+  </data>
+  <data name="Ddc_659" xml:space="preserve">
+    <value>Advertising and public relations</value>
+  </data>
+  <data name="Ddc_660" xml:space="preserve">
+    <value>Chemical engineering</value>
+  </data>
+  <data name="Ddc_661" xml:space="preserve">
+    <value>Technology of industrial chemicals</value>
+  </data>
+  <data name="Ddc_662" xml:space="preserve">
+    <value>Explosives, fuels &amp; related products</value>
+  </data>
+  <data name="Ddc_663" xml:space="preserve">
+    <value>Beverage technology</value>
+  </data>
+  <data name="Ddc_664" xml:space="preserve">
+    <value>Food technology</value>
+  </data>
+  <data name="Ddc_665" xml:space="preserve">
+    <value>Industrial oils, fats, waxes &amp; gases</value>
+  </data>
+  <data name="Ddc_666" xml:space="preserve">
+    <value>Ceramic &amp; allied technologies</value>
+  </data>
+  <data name="Ddc_667" xml:space="preserve">
+    <value>Cleaning, color &amp; coating technologies</value>
+  </data>
+  <data name="Ddc_668" xml:space="preserve">
+    <value>Technology of other organic products</value>
+  </data>
+  <data name="Ddc_669" xml:space="preserve">
+    <value>Metallurgy</value>
+  </data>
+  <data name="Ddc_670" xml:space="preserve">
+    <value>Manufacturing</value>
+  </data>
+  <data name="Ddc_671" xml:space="preserve">
+    <value>Metalworking &amp; primary metal products</value>
+  </data>
+  <data name="Ddc_672" xml:space="preserve">
+    <value>Iron, steel, other iron alloys</value>
+  </data>
+  <data name="Ddc_673" xml:space="preserve">
+    <value>Nonferrous metals</value>
+  </data>
+  <data name="Ddc_674" xml:space="preserve">
+    <value>Lumber processing, wood products, cork</value>
+  </data>
+  <data name="Ddc_675" xml:space="preserve">
+    <value>Leather and fur processing</value>
+  </data>
+  <data name="Ddc_676" xml:space="preserve">
+    <value>Pulp and paper technology</value>
+  </data>
+  <data name="Ddc_677" xml:space="preserve">
+    <value>Textiles</value>
+  </data>
+  <data name="Ddc_678" xml:space="preserve">
+    <value>Elastomers and elastomer products</value>
+  </data>
+  <data name="Ddc_679" xml:space="preserve">
+    <value>Other products of specific materials</value>
+  </data>
+  <data name="Ddc_680" xml:space="preserve">
+    <value>Manufacture of products for specific uses</value>
+  </data>
+  <data name="Ddc_681" xml:space="preserve">
+    <value>Precision instruments and other devices</value>
+  </data>
+  <data name="Ddc_682" xml:space="preserve">
+    <value>Small forge work (Blacksmithing)</value>
+  </data>
+  <data name="Ddc_683" xml:space="preserve">
+    <value>Hardware &amp; household appliances</value>
+  </data>
+  <data name="Ddc_684" xml:space="preserve">
+    <value>Furnishings and home workshops</value>
+  </data>
+  <data name="Ddc_685" xml:space="preserve">
+    <value>Leather, fur goods &amp; related products</value>
+  </data>
+  <data name="Ddc_686" xml:space="preserve">
+    <value>Printing and related activities</value>
+  </data>
+  <data name="Ddc_687" xml:space="preserve">
+    <value>Clothing and accessories</value>
+  </data>
+  <data name="Ddc_688" xml:space="preserve">
+    <value>Other final products &amp; packaging</value>
+  </data>
+  <data name="Ddc_690" xml:space="preserve">
+    <value>Construction of buildings</value>
+  </data>
+  <data name="Ddc_691" xml:space="preserve">
+    <value>Building materials</value>
+  </data>
+  <data name="Ddc_692" xml:space="preserve">
+    <value>Auxiliary construction practices</value>
+  </data>
+  <data name="Ddc_693" xml:space="preserve">
+    <value>Specific materials &amp; purposes</value>
+  </data>
+  <data name="Ddc_694" xml:space="preserve">
+    <value>Wood construction</value>
+  </data>
+  <data name="Ddc_695" xml:space="preserve">
+    <value>Roof covering</value>
+  </data>
+  <data name="Ddc_696" xml:space="preserve">
+    <value>Utilities</value>
+  </data>
+  <data name="Ddc_697" xml:space="preserve">
+    <value>Heating, ventilating &amp; air-conditioning</value>
+  </data>
+  <data name="Ddc_698" xml:space="preserve">
+    <value>Detail finishing</value>
+  </data>
+  <data name="Ddc_700" xml:space="preserve">
+    <value>The arts</value>
+  </data>
+  <data name="Ddc_701" xml:space="preserve">
+    <value>Philosophy of fine &amp; decorative arts</value>
+  </data>
+  <data name="Ddc_702" xml:space="preserve">
+    <value>Miscellany of fine and decorative arts</value>
+  </data>
+  <data name="Ddc_703" xml:space="preserve">
+    <value>Dictionaries of fine &amp; decorative arts</value>
+  </data>
+  <data name="Ddc_704" xml:space="preserve">
+    <value>Special topics in fine and decorative arts</value>
+  </data>
+  <data name="Ddc_705" xml:space="preserve">
+    <value>Serial publications of fine &amp; decorative arts</value>
+  </data>
+  <data name="Ddc_706" xml:space="preserve">
+    <value>Organizations &amp; management</value>
+  </data>
+  <data name="Ddc_707" xml:space="preserve">
+    <value>Education, research &amp; related topics</value>
+  </data>
+  <data name="Ddc_708" xml:space="preserve">
+    <value>Galleries, museums &amp; private collections</value>
+  </data>
+  <data name="Ddc_709" xml:space="preserve">
+    <value>History, geographic treatment, biography</value>
+  </data>
+  <data name="Ddc_710" xml:space="preserve">
+    <value>Area planning and landscape architecture</value>
+  </data>
+  <data name="Ddc_711" xml:space="preserve">
+    <value>Area planning (Civic art)</value>
+  </data>
+  <data name="Ddc_712" xml:space="preserve">
+    <value>Landscape architecture (Landscape design)</value>
+  </data>
+  <data name="Ddc_713" xml:space="preserve">
+    <value>Landscape architecture of trafficways</value>
+  </data>
+  <data name="Ddc_714" xml:space="preserve">
+    <value>Water features in landscape architecture</value>
+  </data>
+  <data name="Ddc_715" xml:space="preserve">
+    <value>Woody plants in landscape architecture</value>
+  </data>
+  <data name="Ddc_716" xml:space="preserve">
+    <value>Herbaceous plants</value>
+  </data>
+  <data name="Ddc_717" xml:space="preserve">
+    <value>Structures in landscape architecture</value>
+  </data>
+  <data name="Ddc_718" xml:space="preserve">
+    <value>Landscape design of cemeteries</value>
+  </data>
+  <data name="Ddc_719" xml:space="preserve">
+    <value>Natural landscapes</value>
+  </data>
+  <data name="Ddc_720" xml:space="preserve">
+    <value>Architecture</value>
+  </data>
+  <data name="Ddc_721" xml:space="preserve">
+    <value>Architectural materials and structure</value>
+  </data>
+  <data name="Ddc_722" xml:space="preserve">
+    <value>Architecture from earliest times to ca. 300</value>
+  </data>
+  <data name="Ddc_723" xml:space="preserve">
+    <value>Architecture from ca. 300 to 1399</value>
+  </data>
+  <data name="Ddc_724" xml:space="preserve">
+    <value>Architecture from 1400</value>
+  </data>
+  <data name="Ddc_725" xml:space="preserve">
+    <value>Public structures</value>
+  </data>
+  <data name="Ddc_726" xml:space="preserve">
+    <value>Buildings for religious and related purposes</value>
+  </data>
+  <data name="Ddc_727" xml:space="preserve">
+    <value>Buildings for education &amp; research</value>
+  </data>
+  <data name="Ddc_728" xml:space="preserve">
+    <value>Residential and related buildings</value>
+  </data>
+  <data name="Ddc_729" xml:space="preserve">
+    <value>Design &amp; decoration</value>
+  </data>
+  <data name="Ddc_730" xml:space="preserve">
+    <value>Sculpture and related arts</value>
+  </data>
+  <data name="Ddc_731" xml:space="preserve">
+    <value>Processes, forms, subjects of sculpture</value>
+  </data>
+  <data name="Ddc_732" xml:space="preserve">
+    <value>Sculpture to ca. 500</value>
+  </data>
+  <data name="Ddc_733" xml:space="preserve">
+    <value>Greek, Etruscan, Roman sculpture</value>
+  </data>
+  <data name="Ddc_734" xml:space="preserve">
+    <value>Sculpture from ca. 500 to 1399</value>
+  </data>
+  <data name="Ddc_735" xml:space="preserve">
+    <value>Sculpture from 1400</value>
+  </data>
+  <data name="Ddc_736" xml:space="preserve">
+    <value>Carving and carvings</value>
+  </data>
+  <data name="Ddc_737" xml:space="preserve">
+    <value>Numismatics and sigillography</value>
+  </data>
+  <data name="Ddc_738" xml:space="preserve">
+    <value>Ceramic arts</value>
+  </data>
+  <data name="Ddc_739" xml:space="preserve">
+    <value>Art metalwork</value>
+  </data>
+  <data name="Ddc_740" xml:space="preserve">
+    <value>Graphic arts and decorative arts</value>
+  </data>
+  <data name="Ddc_741" xml:space="preserve">
+    <value>Drawing and drawings</value>
+  </data>
+  <data name="Ddc_742" xml:space="preserve">
+    <value>Perspective in drawing</value>
+  </data>
+  <data name="Ddc_743" xml:space="preserve">
+    <value>Drawing and drawings by subject</value>
+  </data>
+  <data name="Ddc_745" xml:space="preserve">
+    <value>Decorative arts</value>
+  </data>
+  <data name="Ddc_746" xml:space="preserve">
+    <value>Textile arts</value>
+  </data>
+  <data name="Ddc_747" xml:space="preserve">
+    <value>Interior decoration</value>
+  </data>
+  <data name="Ddc_748" xml:space="preserve">
+    <value>Glass</value>
+  </data>
+  <data name="Ddc_749" xml:space="preserve">
+    <value>Furniture and accessories</value>
+  </data>
+  <data name="Ddc_750" xml:space="preserve">
+    <value>Painting and paintings</value>
+  </data>
+  <data name="Ddc_751" xml:space="preserve">
+    <value>Techniques, equipment, materials &amp; forms</value>
+  </data>
+  <data name="Ddc_752" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="Ddc_753" xml:space="preserve">
+    <value>Symbolism, allegory, mythology, legend</value>
+  </data>
+  <data name="Ddc_754" xml:space="preserve">
+    <value>Genre paintings</value>
+  </data>
+  <data name="Ddc_755" xml:space="preserve">
+    <value>Religion</value>
+  </data>
+  <data name="Ddc_757" xml:space="preserve">
+    <value>Human figures</value>
+  </data>
+  <data name="Ddc_758" xml:space="preserve">
+    <value>Nature, cityscapes &amp; other subjects</value>
+  </data>
+  <data name="Ddc_759" xml:space="preserve">
+    <value>History, geographic treatment, biography</value>
+  </data>
+  <data name="Ddc_760" xml:space="preserve">
+    <value>Printmaking &amp; prints</value>
+  </data>
+  <data name="Ddc_761" xml:space="preserve">
+    <value>Relief processes (Block printing)</value>
+  </data>
+  <data name="Ddc_763" xml:space="preserve">
+    <value>Lithographic processes</value>
+  </data>
+  <data name="Ddc_764" xml:space="preserve">
+    <value>Chromolithography and serigraphy</value>
+  </data>
+  <data name="Ddc_765" xml:space="preserve">
+    <value>Metal engraving</value>
+  </data>
+  <data name="Ddc_766" xml:space="preserve">
+    <value>Mezzotinting, aquatinting, related processes</value>
+  </data>
+  <data name="Ddc_767" xml:space="preserve">
+    <value>Etching and drypoint</value>
+  </data>
+  <data name="Ddc_769" xml:space="preserve">
+    <value>Prints</value>
+  </data>
+  <data name="Ddc_770" xml:space="preserve">
+    <value>Photography, computer art, cinematography</value>
+  </data>
+  <data name="Ddc_771" xml:space="preserve">
+    <value>Techniques, equipment &amp; materials</value>
+  </data>
+  <data name="Ddc_772" xml:space="preserve">
+    <value>Metallic salt processes</value>
+  </data>
+  <data name="Ddc_773" xml:space="preserve">
+    <value>Pigment processes of printing</value>
+  </data>
+  <data name="Ddc_774" xml:space="preserve">
+    <value>Holography</value>
+  </data>
+  <data name="Ddc_776" xml:space="preserve">
+    <value>Computer art (Digital art)</value>
+  </data>
+  <data name="Ddc_777" xml:space="preserve">
+    <value>Cinematography and videography</value>
+  </data>
+  <data name="Ddc_778" xml:space="preserve">
+    <value>Specific fields &amp; kinds of photography</value>
+  </data>
+  <data name="Ddc_779" xml:space="preserve">
+    <value>Photographic images</value>
+  </data>
+  <data name="Ddc_780" xml:space="preserve">
+    <value>Music</value>
+  </data>
+  <data name="Ddc_781" xml:space="preserve">
+    <value>General principles and musical forms</value>
+  </data>
+  <data name="Ddc_782" xml:space="preserve">
+    <value>Vocal music</value>
+  </data>
+  <data name="Ddc_783" xml:space="preserve">
+    <value>Music for single voices</value>
+  </data>
+  <data name="Ddc_784" xml:space="preserve">
+    <value>Instruments &amp; instrumental ensembles</value>
+  </data>
+  <data name="Ddc_785" xml:space="preserve">
+    <value>Ensembles with one instrument per part</value>
+  </data>
+  <data name="Ddc_786" xml:space="preserve">
+    <value>Keyboard &amp; other instruments</value>
+  </data>
+  <data name="Ddc_787" xml:space="preserve">
+    <value>Stringed instruments (Chordophones)</value>
+  </data>
+  <data name="Ddc_788" xml:space="preserve">
+    <value>Wind instruments (Aerophones)</value>
+  </data>
+  <data name="Ddc_790" xml:space="preserve">
+    <value>Recreational and performing arts</value>
+  </data>
+  <data name="Ddc_791" xml:space="preserve">
+    <value>Public performances</value>
+  </data>
+  <data name="Ddc_792" xml:space="preserve">
+    <value>Stage presentations</value>
+  </data>
+  <data name="Ddc_793" xml:space="preserve">
+    <value>Indoor games and amusements</value>
+  </data>
+  <data name="Ddc_794" xml:space="preserve">
+    <value>Indoor games of skill</value>
+  </data>
+  <data name="Ddc_795" xml:space="preserve">
+    <value>Games of chance</value>
+  </data>
+  <data name="Ddc_796" xml:space="preserve">
+    <value>Athletic and outdoor sports and games</value>
+  </data>
+  <data name="Ddc_797" xml:space="preserve">
+    <value>Aquatic and air sports</value>
+  </data>
+  <data name="Ddc_798" xml:space="preserve">
+    <value>Equestrian sports and animal racing</value>
+  </data>
+  <data name="Ddc_799" xml:space="preserve">
+    <value>Fishing, hunting, shooting</value>
+  </data>
+  <data name="Ddc_800" xml:space="preserve">
+    <value>Literature (Belles-lettres) and rhetoric</value>
+  </data>
+  <data name="Ddc_801" xml:space="preserve">
+    <value>Philosophy and theory</value>
+  </data>
+  <data name="Ddc_802" xml:space="preserve">
+      <value>Literature Miscellany</value>
+  </data>
+  <data name="Ddc_803" xml:space="preserve">
+    <value>Dictionaries &amp; encyclopedias</value>
+  </data>
+  <data name="Ddc_805" xml:space="preserve">
+    <value>Serial publications</value>
+  </data>
+  <data name="Ddc_806" xml:space="preserve">
+    <value>Organizations and management</value>
+  </data>
+  <data name="Ddc_807" xml:space="preserve">
+    <value>Education, research, related topics</value>
+  </data>
+  <data name="Ddc_808" xml:space="preserve">
+    <value>Rhetoric &amp; collections of literature</value>
+  </data>
+  <data name="Ddc_809" xml:space="preserve">
+    <value>History, description &amp; criticism</value>
+  </data>
+  <data name="Ddc_810" xml:space="preserve">
+    <value>American literature in English</value>
+  </data>
+  <data name="Ddc_811" xml:space="preserve">
+    <value>American poetry in English</value>
+  </data>
+  <data name="Ddc_812" xml:space="preserve">
+    <value>American drama in English</value>
+  </data>
+  <data name="Ddc_813" xml:space="preserve">
+    <value>American fiction in English</value>
+  </data>
+  <data name="Ddc_814" xml:space="preserve">
+    <value>American essays in English</value>
+  </data>
+  <data name="Ddc_815" xml:space="preserve">
+    <value>American speeches in English</value>
+  </data>
+  <data name="Ddc_816" xml:space="preserve">
+    <value>American letters in English</value>
+  </data>
+  <data name="Ddc_817" xml:space="preserve">
+    <value>American humor and satire in English</value>
+  </data>
+  <data name="Ddc_818" xml:space="preserve">
+    <value>American miscellaneous writings</value>
+  </data>
+  <data name="Ddc_820" xml:space="preserve">
+    <value>English &amp; Old English literatures</value>
+  </data>
+  <data name="Ddc_821" xml:space="preserve">
+    <value>English poetry</value>
+  </data>
+  <data name="Ddc_822" xml:space="preserve">
+    <value>English drama</value>
+  </data>
+  <data name="Ddc_823" xml:space="preserve">
+    <value>English fiction</value>
+  </data>
+  <data name="Ddc_824" xml:space="preserve">
+    <value>English essays</value>
+  </data>
+  <data name="Ddc_825" xml:space="preserve">
+    <value>English speeches</value>
+  </data>
+  <data name="Ddc_826" xml:space="preserve">
+    <value>English letters</value>
+  </data>
+  <data name="Ddc_827" xml:space="preserve">
+    <value>English humor and satire</value>
+  </data>
+  <data name="Ddc_828" xml:space="preserve">
+    <value>English miscellaneous writings</value>
+  </data>
+  <data name="Ddc_829" xml:space="preserve">
+    <value>Old English (Anglo-Saxon) literature</value>
+  </data>
+  <data name="Ddc_830" xml:space="preserve">
+    <value>Literatures of Germanic languages</value>
+  </data>
+  <data name="Ddc_831" xml:space="preserve">
+    <value>German poetry</value>
+  </data>
+  <data name="Ddc_832" xml:space="preserve">
+    <value>German drama</value>
+  </data>
+  <data name="Ddc_833" xml:space="preserve">
+    <value>German fiction</value>
+  </data>
+  <data name="Ddc_834" xml:space="preserve">
+    <value>German essays</value>
+  </data>
+  <data name="Ddc_835" xml:space="preserve">
+    <value>German speeches</value>
+  </data>
+  <data name="Ddc_836" xml:space="preserve">
+    <value>German letters</value>
+  </data>
+  <data name="Ddc_837" xml:space="preserve">
+    <value>German humor and satire</value>
+  </data>
+  <data name="Ddc_838" xml:space="preserve">
+    <value>German miscellaneous writings</value>
+  </data>
+  <data name="Ddc_839" xml:space="preserve">
+    <value>Other Germanic literatures</value>
+  </data>
+  <data name="Ddc_840" xml:space="preserve">
+    <value>Literatures of Romance languages</value>
+  </data>
+  <data name="Ddc_841" xml:space="preserve">
+    <value>French poetry</value>
+  </data>
+  <data name="Ddc_842" xml:space="preserve">
+    <value>French drama</value>
+  </data>
+  <data name="Ddc_843" xml:space="preserve">
+    <value>French fiction</value>
+  </data>
+  <data name="Ddc_844" xml:space="preserve">
+    <value>French essays</value>
+  </data>
+  <data name="Ddc_845" xml:space="preserve">
+    <value>French speeches</value>
+  </data>
+  <data name="Ddc_846" xml:space="preserve">
+    <value>French letters</value>
+  </data>
+  <data name="Ddc_847" xml:space="preserve">
+    <value>French humor and satire</value>
+  </data>
+  <data name="Ddc_848" xml:space="preserve">
+    <value>French miscellaneous writings</value>
+  </data>
+  <data name="Ddc_849" xml:space="preserve">
+    <value>Occitan, Catalan, Franco-Provençal</value>
+  </data>
+  <data name="Ddc_850" xml:space="preserve">
+    <value>Italian, Romanian &amp; related literatures</value>
+  </data>
+  <data name="Ddc_851" xml:space="preserve">
+    <value>Italian poetry</value>
+  </data>
+  <data name="Ddc_852" xml:space="preserve">
+    <value>Italian drama</value>
+  </data>
+  <data name="Ddc_853" xml:space="preserve">
+    <value>Italian fiction</value>
+  </data>
+  <data name="Ddc_854" xml:space="preserve">
+    <value>Italian essays</value>
+  </data>
+  <data name="Ddc_855" xml:space="preserve">
+    <value>Italian speeches</value>
+  </data>
+  <data name="Ddc_856" xml:space="preserve">
+    <value>Italian letters</value>
+  </data>
+  <data name="Ddc_857" xml:space="preserve">
+    <value>Italian humor and satire</value>
+  </data>
+  <data name="Ddc_858" xml:space="preserve">
+    <value>Italian miscellaneous writings</value>
+  </data>
+  <data name="Ddc_859" xml:space="preserve">
+    <value>Romanian &amp; related literatures</value>
+  </data>
+  <data name="Ddc_860" xml:space="preserve">
+    <value>Spanish &amp; Portuguese literatures</value>
+  </data>
+  <data name="Ddc_861" xml:space="preserve">
+    <value>Spanish poetry</value>
+  </data>
+  <data name="Ddc_862" xml:space="preserve">
+    <value>Spanish drama</value>
+  </data>
+  <data name="Ddc_863" xml:space="preserve">
+    <value>Spanish fiction</value>
+  </data>
+  <data name="Ddc_864" xml:space="preserve">
+    <value>Spanish essays</value>
+  </data>
+  <data name="Ddc_865" xml:space="preserve">
+    <value>Spanish speeches</value>
+  </data>
+  <data name="Ddc_866" xml:space="preserve">
+    <value>Spanish letters</value>
+  </data>
+  <data name="Ddc_867" xml:space="preserve">
+    <value>Spanish humor and satire</value>
+  </data>
+  <data name="Ddc_868" xml:space="preserve">
+    <value>Spanish miscellaneous writings</value>
+  </data>
+  <data name="Ddc_869" xml:space="preserve">
+    <value>Portuguese and Galician literatures</value>
+  </data>
+  <data name="Ddc_870" xml:space="preserve">
+    <value>Latin &amp; related Italic literatures</value>
+  </data>
+  <data name="Ddc_871" xml:space="preserve">
+    <value>Latin poetry</value>
+  </data>
+  <data name="Ddc_872" xml:space="preserve">
+    <value>Latin dramatic poetry and drama</value>
+  </data>
+  <data name="Ddc_873" xml:space="preserve">
+    <value>Latin epic poetry and fiction</value>
+  </data>
+  <data name="Ddc_874" xml:space="preserve">
+    <value>Latin lyric poetry</value>
+  </data>
+  <data name="Ddc_875" xml:space="preserve">
+    <value>Latin speeches</value>
+  </data>
+  <data name="Ddc_876" xml:space="preserve">
+    <value>Latin letters</value>
+  </data>
+  <data name="Ddc_877" xml:space="preserve">
+    <value>Latin humor and satire</value>
+  </data>
+  <data name="Ddc_878" xml:space="preserve">
+    <value>Latin miscellaneous writings</value>
+  </data>
+  <data name="Ddc_879" xml:space="preserve">
+    <value>Literatures of other Italic languages</value>
+  </data>
+  <data name="Ddc_880" xml:space="preserve">
+    <value>Classical Greek &amp; Hellenic literatures</value>
+  </data>
+  <data name="Ddc_881" xml:space="preserve">
+    <value>Classical Greek poetry</value>
+  </data>
+  <data name="Ddc_882" xml:space="preserve">
+    <value>Classical Greek dramatic poetry &amp; drama</value>
+  </data>
+  <data name="Ddc_883" xml:space="preserve">
+    <value>Classical Greek epic poetry and fiction</value>
+  </data>
+  <data name="Ddc_884" xml:space="preserve">
+    <value>Classical Greek lyric poetry</value>
+  </data>
+  <data name="Ddc_885" xml:space="preserve">
+    <value>Classical Greek speeches</value>
+  </data>
+  <data name="Ddc_886" xml:space="preserve">
+    <value>Classical Greek letters</value>
+  </data>
+  <data name="Ddc_887" xml:space="preserve">
+    <value>Classical Greek humor and satire</value>
+  </data>
+  <data name="Ddc_888" xml:space="preserve">
+    <value>Classical Greek miscellaneous writings</value>
+  </data>
+  <data name="Ddc_889" xml:space="preserve">
+    <value>Modern Greek literature</value>
+  </data>
+  <data name="Ddc_890" xml:space="preserve">
+    <value>Literatures of other languages</value>
+  </data>
+  <data name="Ddc_891" xml:space="preserve">
+    <value>East Indo-European and Celtic literatures</value>
+  </data>
+  <data name="Ddc_892" xml:space="preserve">
+    <value>Afro-Asiatic literatures</value>
+  </data>
+  <data name="Ddc_893" xml:space="preserve">
+    <value>Non-Semitic Afro-Asiatic literatures</value>
+  </data>
+  <data name="Ddc_894" xml:space="preserve">
+    <value>Altaic, Uralic, Hyperborean &amp; Dravidian</value>
+  </data>
+  <data name="Ddc_895" xml:space="preserve">
+    <value>Literatures of East and Southeast Asia</value>
+  </data>
+  <data name="Ddc_896" xml:space="preserve">
+    <value>African literatures</value>
+  </data>
+  <data name="Ddc_897" xml:space="preserve">
+    <value>North American native literatures</value>
+  </data>
+  <data name="Ddc_898" xml:space="preserve">
+    <value>South American native literatures</value>
+  </data>
+  <data name="Ddc_899" xml:space="preserve">
+    <value>Austronesian &amp; other literatures</value>
+  </data>
+  <data name="Ddc_900" xml:space="preserve">
+    <value>History &amp; geography</value>
+  </data>
+  <data name="Ddc_901" xml:space="preserve">
+    <value>Philosophy and theory of history</value>
+  </data>
+  <data name="Ddc_902" xml:space="preserve">
+    <value>Miscellany of history</value>
+  </data>
+  <data name="Ddc_903" xml:space="preserve">
+    <value>Dictionaries &amp; encyclopedias</value>
+  </data>
+  <data name="Ddc_904" xml:space="preserve">
+    <value>Collected accounts of events</value>
+  </data>
+  <data name="Ddc_905" xml:space="preserve">
+    <value>Serial publications of history</value>
+  </data>
+  <data name="Ddc_906" xml:space="preserve">
+    <value>Organizations &amp; management</value>
+  </data>
+  <data name="Ddc_907" xml:space="preserve">
+    <value>Education, research &amp; related topics</value>
+  </data>
+  <data name="Ddc_908" xml:space="preserve">
+    <value>Groups of people</value>
+  </data>
+  <data name="Ddc_909" xml:space="preserve">
+    <value>World history</value>
+  </data>
+  <data name="Ddc_910" xml:space="preserve">
+    <value>Geography and travel</value>
+  </data>
+  <data name="Ddc_911" xml:space="preserve">
+    <value>Historical geography</value>
+  </data>
+  <data name="Ddc_912" xml:space="preserve">
+    <value>Maps and plans of surface of earth</value>
+  </data>
+  <data name="Ddc_913" xml:space="preserve">
+    <value>Geography of &amp; travel in ancient world</value>
+  </data>
+  <data name="Ddc_914" xml:space="preserve">
+    <value>Geography of and travel in Europe</value>
+  </data>
+  <data name="Ddc_915" xml:space="preserve">
+    <value>Geography of and travel in Asia</value>
+  </data>
+  <data name="Ddc_916" xml:space="preserve">
+    <value>Geography of and travel in Africa</value>
+  </data>
+  <data name="Ddc_917" xml:space="preserve">
+    <value>Geography of &amp; travel in North America</value>
+  </data>
+  <data name="Ddc_918" xml:space="preserve">
+    <value>Geography of &amp; travel in South America</value>
+  </data>
+  <data name="Ddc_919" xml:space="preserve">
+    <value>Geography of and travel in other areas</value>
+  </data>
+  <data name="Ddc_920" xml:space="preserve">
+    <value>Biography, genealogy, insignia</value>
+  </data>
+  <data name="Ddc_929" xml:space="preserve">
+    <value>Genealogy, names &amp; insignia</value>
+  </data>
+  <data name="Ddc_930" xml:space="preserve">
+    <value>History of ancient world to ca. 499</value>
+  </data>
+  <data name="Ddc_931" xml:space="preserve">
+    <value>China to 420</value>
+  </data>
+  <data name="Ddc_932" xml:space="preserve">
+    <value>Egypt to 640</value>
+  </data>
+  <data name="Ddc_933" xml:space="preserve">
+    <value>Palestine to 70</value>
+  </data>
+  <data name="Ddc_934" xml:space="preserve">
+    <value>India to 647</value>
+  </data>
+  <data name="Ddc_935" xml:space="preserve">
+    <value>Mesopotamia &amp; Iranian Plateau to 637</value>
+  </data>
+  <data name="Ddc_936" xml:space="preserve">
+    <value>Europe north &amp; west of Italy to ca. 499</value>
+  </data>
+  <data name="Ddc_937" xml:space="preserve">
+    <value>Italy &amp; adjacent territories to 476</value>
+  </data>
+  <data name="Ddc_938" xml:space="preserve">
+    <value>Greece to 323</value>
+  </data>
+  <data name="Ddc_939" xml:space="preserve">
+    <value>Other parts of ancient world</value>
+  </data>
+  <data name="Ddc_940" xml:space="preserve">
+    <value>History of Europe</value>
+  </data>
+  <data name="Ddc_941" xml:space="preserve">
+    <value>British Isles</value>
+  </data>
+  <data name="Ddc_942" xml:space="preserve">
+    <value>England and Wales</value>
+  </data>
+  <data name="Ddc_943" xml:space="preserve">
+    <value>Germany &amp; central Europe</value>
+  </data>
+  <data name="Ddc_944" xml:space="preserve">
+    <value>France and Monaco</value>
+  </data>
+  <data name="Ddc_945" xml:space="preserve">
+    <value>Italy, San Marino, Vatican City, Malta</value>
+  </data>
+  <data name="Ddc_946" xml:space="preserve">
+    <value>Spain, Andorra, Gibraltar, Portugal</value>
+  </data>
+  <data name="Ddc_947" xml:space="preserve">
+    <value>Russia &amp; east Europe</value>
+  </data>
+  <data name="Ddc_948" xml:space="preserve">
+    <value>Scandinavia and Finland</value>
+  </data>
+  <data name="Ddc_949" xml:space="preserve">
+    <value>Other parts of Europe</value>
+  </data>
+  <data name="Ddc_950" xml:space="preserve">
+    <value>History of Asia</value>
+  </data>
+  <data name="Ddc_951" xml:space="preserve">
+    <value>China and adjacent areas</value>
+  </data>
+  <data name="Ddc_952" xml:space="preserve">
+    <value>Japan</value>
+  </data>
+  <data name="Ddc_953" xml:space="preserve">
+    <value>Arabian Peninsula and adjacent areas</value>
+  </data>
+  <data name="Ddc_954" xml:space="preserve">
+    <value>India &amp; south Asia</value>
+  </data>
+  <data name="Ddc_955" xml:space="preserve">
+    <value>Iran</value>
+  </data>
+  <data name="Ddc_956" xml:space="preserve">
+    <value>Middle East (Near East)</value>
+  </data>
+  <data name="Ddc_957" xml:space="preserve">
+    <value>Siberia (Asiatic Russia)</value>
+  </data>
+  <data name="Ddc_958" xml:space="preserve">
+    <value>Central Asia</value>
+  </data>
+  <data name="Ddc_959" xml:space="preserve">
+    <value>Southeast Asia</value>
+  </data>
+  <data name="Ddc_960" xml:space="preserve">
+    <value>History of Africa</value>
+  </data>
+  <data name="Ddc_961" xml:space="preserve">
+    <value>Tunisia and Libya</value>
+  </data>
+  <data name="Ddc_962" xml:space="preserve">
+    <value>Egypt, Sudan, South Sudan</value>
+  </data>
+  <data name="Ddc_963" xml:space="preserve">
+    <value>Ethiopia and Eritrea</value>
+  </data>
+  <data name="Ddc_964" xml:space="preserve">
+    <value>Morocco, Ceuta, Melilla, Western Sahara</value>
+  </data>
+  <data name="Ddc_965" xml:space="preserve">
+    <value>Algeria</value>
+  </data>
+  <data name="Ddc_966" xml:space="preserve">
+    <value>West Africa and offshore islands</value>
+  </data>
+  <data name="Ddc_967" xml:space="preserve">
+    <value>Central Africa and offshore islands</value>
+  </data>
+  <data name="Ddc_968" xml:space="preserve">
+    <value>South Africa &amp; southern Africa</value>
+  </data>
+  <data name="Ddc_969" xml:space="preserve">
+    <value>South Indian Ocean islands</value>
+  </data>
+  <data name="Ddc_970" xml:space="preserve">
+    <value>History of North America</value>
+  </data>
+  <data name="Ddc_971" xml:space="preserve">
+    <value>Canada</value>
+  </data>
+  <data name="Ddc_972" xml:space="preserve">
+    <value>Mexico, Central America, West Indies</value>
+  </data>
+  <data name="Ddc_973" xml:space="preserve">
+    <value>United States</value>
+  </data>
+  <data name="Ddc_974" xml:space="preserve">
+    <value>Northeastern United States</value>
+  </data>
+  <data name="Ddc_975" xml:space="preserve">
+    <value>Southeastern United States</value>
+  </data>
+  <data name="Ddc_976" xml:space="preserve">
+    <value>South central United States</value>
+  </data>
+  <data name="Ddc_977" xml:space="preserve">
+    <value>North central United States</value>
+  </data>
+  <data name="Ddc_978" xml:space="preserve">
+    <value>Western United States</value>
+  </data>
+  <data name="Ddc_979" xml:space="preserve">
+    <value>Great Basin &amp; Pacific Slope region</value>
+  </data>
+  <data name="Ddc_980" xml:space="preserve">
+    <value>History of South America</value>
+  </data>
+  <data name="Ddc_981" xml:space="preserve">
+    <value>Brazil</value>
+  </data>
+  <data name="Ddc_982" xml:space="preserve">
+    <value>Argentina</value>
+  </data>
+  <data name="Ddc_983" xml:space="preserve">
+    <value>Chile</value>
+  </data>
+  <data name="Ddc_984" xml:space="preserve">
+    <value>Bolivia</value>
+  </data>
+  <data name="Ddc_985" xml:space="preserve">
+    <value>Peru</value>
+  </data>
+  <data name="Ddc_986" xml:space="preserve">
+    <value>Colombia and Ecuador</value>
+  </data>
+  <data name="Ddc_987" xml:space="preserve">
+    <value>Venezuela</value>
+  </data>
+  <data name="Ddc_988" xml:space="preserve">
+    <value>Guiana</value>
+  </data>
+  <data name="Ddc_989" xml:space="preserve">
+    <value>Paraguay and Uruguay</value>
+  </data>
+  <data name="Ddc_990" xml:space="preserve">
+    <value>History of other areas</value>
+  </data>
+  <data name="Ddc_993" xml:space="preserve">
+    <value>New Zealand</value>
+  </data>
+  <data name="Ddc_994" xml:space="preserve">
+    <value>Australia</value>
+  </data>
+  <data name="Ddc_995" xml:space="preserve">
+    <value>New Guinea &amp; Melanesia</value>
+  </data>
+  <data name="Ddc_996" xml:space="preserve">
+    <value>Polynesia &amp; Pacific Ocean islands</value>
+  </data>
+  <data name="Ddc_997" xml:space="preserve">
+    <value>Atlantic Ocean islands</value>
+  </data>
+  <data name="Ddc_998" xml:space="preserve">
+    <value>Arctic islands and Antarctica</value>
+  </data>
+  <data name="Ddc_999" xml:space="preserve">
+    <value>Extraterrestrial worlds</value>
+  </data>
+  <data name="VictoryMessage" xml:space="preserve">
+      <value>You won!</value>
+  </data>
+  <data name="DefeatMessage" xml:space="preserve">
+      <value>You Lost! The correct answer was {0}.</value>
+  </data>
 </root>
