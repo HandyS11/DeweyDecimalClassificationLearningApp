@@ -1,47 +1,48 @@
 ﻿using System.Globalization;
+using System.Diagnostics;
 
 namespace DeweyDecimalClassificationLearningApp.Helpers;
 
-[ContentProperty(nameof(BaseName))]
+[ContentProperty(nameof(ImageName))]
 public class LocalizedImageExtension : IMarkupExtension<ImageSource>
 {
-    public string BaseName { get; set; } = null!;
-    public string Extension { get; set; } = "png";
+    public string ImageName { get; set; }
+    public string ImageExtension { get; set; } = "png";
 
     public ImageSource ProvideValue(IServiceProvider serviceProvider)
     {
-        if (string.IsNullOrEmpty(BaseName)) return null!;
+        if (string.IsNullOrEmpty(ImageName)) return null!;
+        
+        var culture = CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
+        Debug.WriteLine($"Current culture: {culture}");
 
-        var lang = CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
-        var localizedImageName = $"{BaseName}_{lang}.{Extension}";
-        var fallbackImageName = $"{BaseName}.{Extension}";
-
-        var a = ImageSource.FromFile("dcc.png");
-        return a;
+        // Try localized version first
+        if (culture != "en") // Skip if already default language
+        {
+            var localizedImage = $"{ImageName}_{culture}.{ImageExtension}";
+            Debug.WriteLine($"Attempting to load localized image: {localizedImage}");
             
-        if (FileExists(localizedImageName))
-            return ImageSource.FromFile(localizedImageName);
+            try
+            {
+                var source = ImageSource.FromFile(localizedImage);
+                if (source != null)
+                {
+                    Debug.WriteLine($"Successfully loaded localized image: {localizedImage}");
+                    return source;
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error loading localized image: {ex.Message}");
+            }
+        }
 
-        if (FileExists(fallbackImageName))
-            return ImageSource.FromFile(fallbackImageName);
-
-        return null!;
+        // Fallback to default
+        var defaultImage = $"{ImageName}.{ImageExtension}";
+        Debug.WriteLine($"Loading default image: {defaultImage}");
+        return ImageSource.FromFile(defaultImage);
     }
 
-    private static bool FileExists(string filename)
-    {
-        try
-        {
-            var streamTask = FileSystem.OpenAppPackageFileAsync(filename);
-            streamTask.Wait();
-            return streamTask.Result != null;
-        }
-        catch(Exception ex)
-        {
-            return false;
-        }
-    }
-
-    object IMarkupExtension.ProvideValue(IServiceProvider serviceProvider)
+    object IMarkupExtension.ProvideValue(IServiceProvider serviceProvider) 
         => ProvideValue(serviceProvider);
 }
