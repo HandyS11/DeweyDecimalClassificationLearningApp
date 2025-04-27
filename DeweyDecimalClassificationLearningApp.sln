@@ -15,6 +15,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassification.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeweyDecimalClassification.Vms", "src\DeweyDecimalClassification.Vms\DeweyDecimalClassification.Vms.csproj", "{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sources", "Sources", "{547CAC52-6889-4359-8792-0549CF3DFBA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5EEC6E19-C44C-4279-BDAA-97537D991824}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		Directory.Packages.props = Directory.Packages.props
+		LICENSE = LICENSE
+		Nuget.config = Nuget.config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pipelines", "Pipelines", "{63E2DC5E-E154-415A-B49F-4591EFF37920}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,5 +64,10 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BDD5EA1A-5B8F-48BA-A329-DE815C2CDF89} = {E6C36282-D7D4-40A9-A4EC-3706E0509843}
+		{1AA40E66-B516-4708-A1C8-C96B771532EA} = {547CAC52-6889-4359-8792-0549CF3DFBA7}
+		{D0BBF4DB-F063-46C9-B20D-48A57DAB7473} = {547CAC52-6889-4359-8792-0549CF3DFBA7}
+		{CECF5F34-43C8-452D-BE1F-1FE97E8F0BF7} = {547CAC52-6889-4359-8792-0549CF3DFBA7}
+		{D8398AEB-B059-4345-9A01-1238CEBCB442} = {547CAC52-6889-4359-8792-0549CF3DFBA7}
+		{63E2DC5E-E154-415A-B49F-4591EFF37920} = {5EEC6E19-C44C-4279-BDAA-97537D991824}
 	EndGlobalSection
 EndGlobal
