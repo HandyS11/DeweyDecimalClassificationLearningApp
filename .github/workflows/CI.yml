@@ -1,6 +1,6 @@
-name: Build .NET MAUI App (CI)
+name: Build (CI)
 
-on: push
+on: pull_request
 
 jobs:
   build:
@@ -25,4 +25,4 @@ jobs:
       run: dotnet restore
 
     - name: Build solution
-      run: dotnet build
+      run: dotnet build --no-restore

@@ -1,6 +1,7 @@
 # DeweyDecimalClassificationLearningApp
 
-![CI](https://github.com/HandyS11/DeweyDecimalClassificationLearningApp/actions/workflows/dotnet.yml/badge.svg)
+![CI](https://github.com/HandyS11/DeweyDecimalClassificationLearningApp/actions/workflows/CI.yml/badge.svg)
+![CD](https://github.com/HandyS11/DeweyDecimalClassificationLearningApp/actions/workflows/CD.yml/badge.svg)
 
 ## 📝 Purpose
 
@@ -8,7 +9,7 @@ A MAUI made mobile app for learning the Dewey Decimal Classification
 
 ## 🛠 Languages & tools
 
-![skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider)
+![skills](https://skillicons.dev/icons?i=cs,dotnet,rider)
 
 ## 🖊️ Versions
 
@@ -17,4 +18,4 @@ A MAUI made mobile app for learning the Dewey Decimal Classification
 
 ## ✍️ Credits
 
-- Author: [**Valetin Clergue**](https://github.com/HandyS11)
+- Author: [**Valentin Clergue**](https://github.com/HandyS11)

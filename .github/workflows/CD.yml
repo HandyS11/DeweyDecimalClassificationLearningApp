@@ -1,4 +1,4 @@
-name: Build and publish .NET MAUI App (CD)
+name: Build and Publish (CD)
 
 on:
   push:
