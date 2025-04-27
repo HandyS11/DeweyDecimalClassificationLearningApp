@@ -1,0 +1,28 @@
+name: Build .NET MAUI App (CI)
+
+on: push
+
+jobs:
+  build:
+    permissions:
+        contents: read
+
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 9.0.x
+
+    - name: Install .NET MAUI
+      run: dotnet workload install maui
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build solution
+      run: dotnet build

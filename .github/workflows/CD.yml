@@ -1,4 +1,4 @@
-name: Build .NET MAUI App (CI)
+name: Build and publish .NET MAUI App (CD)
 
 on:
   push:
@@ -6,6 +6,9 @@ on:
 
 jobs:
   build:
+    permissions:
+        contents: read
+        actions: write
 
     runs-on: windows-latest
 
